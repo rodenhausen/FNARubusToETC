@@ -116,6 +116,7 @@ public class DescriptionNodeCreator {
 		distributionAbreviations.put("W.", "western");
 		distributionAbreviations.put("W.I.", "West Indies");
 		distributionAbreviations.put("W. Va.", "West Virginia");
+		distributionAbreviations.put("W.Va.", "West Virginia");
 		distributionAbreviations.put("Wash.", "Washington");
 		distributionAbreviations.put("Westw.", "westward");
 		distributionAbreviations.put("Wisc.", "Wisconsin");
@@ -136,6 +137,16 @@ public class DescriptionNodeCreator {
 		distributionAbreviations.put("St. P. et Miq.", "St. Pierre et Miquelon, south of Newfoundland");
 		distributionAbreviations.put("Subtrop.", "subtropical");
 		distributionAbreviations.put("Sw.", "southwest");
+		distributionAbreviations.put("Co.", "Colorado");
+		distributionAbreviations.put("Boston", "Boston");
+		distributionAbreviations.put("Mass", "Massachusetts");
+		distributionAbreviations.put("s.", "South");
+		distributionAbreviations.put("P.E.I", "Unknown");
+		distributionAbreviations.put("Cos.", "Unknown");
+		distributionAbreviations.put("Cape", "Cape");
+		distributionAbreviations.put("Pocono", "Pocono");
+		distributionAbreviations.put("Ct.", "Ct.");
+		distributionAbreviations.put("I.", "Island");
 	}
 	
 	public List<Element> getNodes(List<Element> source) {
@@ -148,7 +159,7 @@ public class DescriptionNodeCreator {
 
 	private List<Element> getDescriptions(String text) {
 		List<Element> result = new LinkedList<Element>();
-		String[] parts = text.split(",");
+		String[] parts = text.split(",|;");
 				
 
 		StringBuilder habitatResult = new StringBuilder();
@@ -193,12 +204,29 @@ public class DescriptionNodeCreator {
 				distriText = part;
 			}
 			
-			if(!phenologyPart && distri == true) {
+			if((!phenologyPart && (distri || (distriPart && !phenology)))) { 
 				distributionResult.append(distriText.trim() + ", ");
 				distriPart = true;
 			}
 			
-			if(phenology == true) {
+			if(phenology == true || phenologyPart) {
+				/*Matcher matcher = Pattern.compile(".*\\(()\\).*").matcher(phenologyText);
+				if(matcher.matches()) {
+					String parenthesisText = matcher.group(1);
+					String[] pTokens = parenthesisText.split("\\s+");
+					boolean pDistri = false;
+					for(String token : pTokens) {
+						if(this.distributionAbreviations.containsKey(token)) {
+							pDistri = true;
+						}
+					}
+					if(pDistri) {
+						String[] pParts = phenologyText.split("\\(");
+						String[] pParts2 = pParts[1].split("\\)");
+						phenologyText = pParts[0] + ", " + pParts2[1];
+					}
+				}*/
+				
 				phenologyResult.append(phenologyText.trim() + ", " );
 				phenologyPart = true;
 			}
@@ -235,7 +263,7 @@ public class DescriptionNodeCreator {
 	public static void main(String[] args) throws JDOMException, IOException {
 		File input = new File("taxonomy_Rubus");
 		for(File inputFile : input.listFiles()) {
-			//System.out.println(inputFile.getName());
+			System.out.println(inputFile.getName());
 			SAXBuilder builder = new SAXBuilder();
 			Document inputDoc = (Document) builder.build(inputFile);
 			Element inputRoot = inputDoc.getRootElement();
