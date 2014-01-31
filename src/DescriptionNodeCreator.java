@@ -236,9 +236,32 @@ public class DescriptionNodeCreator {
 		}
 
 		
+		String habitatText = habitatResult.toString().trim();
+		String phenologyText = phenologyResult.toString().trim();
+		String distriText = distributionResult.toString().trim();
+		
 		System.out.println("Habitat: " + habitatResult.toString().trim());
 		System.out.println("Distribution: " + distributionResult.toString().trim());
 		System.out.println("Phenology: " + phenologyResult.toString().trim());
+		
+		if(!habitatText.isEmpty()) {
+			Element habitatElement = new Element("description");
+			habitatElement.setAttribute("type", "habitat");
+			habitatElement.setText(habitatText);
+			result.add(habitatElement);
+		}
+		if(!distriText.isEmpty()) {
+			Element distriElement = new Element("description");
+			distriElement.setAttribute("type", "distribution");
+			distriElement.setText(distriText);
+			result.add(distriElement);
+		}
+		if(!phenologyText.isEmpty()) {
+			Element phenologyElement = new Element("description");
+			phenologyElement.setAttribute("type", "phenology");
+			phenologyElement.setText(phenologyText);
+			result.add(phenologyElement);
+		}
 		
 		/*StringBuilder normalizedText = new StringBuilder();
 		

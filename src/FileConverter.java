@@ -309,7 +309,7 @@ public class FileConverter {
 			parent.addContent(node);
 		}
 		for(Element node : sourceNodes) 
-			this.removeFromUnusedElementsRecursively(sourceNode);
+			this.removeFromUnusedElementsRecursively(node);
 	}
 	
 	private void removeFromUnusedElementsRecursively(Element node) {
