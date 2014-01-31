@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>amicalis</species_name>
+    <species_authority>blanch.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section canadenses;species amicalis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(friendly)</other_name>
+  <number>149</number>
+  <description>Very similar to no. 148 and perhaps a phase of it; differing in having scattered slender prickles on the canes (2-10 per dm.); petioles of primocane-leaves smooth or only sparsely prickly; the unarmed leaflets relatively narrow, the median ones tapering to a cuneate or subcuneate base and on short petiolules (3-13 mm. long); raceme rather short, its lower bracteal leaves or leaflets toothed to base, the -pedicels 1-3.5 cm. long.</description>
+  <habitat_elevation_distribution_or_ecology>N.B. and N.S. to sw. Me.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>idaeus</species_name>
+    <species_authority>l.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus idaeobatus;section idaeanthi;species idaeus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(of mt. ida), raspberry, framboisier (que.)</other_name>
+  <number>9</number>
+  <description>Canes upright, biennial, not rooting at tip, arising from subterranean suckers and stolons, prickly, bristly or smoothish; leaves of primocanes pinnate (rarely simple), with 3-7 mostly oblong-ovate to -lanceolate cut serrate pointed leaflets, the lateral ones sessile, white or gray beneath; leaves of fruiting canes mostly ternate; flowers drooping, from upper axils or in small clusters, about 1 cm. broad; calyx often bristly, its lobes (excluding slender tip) about equaling the narrow white subascending petals; fruit depressed-globose to conic-thimbleshaped, red (rarely yellow), falling intact from the dry receptacle.</description>
+  <habitat_elevation_distribution_or_ecology>Highly variable circumboreal type. We have the following:</habitat_elevation_distribution_or_ecology>
+  <key>
+    <key_heading>Key 31</key_heading>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Inflorescence without glands or minute bristles.</statement>
+      <next_statement_id>9</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>9</statement_id>
+      <statement>Prickles of primocanes strong and obviously broadened at base</statement>
+      <determination>R. idaeus (typical).</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>9</statement_id>
+      <statement>Prickles wanting; canes smooth</statement>
+      <determination>Forma inermis.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Inflorescence bearing glands and minute bristles; primocanes usually bearing slender bristles and often stipitate glands2.</statement>
+      <next_statement_id>2</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Bark of primocanes glabrous or at most glaucous beneath the bristles, in age becoming lustrous3.</statement>
+      <next_statement_id>3</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Prickles mostly strong and obviously broadened at base</statement>
+      <determination>Var. aculeatissimus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>3. Prickles (when present) bristleform and not much thickened at base4.</statement>
+      <next_statement_id>4</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Leaves of the primocanes with oblong to ovate acuminate leaflets; of fruiting canes with 3 (rarely 6) similar but shorter leaflets.</statement>
+      <next_statement_id>7</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>7</statement_id>
+      <statement>Primocanes bristly</statement>
+      <determination>Var. strigosus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>7</statement_id>
+      <statement>Primocanes without bristles</statement>
+      <determination>Forma  tonsus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Leaves of primocanes with 3 short-ovate to suborbicular round-tipped or blunt leaflets; of fruiting canes simple and rounded or at most 3-lobed</statement>
+      <determination>Var. Egglestonii.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Bark of primocanes cinereous-tomentulose beneath the prickles5.</statement>
+      <next_statement_id>5</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>5</statement_id>
+      <statement>Many of the prickles stout and broad-based</statement>
+      <determination>Var.  heterolasius.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>5</statement_id>
+      <statement>Prickles all bristleform6.</statement>
+      <next_statement_id>6</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>6</statement_id>
+      <statement>Leaves with distinct lanceolate to ovate acuminate leaflets.</statement>
+      <next_statement_id>8</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>8</statement_id>
+      <statement>Leaflets lanceolate to ovate, coarsely toothed or merely lobed</statement>
+      <determination>Var. canadensis.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>8</statement_id>
+      <statement>Leaflets narrowly lanceolate, caudate-tipped, those of primocanes cleft nearly or quite to base</statement>
+      <determination>Var.  caudatus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>6</statement_id>
+      <statement>Leaves with simple rounded or round-lobed blades or with 3 barely separate rounded leaflets</statement>
+      <determination>Var.  eucyclus.</determination>
+    </key_statement>
+  </key>
+  <description />
+</treatment>
+

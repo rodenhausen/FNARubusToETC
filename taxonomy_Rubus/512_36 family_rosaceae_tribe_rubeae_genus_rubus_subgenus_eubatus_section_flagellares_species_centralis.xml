@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>centralis</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species centralis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(central)</other_name>
+  <number>36</number>
+  <description>Differing from nos. 34 and 35 in the weakly armed canes; leaflets of primocane-leaves rotund-ovate, nearly as broad as long, gradually tapering to short tips, coarsely dentate as in nos. 19 and 23, broadly rounded to subcordate at base, grayish-pilose above, densely soft-pilose beneath, the petiole pilose; floricane-leaflets mostly oblong; suberect glandular and villous pedicels shorter than or but slightly longer than subtending bracts; petals 7 or 8 mm. broad; fruit 1.5-2 cm. long.</description>
+  <habitat_elevation_distribution_or_ecology>Wooded slopes and openings, Ind.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

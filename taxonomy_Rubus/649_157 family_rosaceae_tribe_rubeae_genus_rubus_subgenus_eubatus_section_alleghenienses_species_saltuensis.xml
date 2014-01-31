@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>saltuensis</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section alleghenienses;species saltuensis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(of bushy pastures)</other_name>
+  <number>157</number>
+  <description>Similar to no. 156, but primocane with only 20-30 straight prickles per dm.; petiole, petiolules and midrib beneath of leaflets scantily armed or the latter essentially unarmed; leaflets with fine double serration; terminal leaflet with broadly rounded subcordate base; inflorescence racemose-corymbiform, broadest at summit, the rachis and long (up to 5.5 cm.) pedicels only sparsely stipitate-glandular; calyx-lobes ovate, short-tipped.</description>
+  <habitat_elevation_distribution_or_ecology>Shaded thickets, Tolland Co., Ct.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

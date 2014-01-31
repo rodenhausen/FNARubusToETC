@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>31.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>saxatilis</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <place_of_publication>
+      <publication_title>Sp. Pl.</publication_title>
+      <place_in_publication>1: 494. 1753</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species saxatilis;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Stone bramble</other_info>
+  <description>Herbs or subshrubs, 0.5--4 dm, armed or unarmed. Stems creeping, &lt;+/- woody basally&gt;, sparsely to densely hairy, eglandular, not pruinose; prickles absent or sparse, erect, weak, 1--3 mm, narrow-based. Leaves deciduous, ternate; stipules &lt;free from petioles&gt;, lanceolate to ovate or elliptic, 6--11 mm; &lt;petiole 2--11 cm; petiolule of terminal leaflet 8--20 mm; lateral leaflet sessile or subsessile&gt;; terminal leaflets ovate to elliptic, 4--8 x 3--7 cm, base tapered, unlobed, &lt;lateral leaflets sometimes shallowly lobed&gt;, margins coarsely doubly serrate, apex acute, abaxial surfaces unarmed, sparsely hairy, eglandular. Inflorescences axillary, 1--6-flowered, cymiform or umbelliform. Pedicels unarmed or prickles weak, erect, hairy, eglandular or sparsely stipitate-glandular. Flowers bisexual; petals greenish white, narrowly obovate, 5.5--7 mm; filaments laminar; ovaries glabrous. Fruits red, globose, 0.5--1.5 cm; drupelets 1--10, not or weakly coherent, separating with torus attached. 2n = 28.</description>
+  <phenology_info>
+    <text>Flowering May--Jul.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+  </phenology_info>
+  <habitat>birch scrub, talus slopes</habitat>
+  <elevation>1300--2100 m;</elevation>
+  <global_distribution>Greenland</global_distribution>
+  <global_distribution>Eurasia.</global_distribution>
+  <discussion>Rubus saxatilis is defined by its creeping, unarmed or weakly armed stems, ternate leaves, and relatively small white petals. The species is known in the flora area from only two sites in southern Greenland (T. W. Böcher 1938; D. B. Jensen and K. D. Christensen 2003).</discussion>
+</treatment>
+

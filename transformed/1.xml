@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>2.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>RUBUS</genus_name>
+    <genus_authority>Linnaeus</genus_authority>
+    <place_of_publication>
+      <publication_title>Sp. Pl.</publication_title>
+      <place_in_publication>1: 492. 1753</place_in_publication>
+    </place_of_publication>
+    <place_of_publication>
+      <publication_title>Gen. Pl. ed.</publication_title>
+      <place_in_publication>5, 218. 1754</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus RUBUS;</taxon_hierarchy>
+  </TaxonIdentification>
+  <etymology>[Ancient Latin name for bramble, from ruber , red]</etymology>
+  <other_info>* Bramble</other_info>
+  <author>Lawrence A. Alice</author>
+  <author>Douglas H. Goldman</author>
+  <author>James A. Macklin</author>
+  <author>Gerry Moore</author>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Dalibarda</genus_name>
+    <genus_authority>Linnaeus</genus_authority>
+  </TaxonIdentification>
+  <description>Shrubs, subshrubs, or herbs, perennial, 0.5--30(--50) dm; fibrous, +/- woody in species with larger plants. Stems 1--several, &lt;biennial or perennial, rarely annual (R. illecebrosus)&gt;, erect, arching, mounding, or creeping, rarely decumbent, ascending, or scrambling, &lt;rooting or not at nodes or tips, terete or angled&gt;; &lt;prickles absent or sparse to dense, erect to retrorse, weak to stout, broad based or not; bristles absent or sparse to dense, erect to slightly retrorse, weak to stiff&gt;; glabrous or hairy, eglandular or stipitate-glandular, sometimes sessile-glandular, &lt;pruinose or not&gt;. Leaves winter persistent or deciduous, rarely semipersistent, cauline; stipules filiform or elliptic to ovate, margins entire; petiole present; blade reniform to orbiculate, 2--30 cm, herbaceous to +/- coriaceous, leaflets 0 or 3, 5, 7, or 9, terminal ovate to elliptic to obovate, &lt;1.7--15 cm, base cuneate to rounded or cordate, sometimes truncate, rarely tapered or obtuse, unlobed or lobed&gt;, margins flat or revolute, finely to coarsely crenate, dentate to doubly dentate, or serrate to doubly serrate, abaxial surface &lt;unarmed or with prickles on midvein consistent with those on stems&gt;, glabrous or +/- densely hairy, eglandular or +/- densely stipitate-glandular, sometimes sessile-glandular, along veins. Inflorescences axillary or terminal, 1--35(--100)-flowered, cymiform, racemiform, umbelliform, thyrsiform, or paniculiform, glabrous or sparsely to densely pubescent, &lt;eglandular or sparsely to densely glandular, armed or unarmed&gt;; bracts usually present; bracteoles absent. Pedicels present, &lt;unarmed or sparsely armed with prickles similar to those of stems, glabrous or sparsely to densely hairy, eglandular or sparsely to densely stipitate-glandular, sometimes sessile-glandular&gt;. Flowers bisexual (unisexual in R. chamaemorus, R. ursinus, and subg. Micranthobatus sensu Kalkman), 5--80 mm diam.; hypanthium 3--10 mm diam., glabrous or sparsely to densely pubescent, &lt;eglandular or sparsely to densely glandular&gt;; sepals 5, erect or spreading to reflexed, lanceolate to long-caudate, &lt;unarmed or armed, glabrous or hairy, eglandular or sparsely to densely stipitate-glandular, sometimes sessile-glandular&gt;; petals (0--)5(or 6), white to pink or magenta, suborbiculate to elliptic, obovate, or spatulate; stamens 20--100+, shorter to longer than petals, &lt;filaments filiform or laminar&gt;; carpels glabrous or hairy, &lt;styles slender or clavate&gt;. Fruits aggregated drupelets, (1--)5--100[--150], &lt;not or weakly to strongly coherent&gt;, separating with or without torus attached, golden yellow to red or black, globose to hemispheric or cylindric, 5--20 mm, &lt;fleshy or dryish&gt;, glabrous or finely hairy, &lt;sometimes pruinose&gt;; hypanthium usually persistent; sepals usually persistent, usually reflexed. Seeds 1 per drupelet. x = 7.</description>
+  <number_of_infrataxa>Species 250--700 (37 in the flora):</number_of_infrataxa>
+  <global_distribution>North America</global_distribution>
+  <global_distribution>Mexico</global_distribution>
+  <global_distribution>West Indies</global_distribution>
+  <global_distribution>Central America</global_distribution>
+  <global_distribution>South America</global_distribution>
+  <global_distribution>Eurasia</global_distribution>
+  <global_distribution>Africa</global_distribution>
+  <global_distribution>Pacific Islands (Hawaii)</global_distribution>
+  <global_distribution>Pacific Islands (New Zealand)</global_distribution>
+  <global_distribution>Australia</global_distribution>
+  <global_distribution>introduced widely.</global_distribution>
+  <discussion>Molecular data (L. A. Alice and C. S. Campbell 1999) have shown Rubus to be monophyletic when including Dalibarda (R. repens). These data also show that long-recognized infrageneric taxa, such as the raspberries (subg. Idaeobatus Focke) and dwarf raspberries [subg. Cylactis (Rafinesque) Focke], may not be monophyletic. Although species are not organized here according to subgenera, they would belong to L. H. Bailey’s (1941--1945) subgeneric treatment as follows: flowering raspberries or thimbleberries [subg. Anoplobatus (Focke) Focke, species 3, 9, 18, 22, 23], snow raspberries [subg. Chamaebatus (Focke) Focke, species 19], cloudberries or baked-apple berries [subg. Chamaemorus (Hill) Focke, species 7], dwarf raspberries or plumboys (subg. Cylactis, species 2, 16, 26, 29, 31), raspberries (subg. Idaeobatus, species 11, 13, 14, 17, 20, 21, 24, 28, 33), and blackberries (subg. Rubus, species 1, 4--6, 8, 10, 12, 15, 25, 27, 32, 34, 35, 36, 37). L. H. Bailey (1941) did not include Dalibarda repens (30. R. repens) in Rubus, but W. O. Focke (1911) included it in subg. Dalibarda (as the illegitimate name, R. dalibarda Linnaeus).</discussion>
+  <discussion>Rubus, especially the blackberries, presents some of the most difficult species-level problems, because of polyploidy, apomixis, and hybridization. As a result, differences of opinion on the number of species to be recognized from a given region can vary tremendously (for example, treatments in M. L. Fernald 1950 and H. A. Gleason and A. Cronquist 1991 for the northern half of the eastern United States plus parts of southeastern Canada, the former recognizing 205 species, the latter 25). A relatively conservative approach is taken here, one with much precedent (for example, A. E. Radford et al. 1968; R. G. Brown and M. L. Brown 1972; R. K. Godfrey and J. W. Wooten 1981; E. G. Voss 1972--1996, vol. 2; Great Plains Flora Association 1986; Godfrey 1988; Gleason and Cronquist; A. F. Rhoads and W. M. Klein 1993; E. B. Smith 1994; R. S. Mitchell and G. C. Tucker 1997; R. P. Wunderlin 1998; D. W. Magee and H. E. Ahles 1999; T. S. Cooperrider et al. 2001; R. L. Jones 2005; A. S. Weakley 2012; Weakley et al. 2012).</discussion>
+  <discussion>The decision to treat Rubus conservatively herein is due in part to the broad geographic distribution of many species in which quantitative characters are highly variable and the general absence of empirical data demonstrating that minor morphological variants are genetically based and not environmentally plastic. There is an overall lack of comprehensive herbarium specimens (for example, primocane, floricane with flowers and/or fruits, and habit data) making study difficult. Regarding Rubus, R. K. Godfrey (1988) wrote, "oversimplification appears to be the only way to achieve a practicable solution to the dilemma."</discussion>
+  <discussion>Other genera present a similar predicament by containing a large number of microspecies, such as Alchemilla, Crepis, Hieracium, Oenothera, and Taraxacum. W. Dietrich et al. (1997) stated for Oenothera taxonomy, and equally applicable to Rubus, that "immense splitting would result in a taxonomic system where even the specialist would lose the overview." See P. A. Rydberg (1913c), L. H. Bailey (1941--1945), P. D. Strausbaugh and E. L. Core (1978), H. A. Davis (1990), and M. P. Widrlechner (1998) for Rubus treatments that recognize many species.</discussion>
+  <discussion>Definitions for two morphologic terms primarily associated with Rubus are: primocane, a biennial or perennial stem prior to being developed enough for flowering, with flowering not occurring until at least its second season of growth, and floricane, a biennial or perennial stem after it has begun flowering, which does not occur until at least its second season of growth (R. W. Kiger and D. M. Porter 2001). Parcifrond is an elongate, sparsely leafy, sterile branch arising from a floricane proximal to its flowering branches. Novirame is a fertile (flowering, fruiting) branch on a primocane. Descriptions in this treatment are based on primocanes and floricanes, and exclude parcifronds and novirames.</discussion>
+  <discussion>In key leads and descriptions, references to leaves are for those on primocanes, unless otherwise indicated. Rubus inflorescences have been described as cymose or racemose. The inflorescences are determinate (thus cymose), with the terminal flower opening first. Flowering then proceeds acropetally (J. C. Guillard 1857; H. W. Rickett 1944), a pattern that is more typical of racemes. In the treatment here, inflorescences are described as cymiform, umbelliform, paniculiform, racemiform, or thyrsiform, these characterizations based on what the inflorescence most closely resembles. Also, inflorescence descriptions here refer to the flowering structures that generally terminate a branch distal to the leaves on that branch, including undivided, smaller, bractlike leaves. In plants with racemiform, paniculiform, or thyrsiform inflorescences, smaller axillary inflorescences containing one to few flowers are common and typically occur just proximal to the main inflorescences. Although most Rubus species in the flora area bear inflorescences that terminate a branch, such inflorescences often can appear to be axillary if terminating very short, leafy, axillary branches. Especially in subg. Rubus, terminal inflorescences almost always form on lateral branches, but occasionally form on a distal extension of the primocane of the previous year. In the flora area, native species in subg. Rubus have shorter floricanes, generally less than 30 cm; most non-native members in the flora area can have floricane branches exceeding 1 m.</discussion>
+  <discussion>Rubus shows diversity in armature and glands. Prickles, which protect the plant and aid some species in climbing, range from stout and broad-based to weak and narrow-based. Bristles may be stiff or weak. Prickles and bristles range from erect to retrorse. Generally, plants with sparse armature have spaces between the prickle bases or bristles that are more than 2--3 times the length of the prickles or bristles; plants with dense armature have spaces that are equal to or less than lengths. Glands vary significantly in size and shape and can be stalked or sessile. Glandularity is not always obvious; glands are sometimes hidden by other hairs or can be very small. Sessile glands can be less than 0.2 mm long or wide, requiring a good lens to be viewed; they are spheric to obovoid, whereas stipitate glands can be spheric to obovoid or discoid to cupulate.</discussion>
+  <discussion>Cultivars of blackberries and raspberries are grown for their edible fruit, and other Rubus taxa are grown for their ornamental value. Cultivars of blackberries have parentages or origins that include species native to North America and Europe, as well as red raspberry (for example, R. idaeus subsp. idaeus and subsp. strigosus) (J. R. Clark et al. 2007). Cultivars of red and black raspberries are primarily derived from R. idaeus and R. occidentalis, respectively. Purple raspberry cultivars are derived from the crossing of red and black raspberries. In both black and red raspberries, a lack of anthocyanin pigments can lead to the production of yellowish fruit. Cultivars of R. idaeus with yellowish fruit are sold as golden or amber raspberries. The Logan and Boysen cultivars are widely grown for their excellent fruits. Both cultivars are polyploid (6x and 8x respectively) involving R. ursinus as the maternal parent. In Loganberry, the paternal parent is R. idaeus subsp. idaeus, while Boysenberry has a more complicated ancestry.</discussion>
+  <discussion>Due to horticultural or agricultural interest, it can be expected that more Rubus species will be introduced into the flora, with some naturalizing. Rubus tomentosus Borkhausen var. canescens (de Candolle) Wirtgen, a European species similar to R. bifrons and R. vestitus but much more pubescent than either, was reported growing wild in a small area in Randolph County, West Virginia (E. E. Hutton and R. B. Clarkson 1961), although more recently it has not been confirmed as naturalized there (P. J. Harmon et al. 2006). Rubus hirsutus Thunberg, native of China, Japan, and the Korean peninsula (L. Lingdi and D. E. Boufford 2003), was found naturalized in a woodland in Chapel Hill, North Carolina (D. Goldman, pers. obs.).</discussion>
+  <references>
+    <reference>Alice, L. A. and C. S. Campbell. 1999. Phylogeny of Rubus (Rosaceae) based on nuclear ribosomal DNA internal transcribed spacer region sequences. Amer. J. Bot. 86: 81--97. Bailey, L. H. 1941--1945. Species batorum. The genus Rubus in North America (north of Mexico) I--X. Gentes Herb. 5: 1--918. Davis, H. A. 1990. Studies in Rubus. Castanea 55: 22--30. Davis, H. A., A. M. Fuller, and T. Davis. 1967--1970. Contributions towards the revision of eubati of eastern North America. Castanea 32: 20--37; 33: 50--76, 206--241; 34: 157--179, 235--266; 35: 176--194. Widrlechner, M. P. 1998. The genus Rubus L. in Iowa. Castanea 63: 415--465. Weakley, A. S., J. C. Ludwig, and J. F. Townsend. 2012. Flora of Virginia. Botanical Research Institute of Texas Press. Fort Worth, Texas.</reference>
+  </references>
+  <key>
+    <key_statement>
+      <statement_id>1.</statement_id>
+      <statement>Leaves simple.</statement>
+      <next_statement_id>2.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>2.</statement_id>
+      <statement>Plants armed.</statement>
+      <next_statement_id>3.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>3.</statement_id>
+      <statement>Stipules broadly elliptic to ovate</statement>
+      <determination>19. Rubus nivalis (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>3.</statement_id>
+      <statement>Stipules filiform to linear</statement>
+      <determination>36. Rubus ursinus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>2.</statement_id>
+      <statement>Plants unarmed.</statement>
+      <next_statement_id>4.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>4.</statement_id>
+      <statement>Herbs (stems sometimes woody basally).</statement>
+      <next_statement_id>5.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>5.</statement_id>
+      <statement>Flowers unisexual</statement>
+      <determination>7. Rubus chamaemorus</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>5.</statement_id>
+      <statement>Flowers bisexual.</statement>
+      <next_statement_id>6.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>6.</statement_id>
+      <statement>Leaves unlobed; (sterile petaliferous flowers present)</statement>
+      <determination>30. Rubus repens</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>6.</statement_id>
+      <statement>Leaves 3--5-lobed.</statement>
+      <next_statement_id>7.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>7.</statement_id>
+      <statement>Ovaries glabrous or sparsely hairy</statement>
+      <determination>2. Rubus arcticus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>7.</statement_id>
+      <statement>Ovaries densely hairy</statement>
+      <determination>16. Rubus lasiococcus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>4.</statement_id>
+      <statement>Shrubs.</statement>
+      <next_statement_id>8.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>8.</statement_id>
+      <statement>Leaf blades (5-- )10 --25(--30) cm wide; styles glabrous.</statement>
+      <next_statement_id>9.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>9.</statement_id>
+      <statement>Petals usually magenta, rarely white; stems, abaxial leaf surfaces, and pedicels: stipitate glands dark purple</statement>
+      <determination>22. Rubus odoratus</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>9.</statement_id>
+      <statement>Petals white; stems, abaxial leaf surfaces, and pedicels: stipitate glands yellowish to reddish</statement>
+      <determination>23. Rubus parviflorus</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>8.</statement_id>
+      <statement>Leaf blades (2.5-- )3 --5.5(--8) cm wide; styles villous.</statement>
+      <next_statement_id>10.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>10.</statement_id>
+      <statement>Leaf blades orbiculate to reniform; fruits dark purple</statement>
+      <determination>9. Rubus deliciosus</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>10.</statement_id>
+      <statement>Leaf blades cordate to broadly ovate; fruits red or deep red.</statement>
+      <next_statement_id>11.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>11.</statement_id>
+      <statement>Abaxial leaf surfaces glabrous or sparsely hairy; Idaho, Oregon</statement>
+      <determination>3. Rubus bartonianus</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>11.</statement_id>
+      <statement>Abaxial leaf surfaces moderately hairy; Arizona, Colorado, New Mexico, Utah</statement>
+      <determination>18. Rubus neomexicanus</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>1.</statement_id>
+      <statement>Leaves compound.</statement>
+      <next_statement_id>12.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>12.</statement_id>
+      <statement>Stems strongly pruinose.</statement>
+      <next_statement_id>13.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>13.</statement_id>
+      <statement>Stems creeping; plants to 3 dm.</statement>
+      <next_statement_id>14.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>14.</statement_id>
+      <statement>Leaflet abaxial surfaces densely white-tomentose; drupelets separating from tori</statement>
+      <determination>11. Rubus glaucifolius</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>14.</statement_id>
+      <statement>Leaflet abaxial surfaces sparsely to densely hairy, but not white-tomentose; drupelets separating with tori attached.</statement>
+      <next_statement_id>15.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>15.</statement_id>
+      <statement>Flowers bisexual; fruits pruinose</statement>
+      <determination>5. Rubus caesius</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>15.</statement_id>
+      <statement>Flowers usually functionally unisexual; fruits not pruinose</statement>
+      <determination>36. Rubus ursinus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>13.</statement_id>
+      <statement>Stems erect, ascending, or arching, sometimes climbing over other vegetation; plants 5+ dm .</statement>
+      <next_statement_id>16.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>16.</statement_id>
+      <statement>Leaves pinnately compound.</statement>
+      <next_statement_id>17.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>17.</statement_id>
+      <statement>Leaflet abaxial surfaces unarmed or with prickles; petals white to greenish white; fruits red to whitish, rarely amber; not Florida</statement>
+      <determination>13. Rubus idaeus</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>17.</statement_id>
+      <statement>Leaflet abaxial surfaces with scattered, reflexed , broad-based prickles on midveins; petals pink to magenta; fruits purple-black; Florida</statement>
+      <determination>20. Rubus niveus</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>16.</statement_id>
+      <statement>Leaves palmately compound or ternate.</statement>
+      <next_statement_id>18.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>18.</statement_id>
+      <statement>Stems usually moderately, rarely sparsely, hairy, hairs stellate; inflorescences 10--60-flowered, paniculiform or thyrsiform; drupelets separating with tori attached</statement>
+      <determination>35. Rubus ulmifolius</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>18.</statement_id>
+      <statement>Stems glabrous or sparsely puberulent; inflorescences (1-- )3 --10(--20)-flowered, flat-topped cymiform, cymiform, or umbelliform; drupelets separating from tori.</statement>
+      <next_statement_id>19.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>19.</statement_id>
+      <statement>Lateral leaflets stalked (at least 2 larger ones); leaflet apices acuminate; w North America</statement>
+      <determination>17. Rubus leucodermis</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>19.</statement_id>
+      <statement>Lateral leaflets sessile or subsessile; leaflet apices acute; e North America, Great Plains</statement>
+      <determination>21. Rubus occidentalis</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>12.</statement_id>
+      <statement>Stems not pruinose or some stems weakly pruinose.</statement>
+      <next_statement_id>20 .</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>20 .</statement_id>
+      <statement>Plants to 3 dm (rarely to 7 dm in R. trivialis , but then falling); stems usually creeping, sometimes erect but low growing, or higher only when using shrubs for support.</statement>
+      <next_statement_id>21.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>21.</statement_id>
+      <statement>Stems unarmed, without prickles or bristles.</statement>
+      <next_statement_id>22.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>22.</statement_id>
+      <statement>Stems erect, not creeping</statement>
+      <determination>2. Rubus arcticus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>22.</statement_id>
+      <statement>Stems creeping.</statement>
+      <next_statement_id>23.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>23.</statement_id>
+      <statement>Leaflets 5, rarely 3; (lateral leaflets deeply lobed, sinuses extending nearly to leaflet base)</statement>
+      <determination>26. Rubus pedatus</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>23.</statement_id>
+      <statement>Leaflets 3(--5); (lateral leaflets not or shallowly lobed).</statement>
+      <next_statement_id>24.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>24.</statement_id>
+      <statement>Ovaries densely hairy</statement>
+      <determination>16. Rubus lasiococcus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>24.</statement_id>
+      <statement>Ovaries glabrous</statement>
+      <determination>29. Rubus pubescens</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>21.</statement_id>
+      <statement>Stems armed, with prickles and/or bristles.</statement>
+      <next_statement_id>25.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>25.</statement_id>
+      <statement>Stipules lanceolate or elliptic to ovate.</statement>
+      <next_statement_id>26.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>26.</statement_id>
+      <statement>Stipules adnate to petioles; leaflet abaxial surfaces with prickles along midveins</statement>
+      <determination>19. Rubus nivalis (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>26.</statement_id>
+      <statement>Stipules free from petioles; leaflet abaxial surfaces without prickles along midveins</statement>
+      <determination>31. Rubus saxatilis</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>25.</statement_id>
+      <statement>Stipules filiform to linear or lanceolate.</statement>
+      <next_statement_id>27.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>27.</statement_id>
+      <statement>Leaflet abaxial surfaces whitish-tomentose or short-velutinous.</statement>
+      <next_statement_id>28.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>28.</statement_id>
+      <statement>Leaves palmately compound; fruits black; drupelets separating with tori attached</statement>
+      <determination>4. Rubus bifrons (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>28.</statement_id>
+      <statement>Leaves ternate or pinnately compound; fruits red ; drupelets separating from tori</statement>
+      <determination>24. Rubus parvifolius</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>27.</statement_id>
+      <statement>Leaflet abaxial surfaces glabrous or sparsely to densely hairy, not strongly whitened .</statement>
+      <next_statement_id>29.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>29.</statement_id>
+      <statement>Leaflets (at least some) usually deeply or rarely shallowly lobed; inflorescences terminal, thyrsiform</statement>
+      <determination>15. Rubus laciniatus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>29.</statement_id>
+      <statement>Leaflets usually unlobed, rarely shallowly lobed; inflorescences terminal on short shoots, (sometimes appearing axillary) usually racemiform or cymiform, sometimes solitary flowers or thyrsiform.</statement>
+      <next_statement_id>30.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>30.</statement_id>
+      <statement>Flowers usually functionally unisexual; stems usually strongly pruinose; Pacific Northwest, West Coast</statement>
+      <determination>36. Rubus ursinus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>30.</statement_id>
+      <statement>Flowers bisexual; stems not pruinose; e, c, (sw) North America.</statement>
+      <next_statement_id>31.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>31.</statement_id>
+      <statement>Stems: prickles broad-based; bristles usually absent, sometimes sparse to dense.</statement>
+      <next_statement_id>32.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>32.</statement_id>
+      <statement>Stems: bristles absent; leaves deciduous, some occasionally semipersistent, not lustrous; inflorescences 1--3(--8)-flowered; petals white</statement>
+      <determination>10. Rubus flagellaris</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>32.</statement_id>
+      <statement>Stems: bristles absent or gland-tipped, red to purple, rarely green, slender; leaves persistent or semipersistent, lustrous; inflorescences 1(--3)-flowered; petals white to pink</statement>
+      <determination>34. Rubus trivialis</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>31.</statement_id>
+      <statement>Stems: prickles absent or narrow-based; bristles sparse to dense.</statement>
+      <next_statement_id>33.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>33.</statement_id>
+      <statement>Stems tip-rooting; leaves persistent; inflorescences 1--7(--10)-flowered</statement>
+      <determination>12. Rubus hispidus</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>33.</statement_id>
+      <statement>Stems not node-or tip-rooting; leaves deciduous; inflorescences 5--15(--20)-flowered</statement>
+      <determination>32. Rubus setosus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>20 .</statement_id>
+      <statement>Plants 3+ dm; stems erect or arching.</statement>
+      <next_statement_id>34.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>34.</statement_id>
+      <statement>Leaflet abaxial surfaces usually closely, densely white-hairy or gray-hairy.</statement>
+      <next_statement_id>35.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>35.</statement_id>
+      <statement>Leaves palmately compound.</statement>
+      <next_statement_id>36.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>36.</statement_id>
+      <statement>Terminal leaflets cuneate to obovate, margins serrate, rarely doubly serrate, apices broadly rounded to subtruncate, often cuspidate; petals white</statement>
+      <determination>8. Rubus cuneifolius (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>36.</statement_id>
+      <statement>Terminal leaflets ovate to broadly elliptic or suborbiculate to orbiculate, margins moderately to coarsely, usually doubly, rarely singly, serrate, apices acute or acuminate to cuspidate or short-attenuate, short-acuminate, or cuspidate; petals white, pink, or magenta.</statement>
+      <next_statement_id>37.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>37.</statement_id>
+      <statement>Terminal leaflets usually suborbiculate to orbiculate, sometimes broadly elliptic; pedicels moderately to densely stipitate-glandular; petals pink to magenta</statement>
+      <determination>37. Rubus vestitus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>37.</statement_id>
+      <statement>Terminal leaflets elliptic or ovate to suborbiculate; pedicels eglandular or sparsely to moderately sessile-glandular; petals white to pink.</statement>
+      <next_statement_id>38.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>38.</statement_id>
+      <statement>Inflorescences thyrsiform, elongate, (projected well beyond subtending leaves), 10--60(--100)-flowered</statement>
+      <determination>4. Rubus bifrons (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>38.</statement_id>
+      <statement>Inflorescences cymiform to thyrsiform, compact, (not projected well beyond subtending leaves), 3--15(--25)-flowered</statement>
+      <determination>25. Rubus pascuus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>35.</statement_id>
+      <statement>Leaves (of primocanes) ternate.</statement>
+      <next_statement_id>39.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>39.</statement_id>
+      <statement>Stems sparsely to moderately hairy, dense ly bristly</statement>
+      <determination>28. Rubus phoenicolasius</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>39.</statement_id>
+      <statement>Stems glabrate or sparsely to densely hairy, bristles absent.</statement>
+      <next_statement_id>40.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>40.</statement_id>
+      <statement>Bark usually papery in age, peeling (especially towards base); inflorescences 1--2-flowered; petals pink to magenta; filaments laminar; fruits yellow, orange, or red; drupelets separating from tori</statement>
+      <determination>33. Rubus spectabilis (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>40.</statement_id>
+      <statement>Bark not papery, peeling; inflorescences (1--)3--15(--25)-flowered; petals white to pale pink; filaments filiform; fruits black; drupelets separating with tori attached.</statement>
+      <next_statement_id>41.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>41.</statement_id>
+      <statement>Terminal leaflets cuneate to obovate, margins serrate, rarely doubly serrate, apices broadly rounded to subtruncate, often cuspidate</statement>
+      <determination>8. Rubus cuneifolius (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>41.</statement_id>
+      <statement>Terminal leaflets broadly elliptic or ovate, margins moderately to coarsely, usually doubly, rarely singly, serrate, apices acute or short-attenuate</statement>
+      <determination>25. Rubus pascuus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>34.</statement_id>
+      <statement>Leaflet abaxial surfaces usually glabrous or sparsely to densely hairy or puberulent, (not white-hairy or gray-hairy).</statement>
+      <next_statement_id>42.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>42.</statement_id>
+      <statement>Leaflets (at least some) usually deeply, rarely shallowly, lobed.</statement>
+      <next_statement_id>43.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>43.</statement_id>
+      <statement>Bark not papery, peeling; inflorescences usually 5--25-flowered; petals white to pink; filaments filiform; fruits black; drupelets separating with tori attached</statement>
+      <determination>15. Rubus laciniatus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>43.</statement_id>
+      <statement>Bark usually papery in age, peeling (especially towards base); inflorescences usually 1--2-flowered; petals pink to magenta; filaments laminar; fruits yellow, orange, or red; drupelets separating from tori</statement>
+      <determination>33. Rubus spectabilis (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>42.</statement_id>
+      <statement>Leaflets shallowly lobed or not lobed.</statement>
+      <next_statement_id>44.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>44.</statement_id>
+      <statement>Leaves pinnately compound, (leaflets 3--7)</statement>
+      <determination>14. Rubus illecebrosus</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>44.</statement_id>
+      <statement>Leaves ternate or palmately compound.</statement>
+      <next_statement_id>45.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>45.</statement_id>
+      <statement>Bark usually papery in age, peeling (especially towards base); inflorescences 1--2-flowered; petals pink to magenta; filaments laminar; fruits yellow, orange, or red; drupelets separating from tori</statement>
+      <determination>33. Rubus spectabilis (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>45.</statement_id>
+      <statement>Bark not papery, peeling; inflorescences (1-- )5 --25(--35)-flowered; petals white, pink, or magenta; filaments filiform; fruits black; drupelets separating with tori attached.</statement>
+      <next_statement_id>46.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>46.</statement_id>
+      <statement>Stems: prickles absent or widely scattered and narrow-based.</statement>
+      <next_statement_id>47.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>47.</statement_id>
+      <statement>Stems: bristles present</statement>
+      <determination>32. Rubus setosus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>47.</statement_id>
+      <statement>Stems: bristles absent.</statement>
+      <next_statement_id>48.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>48.</statement_id>
+      <statement>Pedicels densely stipitate-glandular; inflorescences often elongate, racemiform</statement>
+      <determination>1. Rubus allegheniensis (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>48.</statement_id>
+      <statement>Pedicels eglandular or sparsely to moderately sessile-or stipitate-glandular; inflorescences short to elongate, racemiform, cymiform, or thyrsiform.</statement>
+      <next_statement_id>49.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>49.</statement_id>
+      <statement>Stems: prickles absent or widely scattered, narrow-based; leaves lustrous; inflorescences racemiform</statement>
+      <determination>6. Rubus canadensis</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>49.</statement_id>
+      <statement>Stems: prickles widely scattered, narrow-based; leaves not lustrous; inflorescences cymiform, racemiform, or thyrsiform</statement>
+      <determination>27. Rubus pensilvanicus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>46.</statement_id>
+      <statement>Stems: prickles broad-based.</statement>
+      <next_statement_id>50.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>50.</statement_id>
+      <statement>Pedicels eglandular or sparsely to moderately sessile-glandular.</statement>
+      <next_statement_id>51.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>51.</statement_id>
+      <statement>Terminal leaflets cuneate to obovate, 2--6 x 3--4 cm</statement>
+      <determination>8. Rubus cuneifolius (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>51.</statement_id>
+      <statement>Terminal leaflets ovate to lanceolate, 5--15 x 3--13 cm</statement>
+      <determination>27. Rubus pensilvanicus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>50.</statement_id>
+      <statement>Pedicels sparsely to densely stipitate-glandular.</statement>
+      <next_statement_id>52.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>52.</statement_id>
+      <statement>Terminal leaflets usually suborbiculate to orbiculate, sometimes broadly elliptic, apex acute to cuspidate; inflorescences cymiform or thyrsiform; petals pink to magenta</statement>
+      <determination>37. Rubus vestitus (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>52.</statement_id>
+      <statement>Terminal leaflets ovate to lanceolate, apex acuminate to long-attenuate; inflorescences racemiform, cymiform, or thyrsiform; petals white.</statement>
+      <next_statement_id>53.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>53.</statement_id>
+      <statement>Inflorescences (5-- )15 --25-flowered, racemiform, often elongate; pedicels densely short-to long-stipitate-glandular</statement>
+      <determination>1. Rubus allegheniensis (in part)</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>53.</statement_id>
+      <statement>Inflorescences (2-- )5 --12(--16)-flowered, cymiform, thyrsiform, or short-racemiform; pedicels sparsely to moderately sessile-to short-stipitate-glandular</statement>
+      <determination>27. Rubus pensilvanicus (in part)</determination>
+    </key_statement>
+  </key>
+</treatment>
+

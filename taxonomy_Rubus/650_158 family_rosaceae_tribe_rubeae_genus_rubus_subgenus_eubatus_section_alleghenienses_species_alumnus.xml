@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>alumnus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section alleghenienses;species alumnus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(nursling)</other_name>
+  <number>158</number>
+  <description>As coarse as larger plants of no. 154, the canes similarly corrugated and prickly; the terminal and median broadly ovate long-acuminate leaflets strongly cordate or rounded at base and with caudate acumination 1.5-2.5 cm. long; raceme usually more compact, with the upper flowers more crowded, or tending to be corymbiform and one-half to nearly as thick as long; flowers 3-4 cm. broad; the succulent fruit 1.5-2 cm. long. (Incl. R. Rosa, impos and apianus Bailey)</description>
+  <discussion>Source of several horticultural vars.</discussion>
+  <habitat_elevation_distribution_or_ecology>Dry pastures, old fields and clearings, in part spread from cult., N.S. and Me. to sw. Que., w. to Minn., s. to s. N.E., Va., Ky. and Mo.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

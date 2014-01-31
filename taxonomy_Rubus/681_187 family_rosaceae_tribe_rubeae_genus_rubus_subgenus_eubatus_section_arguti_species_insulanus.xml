@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>insulanus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species insulanus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(of islands)</other_name>
+  <number>187</number>
+  <description>Diffusely branched, up to 1 m. high, with intricately tangled -pendulous branches and branchlets; canes with numerous straight prickles; primocane-leaves rather short-petioled, glabrous and sublustrous above, thin-pilose and glabrescent beneath, with the ribs prominent; terminal leaflet round-ovate or -obovate, abruptly short-acuminate, 7-8 cm. long and 5 or 6 cm. broad, subcordate; corymbs few-flowered; bracteal leaves or leaflets mostly obtuse, elliptic-oblong to oblong-obovate; ascending pedicels short; calyx-lobes soon reflexed; fruit subglobose, about 1 cm. in diameter.</description>
+  <habitat_elevation_distribution_or_ecology>Sands of coast, islands and mainland, Block I., R.I. to s. Ct. and e. L.I.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

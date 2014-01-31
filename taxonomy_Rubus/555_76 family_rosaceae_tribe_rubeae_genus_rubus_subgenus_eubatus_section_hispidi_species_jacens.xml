@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>jacens</species_name>
+    <species_authority>blanch,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section hispidi;species jacens;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(prostrate)</other_name>
+  <number>76</number>
+  <description>Differing from no. 75 in its copiously glandular, as well as bristly, and more slender canes (2.5-3.5 mm. thick), these rarely so much branching and prolonged; primocane-leaves pale green and chartaceous, with lateral ribs impressed above and very prominent beneath, their leaflets oblong-ovate and 6-7 cm. long by 2-3.5 cm. broad; raceme short or corymbiform; pedicels with few or no glands or bristles, 1-2 cm. long; calyx not glandular; petals 7-10 mm. long, 2.5-4 mm. broad.</description>
+  <habitat_elevation_distribution_or_ecology>Dry pastures and clearings, s. N.H. to e. N.Y, and Pa. Fl. late June, July; fr. Aug., Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

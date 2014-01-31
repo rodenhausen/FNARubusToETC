@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <subgenus_name>idaeobatus</subgenus_name>
+    <subgenus_authority>focke</subgenus_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus idaeobatus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(see p. 819)raspberry</other_name>
+  <key>
+    <key_heading>Key 30</key_heading>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Fruiting stems annual; leaves with 2 or 4 remote pairs of lance-attenuate leaflets; flower 3-4 cm. broad, with conspicuously clawed spreading petals; fruit suggesting a strawberry, 2-3 cm. in diameter. Section 1. ROSAEFOLII</statement>
+      <determination>7. R. illecebrosus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Fruit chiefly on 2-year-old canes; leaves of fruiting  canes with 3 leaflets; flowers much smaller, the petals spreading-ascending; fruit smaller. Section 2. IDAEANTHI.</statement>
+      <next_statement_id>2</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Canes, pedicels and calyx densely villous with long red gland-tipped hairs; calyx-lobes becoming erect and enveloping the developing fruit</statement>
+      <determination>8. R.  phoenicolasius.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Canes prickly, bristly, smooth or minutely pubescent, if glandular-hairy with the hairs pale and not crowded; calyx-lobes spreading or reflexed under developing fruit.</statement>
+      <next_statement_id>3</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Canes erect, not rooting at tip, arising from subterranean rhizomes and stolons, bristly to smoothish, with or without hooked prickles; leaves of primocanes, if quinate, pinnate; calyx often bristly, its lobes (excluding caudate tips) about equaling petals; fruit red (rarely yellowish), the drupelets not separated by bands of tomentum</statement>
+      <determination>9. R. idaeus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Canes and branches long-arching, finally rooting at tips, arising from crowns, with hooked prickles and no bristles, heavily glaucous; leaves of new canes, if quinate, digitate; calyx scarcely if ever bristly, its lobes much exceeding petals; fruit purple-black (rarely pale), the immature drupelets separated by bands of white tomentum</statement>
+      <determination>10. R. occidentalis.</determination>
+    </key_statement>
+  </key>
+</treatment>
+

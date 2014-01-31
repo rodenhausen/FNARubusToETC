@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>barbarus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species barbarus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(barbarous)</other_name>
+  <number>188</number>
+  <description>Rather rigidly erect, with hard stiff canes 5-9 dm. high, bearing hard subulate straight prickles mostly 5-10 mm. long; leaves subcoriaceous, scabridulous and with impressed nerves above, soft-pubescent and with prominent straight nerves beneath; primocane-leaves on petioles with hooked prickles, the petiolules similarly prickly, the terminal oblong- or elliptic-ovate coarsely toothed leaflet 3.5-7 cm. long; leaflets of flowering shoots often larger but similar; corymbiform raceme 5-12-fl.owered, the divergent densely pilose pedicels all or partly armed; calyx-lobes promptly reflexed; corolla up to 2 cm. broad; fruit subglobose, 5-10 mm. in diameter, inferior (often bitter). (R. conanicutensis and originalis Bailey)</description>
+  <habitat_elevation_distribution_or_ecology>Clearings, thickets and borders of dry woods, s. N.H. to se. N.E. and s. N.J. Fr. Aug.-Oct.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

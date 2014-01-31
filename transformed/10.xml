@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>6.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>canadensis</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <place_of_publication>
+      <publication_title>Sp. Pl.</publication_title>
+      <place_in_publication>1: 494. 1753</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species canadensis;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Canadian or smooth highbush blackberry , ronce du Canada E</other_info>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>argutus</species_name>
+    <species_authority>Link</species_authority>
+    <variety_name>randii</variety_name>
+    <variety_authority>(L. H. Bailey) L. H. Bailey</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>besseyi</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>canadensis</species_name>
+    <variety_name>imus</variety_name>
+    <variety_authority>L. H. Bailey</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>illustris</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>kennedyanus</species_name>
+    <species_authority>Fernald</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>laetabilis</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>montensis</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <description>Shrubs, 5--30 dm, unarmed or armed. Stems &lt;biennial&gt;, arching, glabrous, eglandular or sparsely sessile- to short-stipitate-glandular, not pruinose; prickles absent or sparse, erect or slightly retrorse, slender, 2--5 mm, narrow- to broad-based. Leaves deciduous, usually palmately compound, &lt;lustrous&gt;; stipules filiform to narrowly lanceolate, (5--)8--15(--22) mm; leaflets (3--)5, terminal ovate to elliptic, (3--)7--9(--11) x (3--)4--5(--6) cm, base rounded to shallowly cordate, unlobed, margins finely to coarsely serrate or doubly serrate, apex acuminate to attenuate, abaxial surfaces sometimes with hooked prickles on midvein, glabrous or puberulent, eglandular. Inflorescences terminal &lt;on short shoots, sometimes appearing axillary&gt;, (5--)15--25-flowered, racemiform. Pedicels usually unarmed, hairy, eglandular or sparsely sessile- to short-stipitate-glandular. Flowers bisexual; petals white, obovate to elliptic, 8--22 mm; filaments filiform; ovaries glabrous. Fruits black, globose to short-cylindric, 1--2 cm; drupelets 10--75, strongly coherent, separating with torus attached. 2n = 14, 21.</description>
+  <phenology_info>
+    <text>Flowering May--Jul.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+  </phenology_info>
+  <habitat>mountainous highlands</habitat>
+  <habitat>cool, shaded intermediate regions within deciduous and boreal forests</habitat>
+  <habitat>margins of lakes and woods</habitat>
+  <elevation>0--2000 m;</elevation>
+  <global_distribution>St. Pierre and Miquelon</global_distribution>
+  <ca_distribution>N.B.</ca_distribution>
+  <ca_distribution>Nfld. and Labr. (Nfld.)</ca_distribution>
+  <ca_distribution>N.S.</ca_distribution>
+  <ca_distribution>Ont.</ca_distribution>
+  <ca_distribution>P.E.I.</ca_distribution>
+  <ca_distribution>Que.</ca_distribution>
+  <us_distribution>Ala.</us_distribution>
+  <us_distribution>Conn.</us_distribution>
+  <us_distribution>D.C.</us_distribution>
+  <us_distribution>Ga.</us_distribution>
+  <us_distribution>Ky.</us_distribution>
+  <us_distribution>Maine</us_distribution>
+  <us_distribution>Md.</us_distribution>
+  <us_distribution>Mass.</us_distribution>
+  <us_distribution>Mich.</us_distribution>
+  <us_distribution>Minn.</us_distribution>
+  <us_distribution>N.H.</us_distribution>
+  <us_distribution>N.J.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <us_distribution>N.C.</us_distribution>
+  <us_distribution>Ohio</us_distribution>
+  <us_distribution>Pa.</us_distribution>
+  <us_distribution>R.I.</us_distribution>
+  <us_distribution>S.C.</us_distribution>
+  <us_distribution>Tenn.</us_distribution>
+  <us_distribution>Vt.</us_distribution>
+  <us_distribution>Va.</us_distribution>
+  <us_distribution>W.Va.</us_distribution>
+  <us_distribution>Wis.</us_distribution>
+  <global_distribution>introduced in Europe (Poland)</global_distribution>
+  <discussion>Rubus canadensis has a wide range and is the most northerly of all the highbush blackberries. The species is morphologically similar to R. allegheniensis except that the plants have little armature, are not as hairy, and have no glands. It also has characteristically lustrous leaves. The open and edge habitats in which it grows can greatly influence the phenotype, as with most highbush blackberries. At higher elevations or in poorer soil conditions, the plants are smaller; when partially shaded, leaves of primocanes may be larger. Leaves of floricanes vary in size and shape and are unreliable for identification. Because of the variation, multiple names have been erected, especially locally; it is felt that a stricter approach to defining it is prudent. Some of the names traditionally associated with sect. Canadenses (L. H. Bailey) L. H. Bailey are here associated with other Rubus species or are considered to refer to putative hybrids.</discussion>
+  <discussion>The following nothospecies names are based on putative hybrids involving Rubus canadensis and: R. allegheniensis (R. x\forestalis L. H. Bailey, R. x\immanis Ashe); R. flagellaris (R. x\lepagei L. H. Bailey, R. x\rixosus L. H. Bailey); R. hispidus (R. x\novanglicus L. H. Bailey); R. pensilvanicus (R. x\amabilis Blanchard [not Focke], R. x\amicalis Blanchard, R. x\elegantulus Blanchard [= R. canadensis var. elegantulus (Blanchard) Farwell], R. x\multilicius L. H. Bailey, R. x\noveboracus L. H. Bailey, R. x\pergratus Blanchard, R. x\trux Ashe); R. setosus (R. x\miscix L. H. Bailey).</discussion>
+</treatment>
+

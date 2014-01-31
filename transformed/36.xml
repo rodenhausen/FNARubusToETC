@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>28.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>phoenicolasius</species_name>
+    <species_authority>Maximowicz</species_authority>
+    <place_of_publication>
+      <publication_title>Bull. Acad. Imp. Sci. Saint-Pétersbourg</publication_title>
+      <place_in_publication>17: 160. 1872</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species phoenicolasius;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Wineberry IW</other_info>
+  <description>Shrubs, 10--20(--30) dm, armed. Stems &lt;biennial&gt;, arching, sparsely to moderately hairy, long-stipitate-glandular, not pruinose; prickles sparse to dense, erect to hooked, slender, 2--8(--10) mm, slender-based; &lt;bristles dense, 2--6 mm, usually gland-tipped and reddish purple, glands ellipsoid to narrowly cup-shaped&gt;. Leaves deciduous, ternate; stipules filiform, 5--12 mm; terminal leaflets broadly deltate or ovate to suborbiculate, 4--15 x 3.5--14 cm, base truncate, rounded, or shallowly cordate, unlobed or dentate to shallowly, sharply or bluntly 3-lobed, margins coarsely serrate or doubly serrate, apex acute to acuminate, abaxial surfaces with scattered, erect to curved prickles on moderate- to large-sized veins, densely white-hairy, moderately to densely long-stipitate-glandular along veins. Inflorescences terminal and axillary, 5--30-flowered, cymiform to racemiform. Pedicels usually unarmed or prickles sparse, erect, moderately to densely hairy, densely long-stipitate-glandular. Flowers bisexual; petals white to pink, ovate to suborbiculate, 4--6 mm; filaments laminar; ovaries glabrous. Fruits red to maroon, globose, 1--1.5 cm; drupelets 15--40, strongly coherent, separating from torus. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering May--Jul.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+  </phenology_info>
+  <habitat>woodlands</habitat>
+  <habitat>roadsides</habitat>
+  <habitat>disturbed open areas</habitat>
+  <habitat>moist soils</habitat>
+  <elevation>0--1200 m;</elevation>
+  <introduced>introduced;</introduced>
+  <ca_distribution>B.C.</ca_distribution>
+  <us_distribution>Ala.</us_distribution>
+  <us_distribution>Ark.</us_distribution>
+  <us_distribution>Conn.</us_distribution>
+  <us_distribution>Del.</us_distribution>
+  <us_distribution>D.C.</us_distribution>
+  <us_distribution>Ga.</us_distribution>
+  <us_distribution>Ill.</us_distribution>
+  <us_distribution>Ind.</us_distribution>
+  <us_distribution>Ky.</us_distribution>
+  <us_distribution>Md.</us_distribution>
+  <us_distribution>Mass.</us_distribution>
+  <us_distribution>Mo.</us_distribution>
+  <us_distribution>N.J.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <us_distribution>N.C.</us_distribution>
+  <us_distribution>Ohio</us_distribution>
+  <us_distribution>Pa.</us_distribution>
+  <us_distribution>R.I.</us_distribution>
+  <us_distribution>S.C.</us_distribution>
+  <us_distribution>Tenn.</us_distribution>
+  <us_distribution>Vt.</us_distribution>
+  <us_distribution>Va.</us_distribution>
+  <us_distribution>W.Va.</us_distribution>
+  <global_distribution>e Asia (China).</global_distribution>
+  <global_distribution>e Asia (Japan).</global_distribution>
+  <global_distribution>e Asia (Korea).</global_distribution>
+  <discussion>Rubus phoenicolasius was introduced to North America for edible fruit, breeding stock, and for ornament. Attractive for its typically reddish purple glandular hairs, R. phoenicolasius nonetheless can be invasive.</discussion>
+</treatment>
+

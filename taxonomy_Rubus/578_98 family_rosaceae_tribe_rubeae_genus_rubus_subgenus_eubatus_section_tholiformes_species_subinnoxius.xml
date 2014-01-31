@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>subinnoxius</species_name>
+    <species_authority>fern.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species subinnoxius;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(almost harmless)</other_name>
+  <number>98</number>
+  <description>Similar to no. 97, the great domes up to 2m. high, the branches and long (up to 2 m.) branchlets more pendulous; primocanes and branches unarmed or with very remote prickles 2-4 mm. broad at base; leaves membranaceous, the strigae of the upper surface mostly 1 mm. long; leaflets mostly 5, abruptly acuminate; petiolule of terminal leaflet 2.5-3 cm. long; petals oblong-obovate, 1 cm. long, 7 mm. broad; branches and branchlets of floricane very intricate, pendulous; leaflets acute or acuminate; fruit 1.5 cm. in diameter.</description>
+  <habitat_elevation_distribution_or_ecology>Wet or dry thickets, Isle of Wight and Southampton Cos., Va. Fl. late April, early May; fr. June.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>avipes</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species avipes;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(bird-footed; from the pedate leaf)</other_name>
+  <number>179</number>
+  <description>Erect, rather slender, up to 2 m. high, strongly resembling no. 154 but glandless; prickles of primocane remote, 2-4 mm. long; primocane-leaves merely grayish on unfolding, at first soft-pubescent but soon glabrescent or merely slightly pilose beneath; terminal primocane-leaflet cordate or subcordate-ovate, on a petiolule 3-4.5 cm. long; median leaflets long-petiolulate; racemes elongate, the longer ones 12-20-flowered; pedicels unarmed, the lower ones 3-5 cm. long; flowers 2.5-3.5 cm. broad;, calyx-lobes soon reflexed; fruit globose or subovoid, scarcely 1 cm. in diameter.</description>
+  <habitat_elevation_distribution_or_ecology>Thickets and clearings, w. N.E. to Mich. and Ill.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

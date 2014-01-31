@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>11.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>glaucifolius</species_name>
+    <species_authority>Kellogg</species_authority>
+    <place_of_publication>
+      <publication_title>Proc. Calif. Acad. Sci.</publication_title>
+      <place_in_publication>1(ed. 2): 70. 1873</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species glaucifolius;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* San Diego raspberry E</other_info>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>ganderi</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>glaucifolius</species_name>
+    <subspecies_name>ganderi</subspecies_name>
+    <subspecies_authority>(L. H. Bailey) R. M. Beauchamp</subspecies_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>glaucifolius</species_name>
+    <variety_name>ganderi</variety_name>
+    <variety_authority>(L. H. Bailey) Munz</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>leucodermis</species_name>
+    <species_authority>Douglas ex Torrey &amp; A. Gray</species_authority>
+    <variety_name>glaucifolius</variety_name>
+    <variety_authority>(Kellogg) Jepson</variety_authority>
+  </TaxonIdentification>
+  <description>Shrubs, to 3 dm, weakly armed. Stems &lt;biennial&gt;, creeping, glabrous, eglandular, strongly pruinose; prickles sparse, erect or slightly curved, weak, slender, 2--3 mm, narrow-based. Leaves deciduous, ternate; stipules filiform to linear, 3--10 mm; terminal leaflets ovate to elliptic, 4--8 x 3--7 cm, base tapered or subcordate, often 2-lobed, margins coarsely dentate, apex acute to rounded, abaxial surfaces unarmed, densely white-tomentose, eglandular. Inflorescences terminal and axillary, (1--)2--4(--10)-flowered, cymiform. Pedicels unarmed, finely hairy, stipitate-glandular. Flowers bisexual; petals white, oblong to oblanceolate, 4--8 mm; filaments laminar; ovaries white-tomentose. Fruits reddish purple, hemispheric to conic, 0.4--1 cm diam.; drupelets 10--40, coherent, separating from torus.</description>
+  <phenology_info>
+    <text>Flowering Apr--Jul.</text>
+    <phenology>apr</phenology>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+  </phenology_info>
+  <habitat>semi-open montane forests</habitat>
+  <elevation>800--2100 m;</elevation>
+  <us_distribution>Calif.</us_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <discussion>Rubus glaucifolius is found in the Sierra Nevada and Klamath mountains as well as the Peninsular and northern Coastal ranges in California, and in adjacent Oregon only in Jackson County.</discussion>
+</treatment>
+

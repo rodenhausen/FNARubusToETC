@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>pratensis</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species pratensis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(of meadows; evidently meaning prairies)</other_name>
+  <number>193</number>
+  <description>Stiffly erect, 1 m. or so high, the primocanes with subulate prickles 2-5 mm. long; primocane-leaves smooth or sparingly short-pilose above; terminal leaflet cordate-ovate, long-acuminate, about 1 dm. long, sharply toothed, velvety beneath; corymb 5-8-flowered, the middle and lower flowers subtended by bracts with simple blades or with terminal leaflet 4-5 cm. long; the short upper pedicels mostly overtopped by the lower bracts; corolla about 2 cm. broad; fruit globose or subglobose, about 1 cm. in diameter.</description>
+  <discussion>R. limulus Bailey of s. Mich. seems hardly separable; said to differ in coarser toothing of leaves, and more prickly canes becoming lodged over winter.</discussion>
+  <habitat_elevation_distribution_or_ecology>Prairies, Mo.</habitat_elevation_distribution_or_ecology>
+  <description> </description>
+</treatment>
+

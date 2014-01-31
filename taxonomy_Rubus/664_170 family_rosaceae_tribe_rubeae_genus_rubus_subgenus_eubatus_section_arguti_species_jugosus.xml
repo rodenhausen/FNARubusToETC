@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>jugosus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species jugosus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(of the mountains; from type-region)</other_name>
+  <number>170</number>
+  <description>Differing from no. 169 in the broader and shorter primocane-leaflets; the terminal one two-fifths to half as broad as long, rounded to subcordate at base, the fine teeth mostly 5-8 per cm. of median margin; simple blade or terminal leaflet of bracteal leaf two- to three-fifths as broad as long; fruit purple-black. (Incl. R, ablatus and R. suus Bailey and probably R. subtractus Bailey, an extreme suggesting possible influence of no. 168)</description>
+  <habitat_elevation_distribution_or_ecology>Dry thickets and borders of woods, S.C. to Ala. and La., n. to N.E., N.J., Pa., Ky. and Mo. Fl. May, June; fr. late June-Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

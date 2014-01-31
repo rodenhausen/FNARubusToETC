@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>multispinus</species_name>
+    <species_authority>blanch,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species multispinus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(many-prickled)</other_name>
+  <number>103</number>
+  <description>Very coarse and intricately recurved-branching and repeatedly forking doming plant with long-arching and tip-trailing or –rooting branches and branchlets; stronger parts of stout primocane with 4 or more rows of very strong and hard broad-based prickles up to 5-8 mm. long, these often approximate in groups and rarely 1 cm. apart; leaves firm and thick, strongly uncinate-prickly on midrib beneath, usually strongly pubescent beneath; primocane-leaves 3- or 5-foliolate, often fulvous-green; the leaflets rather abruptly acuminate, sharply double-serrate; terminal leaflet broadly ovate, the larger ones 8-15 cm. long by 4-9.5 cm. broad, broadly rounded to subcordate at base, the very prickly petiolule 1.5-5 cm. long; petiole with 10-25 recurved prickles; flowering shoots with small corymbiform-racemose clusters of (3-)5-8 very prickly- and short-pedicelled flowers standing above the small bracteal leaves; fruit up to 2 cm. long, juicy.</description>
+  <habitat_elevation_distribution_or_ecology>Dry to damp thickets and clearings, chiefly coastwise, Knox Co., Me. to centr. and s. Ct. Fl. June; fr. Aug., Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

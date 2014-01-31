@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:50</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>cupressorum</species_name>
+    <species_authority>fern,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species cupressorum;</taxon_hierarchy>
+  </taxon_identification>
+  <number>192</number>
+  <description type="morphology">Erect, 1-2 m. high, with widely arching branches and intricate branchlets; primocane with stout broad-based prickles 4-8 or more mm. long; petioles of primocane-leaves with stout hooked prickles; terminal leaflet elliptic-ovate to slightly obovate, long-acuminate, 7-10 cm. long, strigose-pilose above and along nerves beneath; corymb (l-)2-7-flowered, short and compact, all but the lowest unarmed sho7't pedicels overtopping the bracts; longer bracteal leaves or their terminal leaflets only 1.5-2.5 an. long; calyx-lobes 3-4 mm. long, soon reflexed; fruit ellipsoid, small.</description>
+</treatment>
+

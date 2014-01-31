@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>sewardianus</species_name>
+    <species_authority>fern.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species sewardianus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(in honor of walter seward, 1860-1932, founder of the seward forest of the univ. of va.)</other_name>
+  <number>101</number>
+  <description>Forming dense mounds, the primocanes and their finally intricate divergent branches and trailing-tipped branchlets up to 2 m. long, remotely armed with horizontally divergent straight subulate prickles 3-5 mm. long and 2-3 mm. broad at base; primocane-leaves mostly 3-foliolate, membranaceous, tomentulose beneath; the ovate-acuminate leaflets with low serrate-dentate teeth; the terminal leaflet cordate at base and 8-12 cm. long by 5-7.5 cm. broad, the unguiculate-armed petiolule 2.5-3 cm. long; floricanes inextricably and divergently much branched, their prickles becoming unguiculate; floricane-leaflets narrowly elliptic-oval, acuminate, doubly serrate; short racemose corymb 2-8-flowered, overtopping the bracts; pedicels divergently ascending, 1-2.5 cm. long, retrorsely villous and prickly; calyx pilose; fruit 1.5-1.8 cm. in diameter.</description>
+  <habitat_elevation_distribution_or_ecology>Dry clearings and thickets, Brunswick Co., Va. Fr. June.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

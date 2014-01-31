@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>tardatus</species_name>
+    <species_authority>blanch,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section hispidi;species tardatus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(tardy)</other_name>
+  <number>75</number>
+  <description>Low-arching and trailing, forming extensive implicated carpets; primocanes 2-6 mm. thick, from nearly prickleless to prickly with 1 or 2-180 acicular prickles (1-4 mm. long) per dm., mostly glandless; primocane-leaves mostly 5-foliolate, deep green, submembranaceous, glabrous, with smooth to sparsely prickly petioles, acuminate to caudate-tipped, elliptic-oblong to rhombic-obovate, double-serrate; the terminal one 4-11 cm. long, its petiolule 0.5-2.5 cm. long; floricane-leaves relatively large; corymb simple to very compound, the lower glandular pedicels 1.5-5 cm. long; calyx glandular; petals relatively large, 10-12 mm. long, 3-6 mm. broad. (Incl. R. rixosus Bailey, the plants with caudate-tipped primocane-leaflets; and R. Weatherbyi Bailey, the almost prickleless plants).</description>
+  <habitat_elevation_distribution_or_ecology>Dry to wet thickets, swales, meadows and clearings, P.E.I, to Algoma Distr., Ont., s. to N.S., N.E., Del., Pa. and Mich. Fl. late June-mid-Aug.; fr. late Aug., Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

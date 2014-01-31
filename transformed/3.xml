@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>2.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>arcticus</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <place_of_publication>
+      <publication_title>Sp . Pl.</publication_title>
+      <place_in_publication>1: 494. 1753</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species arcticus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Arctic raspberry</other_info>
+  <description>Herbs, 0.5--3 dm, unarmed. Stems erect, &lt;thin, weak, +/- woody basally&gt;, glabrous or sparsely hairy, eglandular, not pruinose. Leaves deciduous, simple and usually 3-lobed or ternate; stipules ovate to lanceolate, 4--8 mm; blade margins dentate, serrate, or doubly serrate, abaxial surfaces sparsely to moderately pubescent, eglandular. Inflorescences axillary, 1--3-flowered. Pedicels glabrous or sparsely to moderately pubescent, eglandular or stipitate-glandular. Flowers bisexual; petals pink to rose or magenta, obovate to oblanceolate, 8--25 mm; outer filaments dilated basally, inner filiform; ovaries glabrous or sparsely hairy. Fruits reddish to dark purple, globose, to 1 cm diam., rarely larger; drupelets (10--)15--30, weakly coherent, separating with torus attached.</description>
+  <habitat>the type specimen of rubus alaskensis l. h. bailey has long glandular hairs on the stems and has unusually large leaflets. it may represent a hybrid between r. arcticus and r. idaeus subsp. strigosus or some other species of rubus</habitat>
+  <discussion>Subspecies 3 (3 in the flora): North America, Eurasia.</discussion>
+  <key>
+    <key_statement>
+      <statement_id>1.</statement_id>
+      <statement>Leaves simple, usually 3-lobed</statement>
+      <determination>2c. Rubus arcticus subsp. stellatus</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>1.</statement_id>
+      <statement>Leaves usually ternate.</statement>
+      <next_statement_id>2.</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>2.</statement_id>
+      <statement>Central leaflets ovate to rhombic, bases rounded to attenuate, not cuneate, apices usually acute; flowers 1--3; petals obovate, ape x entire or slightly emarginate</statement>
+      <determination>2a. Rubus arcticus subsp. arcticus</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>2.</statement_id>
+      <statement>Central leaflets ovate to obovate, bases cuneate, apices usually rounded; flowers solitary; petals oblanceolate to obovate, apex slightly to strongly emarginate</statement>
+      <determination>2b. Rubus arcticus subsp. acauli s</determination>
+    </key_statement>
+  </key>
+</treatment>
+

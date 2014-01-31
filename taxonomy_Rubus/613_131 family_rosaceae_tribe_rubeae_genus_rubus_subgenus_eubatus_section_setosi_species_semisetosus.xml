@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>semisetosus</species_name>
+    <species_authority>blanch.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section setosi;species semisetosus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(half bristly)</other_name>
+  <number>131</number>
+  <description>Canes more woody than in no. 120, more like those of no. 127, the prickles 80-150 per dm. on the glandless primocanes; primocane-leaves much as in no. 127, but soft-pubescent beneath, the leaflets with broad-based acumination; racemes or racemose corymbs well overtopping the floricane-foliage, the ascending pedicels with or without scattered minute setae mostly less than 1 mm. long; bracteal leaves simple or 3-foliolate, acute or acutish; calyx-lobes often glandular; petals 3-5 mm. broad; fruit inferior, 6 or 8 mm. in diameter.(Incl. R. Bigelovianus Bailey)</description>
+  <habitat_elevation_distribution_or_ecology>Dryish meadows, swampy thickets, etc., s. N.E., se. N.Y, and e. Pa. Fl. mid-June-early July; fr. Aug., Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

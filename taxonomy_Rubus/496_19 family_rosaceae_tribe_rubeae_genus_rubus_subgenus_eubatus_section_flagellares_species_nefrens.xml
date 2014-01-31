@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>nefrens</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species nefrens;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(unable to bite; presumably meaning unable to scratch)</other_name>
+  <number>19</number>
+  <description>Resembling no. 16 but with flowering pedicels and petioles of bracteal leaves densely spreading-villous; canes with remote subulate prickles only 1-2.5 mm. long; petioles unarmed or with remote bristles1-2 mm. long; primocane-leaves firm-membranaceous, the terminal ovate leaflet acuminate-tipped; floricane-leaflets merely acute, all leaflets coarsely dentate or dentate-serrate with broad simple or hut slightly notched teeth; larger corymbs with 2-6 flowers on nearly prickleless pedicels up to 7 cm. long. (? R. Steelei Bailey; R. multifer Bailey)</description>
+  <habitat_elevation_distribution_or_ecology>Dry open soil or thin woods, N.Y. to Minn., s. to Va., Tenn. and Okla. Fl. May, early June; fr. mid-June, July.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>vermontanus</species_name>
+    <species_authority>blanch.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section setosi;species vermontanus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>127</number>
+  <description type="morphology">Habitally like nos. 120 and 123 but with sparser armature; primocanes erect to depressed, 0.2-1.5 m. high, with very few to 150 firm slender acerose prickles per dm., these without interspersed glands and usually without finer bristles; floricane-leaves 5-foliolate, their petioles more or less prickly; leaflets ovate-lanceolate, ovate or ovate-oblong, tapering to acuminate apex, two-fifths to three-fifths as broad as long, sharply double-serrate, thinnish, dull or barely sublustrous, glabrous above, pale to deeper green and glabrous beneath; inflorescence varying from a simple raceme to a forking corymb; the pedicels unarmed or rarely with few short setae, mostly glandless (occasionally with few glands); lower bracts foliaceous, upper reduced and stipule-like; petals 1-1.5 cm. long, 4-8 mm. broad; fruit about 1 cm. in diameter, juicy but sour. (Incl. R. junceus Blanch., plants "with a flimsy look"; R. viridifrons Bailey, i.e., R. vermontanus, var. viridifolius Blanch., with dark and sublustrous leaves and with some glands on pedicels, a "guise" which "has no separate range or habitat.......In a single collecting ....... one may distinguish both kinds."</description>
+  <discussion>Dry to moist thickets, clearings, etc., plastic but forming a consistent series of interlocked minor trends, Nfld. to Ont., s. to N.S., s. N.E., N.Y., n. Pa., Mich., Wisc. and Minn. Fl. mid-June-mid.-Aug.; fr. late July-Sept.</discussion>
+</treatment>
+

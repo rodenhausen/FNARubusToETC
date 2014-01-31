@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <family_name>rosaceae</family_name>
+    <taxon_hierarchy>family rosaceae;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>rose family</other_name>
+  <description>Plants with regular flowers, numerous (rarely few) distinct stamens inserted on the calyx, and 1-many carpels, which are quite distinct, or (in the second tribe) united and combined with the calyx-tube. Ovules (anatropous) 1-few in each carpel; seeds almost always without albumen. Embryo straight, with large and thick cotyledons. Leaves alternate, with stipules; these sometimes caducous, rarely obsolete or wanting. — Calyx of 5 (3-8) sepals (the odd one superior) united at the base, often appearing double by a row of bractlets outside. Petals as many as the sepals (rarely wanting or by "doubling" becoming numerous), mostly imbricated in the bud and usually inserted with the stamens on the edge of a disk which lines the calyx-tube. Trees, shrubs or herbs.</description>
+  <key>
+    <key_heading>Key 0</key_heading>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Fruit dehiscent, a follicle or capsule, the superior ovary not inclosed in the calyx-tube nor adherent to it. Tribe I. SPIRAEEAE2.</statement>
+      <next_statement_id>2</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Leaves simple; stipules absent or caducous.</statement>
+      <next_statement_id>12</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>12</statement_id>
+      <statement>Carpels inflated, forming bladdery fruits, splitting into 2 valves; seeds plump, with crustaceous testa and copious albumen; leaves palmately nerved, the young with stipules; stamineal disk wanting</statement>
+      <determination>1. Physocarpus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>12</statement_id>
+      <statement>Carpels not inflated, (splitting down the ventral suture; seeds slender, with loose testa and no albumen; leaves mostly pinnately veined, without stipules; stamineal disk present</statement>
+      <determination>2. Spiraea.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Leaves compound, stipulate.</statement>
+      <next_statement_id>13</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>13</statement_id>
+      <statement>Leaves 2-3-pinnate; carpels 3 or 4</statement>
+      <determination>3. Aruncus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>13</statement_id>
+      <statement>Leaves simply odd-pinnate or 3-foliolate; carpels 5.</statement>
+      <next_statement_id>14</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>14</statement_id>
+      <statement>Suffruticose; leaves odd-pinnate, with 13-21 leaflets; flowers in dense panicles</statement>
+      <determination>4. Sorbaria.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>14</statement_id>
+      <statement>Herbaceous; leaves 3-foliolate; flowers loosely paniculate-corymbed</statement>
+      <determination>5. Gillenia.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Fruit or carpels indehiscent; leaves, at least when expanding, stipulate3.</statement>
+      <next_statement_id>3</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Ovary inferior, the 2-5 carpels usually connate, borne within and adnate to a cup-like or urn-like depression in the enlarged summit of the receptacle, the whole united to form a fleshy fruit (pome or berry); trees or shrubs, the stipules free from the petioles. Tribe II. POMEAE4.</statement>
+      <next_statement_id>4</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Mature carpels papery or soft-cartilaginous.</statement>
+      <next_statement_id>15</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>15</statement_id>
+      <statement>Carpels of the compound ovary as many as the styles, without false or partial partitions; leaves simple or pinnate; fruit a pome or berry-like</statement>
+      <determination>6. Pyrus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>15</statement_id>
+      <statement>Carpels of the compound ovary subdivided by partial (false) partitions projecting inward from the back; leaves simple; fruit berry-like</statement>
+      <determination>7. Amelanchier.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Mature carpels hard and bony, 1-5, free or coherent in the pulpy fruit; spiny shrubs or trees with simple leaves.</statement>
+      <next_statement_id>16</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>16</statement_id>
+      <statement>Ovules in each locule of the carpel 1 or, if 2, unequal, 1 sessile and fertile, the other stalked and sterile; leaves deciduous, rarely evergreen, mostly serrate or dentate; mostly native</statement>
+      <determination>8. Crataegus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>16</statement_id>
+      <statement>Ovules 2 in each locule, equal, fertile; leaves evergreen, crenulate; introd</statement>
+      <determination>9. Cotoneaster.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Ovary or ovaries superior (in Tribes V and VI inclosed in the calyx-tube)5.</statement>
+      <next_statement_id>5</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>5</statement_id>
+      <statement>Ovaries several to many, borne on a broad to elongate receptacle, not inclosed by the calyx6.</statement>
+      <next_statement_id>6</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>6</statement_id>
+      <statement>Carpels becoming dry achenes; plants herbaceous or, if woody, having bractlets at the sinuses of the calyx or the styles long and plumose. Tribe III. POTENTILLEAE7.</statement>
+      <next_statement_id>7</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>7</statement_id>
+      <statement>Styles not elongate after anthesis, mostly deciduous8.</statement>
+      <next_statement_id>8</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>8</statement_id>
+      <statement>Receptacle pulpy and greatly enlarged in fruit.</statement>
+      <next_statement_id>17</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>17</statement_id>
+      <statement>Bractlets of calyx similar to the narrow calyx-lobes; petals white or pinkish; receptacle becoming very juicy and edible</statement>
+      <determination>10. Fragaria.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>17</statement_id>
+      <statement>Bractlets much broader and longer than calyx-lobes; petals yellow; receptacle spongy, insipid and dryish</statement>
+      <determination>11. Duchesnea.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>8</statement_id>
+      <statement>Receptacle dry, not greatly enlarged in fruit9.</statement>
+      <next_statement_id>9</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>9</statement_id>
+      <statement>Stamens 5.</statement>
+      <next_statement_id>18</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>18</statement_id>
+      <statement>Leaflets 3-toothed at apex; calyx flattish, without bractlets; stamens alternate with the yellowish petals</statement>
+      <determination>12. Sibbaldia.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>18</statement_id>
+      <statement>Leaflets dissected into linear segments; calyx turbinate, with bractlets; stamens opposite the white to purplish petals</statement>
+      <determination>13. Chamaerhodos.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>9</statement_id>
+      <statement>Stamens numerous.</statement>
+      <next_statement_id>19</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>19</statement_id>
+      <statement>Carpels 1-ovulate; calyx bracted or, if bractless, the flowers on a naked scape; stipules elongate.</statement>
+      <next_statement_id>20</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>20</statement_id>
+      <statement>Flowering stem scapose; bractlets small, at base of calyx and deciduous or wanting; petals white</statement>
+      <determination>14. Waldsteinia.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>20</statement_id>
+      <statement>Flowering stem bearing leaves; calyx with persistent bracts at sinuses; petals yellow, rarely white or purple</statement>
+      <determination>15. Potentilla.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>19</statement_id>
+      <statement>Carpels 2-ovulate; calyx without bractlets; stipules large, reniform; coarse plants with paniculate-cymose white or pink flowers and large pinnate leaves</statement>
+      <determination>16. Filipendula.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>7</statement_id>
+      <statement>Styles persistent and elongating after anthesis, plumose or jointed.</statement>
+      <next_statement_id>21</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>21</statement_id>
+      <statement>Shrubs with prostrate stems and simple leaves; flowers solitary at tips of scapes; receptacle flat</statement>
+      <determination>17. Dryas.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>21</statement_id>
+      <statement>Herbs with pinnate or lyrate basal leaves and upright leafy flowering stems; receptacle conical to cylindric</statement>
+      <determination>18. Geum.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>6</statement_id>
+      <statement>Carpels ripening into drupelets; ovules 2, pendulous, but seed solitary. Tribe. IV. RUBEAE.</statement>
+      <next_statement_id>22</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>22</statement_id>
+      <statement>Carpels mostly numerous, ripening into juicy drupelets, crowded on a spongy receptacle (raspberries, blackberries, etc.); flowers mostly perfect and similar; herbaceous or mostly slightly woody</statement>
+      <determination>19. Rubus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>22</statement_id>
+      <statement>Carpels few at the bottom of the calyx, nearly dry in fruit; creeping, with roundish leaves; showy flowers with white petals, sterile; fertile flowers apetalous, recurving and maturing fruit near the ground</statement>
+      <determination>20. Dalibarda.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>5</statement_id>
+      <statement>Ovaries 1-many, becoming achenes covered by the calyx, or drupes10.</statement>
+      <next_statement_id>10</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>10</statement_id>
+      <statement>Ovary or ovaries (carpels) inclosed in the over-topping calyx; leaves compound or lobed11</statement>
+      <next_statement_id>11</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>11</statement_id>
+      <statement>Carpels 1-4, completely inclosed in the dry and firm calyx-tube, which is constricted or nearly closed at throat; herbs. Tribe V. POTERIEAE.</statement>
+      <next_statement_id>23</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>23</statement_id>
+      <statement>Leaves palmate or palmately lobed; calyx with bractlets alternating with the 4 lobes; petals none</statement>
+      <determination>21,  Alchemilla.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>23</statement_id>
+      <statement>Leaves pinnate; calyx without bractlets; inflorescence spicate or spicate-racemose.</statement>
+      <next_statement_id>24</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>24</statement_id>
+      <statement>Calyx beset with hooked bristles, the 5-cleft limb closed after flowering and persistent; petals yellow</statement>
+      <determination>22. Agrimonia.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>24</statement_id>
+      <statement>Calyx not bristly, the 4 petaloid lobes white or purple, deciduous in fruit; petals none</statement>
+      <determination>23. Sanguisorba.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>11</statement_id>
+      <statement>Carpels numerous, lining the base or sides of the globose or urceolate fleshy calyx-tube, the latter ripening as a colored fruit suggesting a pome; petals large and showy; shrubs, often prickly, the pinnate leaves usually with decurrent stipules. Tribe VI. ROSEAE</statement>
+      <determination>24. Rosa.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>10</statement_id>
+      <statement>Ovary free, solitary, becoming a drupe (plum, cherry, etc.); calyx deciduous, bractless. Tribe VII. PRUNEAE</statement>
+      <determination>25. Prunus.</determination>
+    </key_statement>
+  </key>
+</treatment>
+

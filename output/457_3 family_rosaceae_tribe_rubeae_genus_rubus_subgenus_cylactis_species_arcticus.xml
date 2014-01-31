@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>arcticus</species_name>
+    <species_authority>l.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus cylactis;species arcticus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>3</number>
+  <description type="morphology">Similar to no. 2, rarely with prolonged vegetative shoots, the flowering stems (0.5-3.5 dm. high) chiefly rising from subterranean rhizomes or slender crowns; leaflets firm, sublustrous more broadly ovate, less attenuate at tip, simply or doubly dentate, 2.5-6 cm. long; flowers 1-3; calyx-lobes 7-12 mm. long; petals roseate, 1-1.7 cm. long, 3-7 mm. broad; fruit with rather few coarse drupelets. (R. paracaulis Bailey)</description>
+  <description type="morphology">?</description>
+  <discussion>Hybridizes with nos. 2 and 4.</discussion>
+</treatment>
+

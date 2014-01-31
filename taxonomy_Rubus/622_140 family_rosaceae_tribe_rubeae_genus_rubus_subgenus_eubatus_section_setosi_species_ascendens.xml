@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>ascendens</species_name>
+    <species_authority>blanch,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section setosi;species ascendens;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(ascending)</other_name>
+  <number>140</number>
+  <description>Canes 0.6-1.2 m. high, with 60-100 strong subulate prickles per dm., these often 6-9 mm. long and with bases 2-3 mm. broad; leaves tomentose beneath; terminal leaflet of primocane-foliage ovate to elliptic, acuminate, yellow-green, its petiolule1.2-2.5 cm. long; raceme or corymb leafy-bracted below, its axis and pedicels unarmed or only sparingly armed.</description>
+  <habitat_elevation_distribution_or_ecology>Open thickets, fields and borders of woods, s. N.E. Fl. June, early July; fr. late Aug., Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

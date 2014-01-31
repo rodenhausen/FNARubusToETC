@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>35.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>ulmifolius</species_name>
+    <species_authority>Schott</species_authority>
+    <place_of_publication>
+      <publication_title>Isis (Oken)</publication_title>
+      <place_in_publication>5: 821. 1818</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species ulmifolius;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Elm-leaf blackberry I</other_info>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>discolor</species_name>
+    <species_authority>Weihe &amp; Nees</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>ulmifolius</species_name>
+    <variety_name>anoplothyrsus</variety_name>
+    <variety_authority>Sudre</variety_authority>
+  </TaxonIdentification>
+  <description>Shrubs, 30--50 dm, unarmed or armed. Stems &lt;biennial&gt;, erect, then arching, usually moderately, rarely sparsely, hairy &lt;hairs stellate&gt;, eglandular, strongly pruinose; prickles absent or sparse to dense, erect to hooked, stout, 3--10 mm, broad-based. Leaves persistent or nearly so, ternate to palmately compound; stipules filiform to linear, 4--12 mm; leaflets 3--5, terminal ovate, elliptic, or suborbiculate to obovate, 4--10 x 2--6(--9) cm, base rounded to cuneate, unlobed, margins finely to moderately serrate, apex acute or acuminate to attenuate, abaxial surfaces with hooked prickles on larger veins, densely white short-velutinous, hairs usually minute, eglandular. Inflorescences terminal, 10--60-flowered, paniculiform or thyrsiform. Pedicels unarmed or prickles moderate to dense, erect to hooked, densely short-hairy, eglandular. Flowers bisexual; petals usually pink, sometimes white, obovate or elliptic to suborbiculate, 5--12 mm; filaments filiform; ovaries apically hairy. Fruits black, globose to ovoid, 1--1.5 cm; drupelets 10--40, strongly coherent, separating with torus attached. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering May--Jul.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+  </phenology_info>
+  <habitat>woodland edges</habitat>
+  <habitat>open areas</habitat>
+  <habitat>disturbed areas</habitat>
+  <habitat>moist soils</habitat>
+  <elevation>0--500 m;</elevation>
+  <introduced>introduced;</introduced>
+  <us_distribution>Calif.</us_distribution>
+  <us_distribution>Nev.</us_distribution>
+  <us_distribution>N.J.</us_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <us_distribution>Wash.</us_distribution>
+  <global_distribution>s</global_distribution>
+  <global_distribution>c Europe</global_distribution>
+  <global_distribution>n Africa</global_distribution>
+  <global_distribution>introduced also in s South America.</global_distribution>
+  <discussion>Rubus ulmifolius can be distinguished, especially from the closely related R. bifrons and R. vestitus, by its strongly pruinose stems, finely serrate leaflets, and lack of glands throughout. Unlike R. ulmifolius, strongly pruinose native Rubus species lack relatively large and showy pink petals. Some new stems developing from tip-rooting, and early leaves on such stems (especially in shade), are not whitened abaxially and are tomentose. Such unusual stems develop typical leaves and surfaces in parts formed later.</discussion>
+  <discussion>There has been nomenclatural confusion over unarmed plants of Rubus ulmifolius (see E. Monasterio-Huelin and H. E. Weber 1996). Rubus inermis Willdenow is an illegitimate later homonym of R. inermis Pourret, and the type specimens for both names are of poor-quality. If an unarmed variety of R. ulmifolius is to be recognized, such as occurs in California, the name var. anoplothyrsus Sudre should be used instead of var. inermis (Willdenow) Focke.</discussion>
+  <discussion>Rubus ulmifolius is attractive and is potentially weedy but relatively uncommon, found primarily in coastal California from the San Francisco Bay region southward. It probably no longer persists in New Jersey, last collected there in 1897, and it is rare in Nevada and Oregon. Rubus ulmifolius likely hybridizes with R. bifrons where they co-occur; it is one of relatively few diploid and sexually reproducing species of European blackberries.</discussion>
+</treatment>
+

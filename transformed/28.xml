@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>20.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>niveus</species_name>
+    <species_authority>Thunberg</species_authority>
+    <place_of_publication>
+      <publication_title>Rubo,</publication_title>
+      <place_in_publication>9, fig. 3. 1813</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species niveus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Snowpeaks, Mysore, or hill raspberry I</other_info>
+  <description>Shrubs, 10--30 dm, armed. Stems &lt;biennial&gt;, erect to arching, often scrambling, sparsely hairy, glabrescent, eglandular, strongly pruinose; prickles sparsely to moderately dense, hooked to reflexed, stout, 3--9 mm, broad-based. Leaves deciduous, pinnately compound; stipules linear-lanceolate, 4--8 mm; leaflets (3--)5--7(--9), terminal ovate to broadly ovate, 4--6.7 x (2.4--)3.4--5.4 cm, base shallowly cordate, sometimes shallowly 3-lobed, margins coarsely serrate to doubly serrate, apex acute to short-acuminate, abaxial surfaces with scattered, reflexed, broad-based prickles on midveins, densely white-tomentose, eglandular. Inflorescences terminal and axillary, 1--11-flowered, cymiform. Pedicels: prickles absent or sparse, erect to reflexed, pubescent, eglandular. Flowers bisexual; petals pink to magenta, broadly obovate to orbiculate, 4 mm; filaments laminar; ovaries densely hairy. Fruits purple-black, hemispheric to globose, 0.5--1.5 cm; drupelets 50--75, coherent, separating from torus. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering year-round.</text>
+    <phenology>year round</phenology>
+    <phenology>summer</phenology>
+    <phenology>spring</phenology>
+    <phenology>winter</phenology>
+    <phenology>fall</phenology>
+    <phenology>nov</phenology>
+    <phenology>apr</phenology>
+    <phenology>dec</phenology>
+    <phenology>jan</phenology>
+    <phenology>jun</phenology>
+    <phenology>oct</phenology>
+    <phenology>jul</phenology>
+    <phenology>may</phenology>
+    <phenology>feb</phenology>
+    <phenology>aug</phenology>
+    <phenology>sep</phenology>
+    <phenology>mar</phenology>
+  </phenology_info>
+  <habitat>disturbed sites adjacent to tropical or subtropical woodland</habitat>
+  <elevation>0--30 m;</elevation>
+  <introduced>introduced;</introduced>
+  <us_distribution>Fla.</us_distribution>
+  <global_distribution>Africa</global_distribution>
+  <global_distribution>introduced also in Central America</global_distribution>
+  <global_distribution>South America</global_distribution>
+  <global_distribution>Pacific Islands (Hawaii).</global_distribution>
+  <discussion>Rubus niveus is distinguished from other raspberries by its pinnately compound leaves with 5--7 leaflets, ovate to broadly ovate terminal leaflet, leaflets with prickles on the midvein, and pink to magenta, broadly obovate to orbiculate petals. The species was introduced into southern Florida around 1949 from seeds obtained in Kenya and quickly became popular for its fruits, which are edible fresh or frozen and are often used in preserves, pies, and tarts (J. F. Morton 1987).</discussion>
+</treatment>
+

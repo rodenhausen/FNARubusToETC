@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>redundans</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species redundans;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(superfluous or redundant; because originally illustrated as no.32, the author changing his mind)</other_name>
+  <number>37</number>
+  <description>Resembling no. 36; with more strongly armed canes, the strong prickles 3 or 4 min. long; primocane-leaves 5-foliolate, promptly glabrate above; terminal leaflet ovate, two-thirds as broad as long, median leaflets more elliptic.</description>
+  <habitat_elevation_distribution_or_ecology>Ne. Md. and se. Pa.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>decor</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species decor;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(ornamental)</other_name>
+  <number>104</number>
+  <description>Grayish, doming to 6 dm. high; primocane with scattered subulate divergent prickles; primocane-leaves 3-foliolate or imperfectly 5-foliolate; the leaflets barely half as broad as long, gradually tapering or subcuneate at base; the terminal one on a petiolule nearly 2 cm. long, the lateral subsessile, soft-pubescent beneath; primocane-leaflets elliptic-oblong to narrowly obovate, acutish; corymb 4-6-flowered, the ascending pubescent pedicels up to 3 cm. long; calyx pilose; petals narrowly obovate, about 1.8 cm. long and 8-10 mm. broad.</description>
+  <habitat_elevation_distribution_or_ecology>Borders of dry woods, w. Ky.</habitat_elevation_distribution_or_ecology>
+  <description> </description>
+  <description />
+</treatment>
+

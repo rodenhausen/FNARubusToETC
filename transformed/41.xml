@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>33.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>spectabilis</species_name>
+    <species_authority>Pursh</species_authority>
+    <place_of_publication>
+      <publication_title>Fl. Amer. Sept.</publication_title>
+      <place_in_publication>1: 348, plate 16. 1813</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species spectabilis;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Salmonberry</other_info>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>franciscanus</species_name>
+    <species_authority>Rydberg</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>spectabilis</species_name>
+    <variety_name>franciscanus</variety_name>
+    <variety_authority>(Rydberg) J. T. Howell</variety_authority>
+  </TaxonIdentification>
+  <description>Shrubs, 10--40 dm, usually armed. Stems erect to arching, glabrate or sparsely to densely hairy, eglandular or sparsely short-stipitate-glandular, rarely densely long-stipitate-glandular, not pruinose; &lt;bark usually papery with age, peeling (especially toward base)&gt;; prickles absent or sparse to dense, erect, slender, 1--5 mm, broad- to narrow-based. Leaves deciduous, ternate; stipules filiform to linear, 3--10 mm; terminal leaflets ovate, 4--15 x 3.5--15 cm, base truncate, rounded to shallowly cordate, shallowly, sharply lobed, margins coarsely serrate to doubly serrate, apex acute to acuminate, abaxial surfaces unarmed or with erect prickles on midvein, moderately to densely hairy, eglandular, rarely stipitate-glandular along midvein. Inflorescences terminal and axillary, 1--2-flowered. Pedicels unarmed or prickles sparse, erect, moderately to densely hairy, eglandular, rarely short-stipitate-glandular. Flowers bisexual; petals pink to magenta, broadly to narrowly obovate, 10--30 mm; filaments laminar; ovaries glabrous. Fruits yellow, orange, or red, globose to ovoid, 1--2 cm; drupelets 20--80, strongly coherent, separating from torus. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering (Feb--)Mar--Jul.</text>
+    <phenology>feb</phenology>
+    <phenology>mar</phenology>
+    <phenology>apr</phenology>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+  </phenology_info>
+  <habitat>woodlands</habitat>
+  <habitat>woodland edges</habitat>
+  <habitat>bogs</habitat>
+  <habitat>shorelines</habitat>
+  <habitat>roadsides</habitat>
+  <habitat>disturbed areas</habitat>
+  <habitat>moist to wet soils</habitat>
+  <elevation>0--2000 m;</elevation>
+  <ca_distribution>B.C.</ca_distribution>
+  <us_distribution>Alaska</us_distribution>
+  <us_distribution>Calif.</us_distribution>
+  <us_distribution>Idaho</us_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <us_distribution>Wash.</us_distribution>
+  <global_distribution>e Asia (Japan)</global_distribution>
+  <global_distribution>introduced in Europe.</global_distribution>
+  <discussion>Rubus spectabilis is a thicket-forming shrub that has relatively large and desirably edible fruit. The species is used as an ornamental primarily for its robust, showy flowers and is naturalized in parts of western Europe. It is sister to the Hawaiian endemic R. hawaiiensis A. Gray. See discussion under 36. R. ursinus for the uncertain application of the name R. menziesii Hooker.</discussion>
+</treatment>
+

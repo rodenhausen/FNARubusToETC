@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>cuneifolius</species_name>
+    <species_authority>pursh</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section cuneifolii;species cuneifolius;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(cuneate-leaved)</other_name>
+  <number>145</number>
+  <description>Stiff, erect to arching fiercely prickly, 3-9 dm. high; primocanes ashy-tomentose when young, with many divergent or recurving broad-based strong pale prickles up to 6 mm. long; primocane-leaves 3- or 5-foliolate, with arcuate-prickly petioles; leaflets subcoriaceous, glabrate or glabrous and green and furrowed above, white-pannose beneath, cuneate-obovate, with subtruncate to broadly rounded summit, often abruptly short-pointed, coarsely dentate-serrate; terminal leaflet 2-5 cm. long; floricane stiffly bushy-branched, its leaflets cuneate-obovate; flowers l-many, on variously prickly or unarmed pedicels; calyx-lobes 6-10 mm. long; petals 1-1.5 cm. long, 7-10 mm. broad; fruit rather dry, sweet, of good flavor, about 1 cm. in diameter.</description>
+  <habitat_elevation_distribution_or_ecology>Dry sandy or rocky soil of Coastal Plain and outer Piedmont, Fla., n. to se. Pa., N.J, and centr. Ct. Fl. May-mid-July; fr. July-Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>emeritus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section hispidi;species emeritus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(unfit for service)</other_name>
+  <number>83</number>
+  <description>Resembling no. 75; canes, petioles and axis of flowering shoot glandless; leaves dull, soft-pubescent beneath; primocane-leaflets 5, oblong-oval or slightly obovate, acute, the terminal one about 6 cm. long and on a petiolule 1 cm. long; pedicels of corymbiform raceme minutely glandular; calyx glandular; petals 10-12 mm. long, about 4 mm. broad.</description>
+  <habitat_elevation_distribution_or_ecology>Dry open ground, w.-centr. N.B. Fl. late June, July.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

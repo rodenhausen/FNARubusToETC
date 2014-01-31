@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <variety_name>obovalis</variety_name>
+    <variety_authority>(michx.) fern,</variety_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section hispidi;species hispidus;variety obovalis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(inverted oval)</other_name>
+  <description>More slender; canes weaker, mostly 1-2 mm. in diameter, quite smooth or with 1-200 bristles per dm.; -petioles of primocane-foliage smooth or with 1- rarely 100 bristles; terminal leaflet 1.5-4.5 cm. long, 1-3.5 cm. broad.</description>
+  <habitat_elevation_distribution_or_ecology>More often in damp habitats, Que. to Wisc., s. to N.S., N.E., L.I., N.C., O., Ind. and Ill.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

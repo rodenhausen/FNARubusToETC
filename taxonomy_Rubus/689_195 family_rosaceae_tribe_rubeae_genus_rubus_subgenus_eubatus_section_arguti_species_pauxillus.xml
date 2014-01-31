@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>pauxillus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species pauxillus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(little)</other_name>
+  <number>195</number>
+  <description>Slender, erect, 2-7 dm. high, the terete canes with slender prickles as long as the diameter, the branches of the floricane strongly ascending; leaves soft-pubescent beneath; primocane-leaves 3-foliolate, short-pilose on upper surface; terminal leaflet subcordate-ovate, 4-6 cm. long; corymb 2-4-flowered; larger simple blades or terminal leaflets of bracts 1.5-2.75 cm. long, oblong-ovate, acute; filiform pedicels erect, glandless or minutely glandular; flowers 2 cm. broad; calyx-lobes about 5 mm. long, soon reflexed.</description>
+  <habitat_elevation_distribution_or_ecology>D.C. and e. Va. to Ga. and Tenn.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

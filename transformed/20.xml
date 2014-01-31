@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>14.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>illecebrosus</species_name>
+    <species_authority>Focke</species_authority>
+    <place_of_publication>
+      <publication_title>Abh. Naturwiss. Vereine Bremen</publication_title>
+      <place_in_publication>16: 278. 1899</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species illecebrosus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Strawberry raspberry I</other_info>
+  <description>Shrubs, 5--10(--15) dm, armed. Stems &lt;annual&gt;, arching to mounding, glabrous, eglandular, not pruinose; prickles sparse, slightly hooked, stout, 3--4 mm, broad-based. Leaves deciduous, pinnately compound; stipules lanceolate to oblanceolate, 8--13 mm; leaflets (3--)5--7, terminal lanceolate to narrowly ovate, (5.5--)6.2--8.5(--9.7) x (1.8--)2.2--3(--4.2) cm, base usually rounded, sometimes truncate to subcordate, unlobed, margins finely to coarsely doubly serrate, apex acuminate, abaxial surfaces with prickles on midvein, glabrous, eglandular. Inflorescences solitary flowers or 2--3-flowered clusters. Pedicels: prickles sparse, slightly hooked, glabrous, eglandular. Flowers bisexual; petals white, broadly obovate to suborbiculate, 12--15(--18) mm; filaments laminar; ovaries glabrous, &lt;styles glabrous&gt;. Fruits red, oblong, 1.4--2 cm; drupelets 50--100, strongly coherent, separating from torus. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering Jun--Sep.</text>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+    <phenology>sep</phenology>
+  </phenology_info>
+  <habitat>disturbed sites</habitat>
+  <elevation>0--1200 m;</elevation>
+  <introduced>introduced;</introduced>
+  <ca_distribution>N.S.</ca_distribution>
+  <ca_distribution>Ont.</ca_distribution>
+  <us_distribution>Conn.</us_distribution>
+  <us_distribution>Ky.</us_distribution>
+  <us_distribution>Maine</us_distribution>
+  <us_distribution>Mass.</us_distribution>
+  <us_distribution>Minn.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <us_distribution>N.C.</us_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <us_distribution>Pa.</us_distribution>
+  <us_distribution>Va.</us_distribution>
+  <us_distribution>W.Va.</us_distribution>
+  <global_distribution>e Asia</global_distribution>
+  <global_distribution>introduced also in South America (Colombia).</global_distribution>
+  <global_distribution>introduced also in South America (Paraguay).</global_distribution>
+  <global_distribution>introduced also in South America (Venezuela).</global_distribution>
+  <discussion>Rubus illecebrosus is distinguished from other raspberries by its prickly, glabrous, eglandular stems, pinnately compound leaves with typically seven lanceolate to narrowly ovate leaflets, relatively large flowers, white petals, and 50--100 drupelets.</discussion>
+</treatment>
+

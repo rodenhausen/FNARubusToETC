@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>aculiferus</species_name>
+    <species_authority>fern.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species aculiferus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(bearing prickles)</other_name>
+  <number>89</number>
+  <description>Resembling no. 88; young primocane at first simple and ascending to 1-2 m., then arching, freely branching and forming intricate domes with branches up to 2 or 3 m. long, their ends trailing and rooting; main stems with many conic-subulate straight prickles and few glands; primocane-foliage submembranaceous; the terminal leaflet 5-8 cm. broad, on an essentially glandless prickly petiolule 1.5-3.5 cm. long; leaflets of floricanes often obovate, coarsely toothed; inflorescence corymbose, cymose or coyrmbose-racemose, with prickleless or merely setose rachis; bladeless upper bracts mostly deeply cleft; many pedicels 3-8 cm. long, divergent; fruit about 1 cm. in diameter, of superior quality.</description>
+  <habitat_elevation_distribution_or_ecology>Borders of dry-woods, roadsides and clearings, n. N.H. Fl. July, early Aug.; fr. late Aug., Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

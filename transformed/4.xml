@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>2a.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>arcticus</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <subspecies_name>arcticus</subspecies_name>
+    <subspecies_authority>* Arctic raspberry</subspecies_authority>
+    <taxon_hierarchy>genus Rubus;species arcticus;subspecies arcticus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>arcticus</species_name>
+    <variety_name>pentaphylloides</variety_name>
+    <variety_authority>Hultén</variety_authority>
+  </TaxonIdentification>
+  <description>Plants 0.5--3 dm. Stems glabrous or sparsely hairy. Leaves ternate; petiole hairy; central leaflets ovate to rhombic, to 6 cm (lateral leaflets shorter), base rounded to attenuate, not cuneate, margins dentate to serrate (sometimes doubly), apex usually acute. Inflorescences: flowers 1--3. Pedicels eglandular. Flowers: sepals deltate, hairy, eglandular or glandular; petals pink, obovate, 8--20 mm, apex entire or emarginate. 2n = 21.</description>
+  <phenology_info>
+    <text>Flowering Jun--Aug.</text>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+  </phenology_info>
+  <habitat>subalpine meadows</habitat>
+  <habitat>bogs</habitat>
+  <habitat>thickets</habitat>
+  <habitat>tundra</habitat>
+  <habitat>peaty soils</habitat>
+  <elevation>0--2000 m;</elevation>
+  <ca_distribution>Alta.</ca_distribution>
+  <ca_distribution>B.C.</ca_distribution>
+  <ca_distribution>N.W.T.</ca_distribution>
+  <ca_distribution>Yukon</ca_distribution>
+  <us_distribution>Alaska</us_distribution>
+  <us_distribution>Wash.</us_distribution>
+  <global_distribution>Eurasia.</global_distribution>
+</treatment>
+

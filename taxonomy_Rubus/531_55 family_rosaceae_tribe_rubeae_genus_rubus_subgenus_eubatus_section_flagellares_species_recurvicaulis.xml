@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>recurvicaulis</species_name>
+    <species_authority>blanch,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species recurvicaulis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(with recurving stems)</other_name>
+  <number>55</number>
+  <description>Trailing or soon recurving and prostrate and tip-rooting, up to 2.5 m. long (or in the smallest extremes the primocanes short or tardily developed), with relatively few (or none in var. inarmatus Blanch.) slenderly subulate straightish prickles; primocane-leaves firm, opaque, glabrous on both faces or pilose only on nerves beneath, 5 (more rarely 3)-foliolate; the ovate to rhombic-elliptic or oval leaflets acuminate, unequally serrate or serrate-dentate, flat, their principal nerves not impressed above nor unusually prominent beneath; terminal leaflet subcordate or rounded at base, 3-12 cm. long; floricane-leaves and lower bracts 3-foliolate or 3-lobed, the leaflets from broad-ovate to narrowly obovate; inflorescences short racemes or racemiform corymbs, leafy-bracted only at base, mostly 3-15(-40)-flowered; all but the lowest spreading-ascending to divaricate glabrescent, puberulent or incurved pilose pedicels (1-5 cm. long) subtended by reduced narrow bracts, the pedicels unarmed or (in R. armatus (Fern.) Bailey) armed with needle-like prickles; calyx sparsely pubescent or glabrescent, its lobes loosely spreading or ascending in fruit; petals 4-9 mm. broad; fruit of rich quality, 1-1.5 cm. in diameter. (Incl. the smallest extremes, R. oriens and rhodinsulanus of Bailey, at least the former chiefly riparian plants of which the primocanes are often destroyed by action of frost, shifting stones or ice and freshet; also R. fandus, aptatus, uvidus, bretonis, polybotrys, botruosus of Bailey, and some others)</description>
+  <habitat_elevation_distribution_or_ecology>Dry or gravelly open habitats, s. Nfld. to Ont., s. to N.S., s. N.E., N.Y., Mich. and Wisc. Fl. June-Aug.; fr. mid-July-Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

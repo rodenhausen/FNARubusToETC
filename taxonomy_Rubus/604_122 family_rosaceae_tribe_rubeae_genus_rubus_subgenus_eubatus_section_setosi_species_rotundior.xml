@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>rotundior</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section setosi;species rotundior;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(rounder)</other_name>
+  <number>122</number>
+  <description>Similar to no. 121 but nearly glandless; terminal primocane-leaflet round-ovate, abruptly tipped; floricane-leaflets broadly obovate, strongly rounded at summit; axis of inflorescences and pedicels with few or no setae.</description>
+  <habitat_elevation_distribution_or_ecology>Sw. Que. to Wisc.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>louisianus</species_name>
+    <species_authority>berger</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species louisianus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(of louisiana)</other_name>
+  <number>169</number>
+  <description>Differing from no. 168 in the very fine teeth of the primocane-leaflets, these only 2-3 mm. long; simple blades and terminal leaflets of bracteal leaves only one-third as broad as long; fruit amber-white.</description>
+  <habitat_elevation_distribution_or_ecology>Local, S.C. to La., n. to e. Md., Va. and Ky.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

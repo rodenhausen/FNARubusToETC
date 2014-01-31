@@ -1,7 +1,10 @@
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.Arrays;
+import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.regex.Matcher;
@@ -31,7 +34,7 @@ public class FileConverter {
 		Element outputRoot = new Element("treatment");
 		Document outputDoc = new Document(outputRoot);
 		outputDoc.setRootElement(outputRoot);
-		
+
 		createMeta(inputDoc, inputRoot, outputRoot);
 		createTaxonIdentification(inputDoc, inputRoot, outputRoot);
 		createNumber(inputDoc, inputRoot, outputRoot);
@@ -45,6 +48,11 @@ public class FileConverter {
 		xmlOutput.setFormat(Format.getPrettyFormat());
 		xmlOutput.output(outputDoc, new FileWriter(output));
 		return outputDoc;
+	}
+
+	private void createProcessor(Document inputDoc, Element inputRoot,
+			Element outputRoot) throws JDOMException {
+
 	}
 
 	private void createKey(Document inputDoc, Element inputRoot, Element outputRoot) throws JDOMException {
@@ -85,7 +93,15 @@ public class FileConverter {
 	}
 
 	private void createHabitatElevationDistriEcology(Document inputDoc,	Element inputRoot, Element outputRoot) throws JDOMException {
-		XPath xpath = XPath.newInstance("/treatment/habitat");
+		XPath xpath = XPath.newInstance("/treatment/habitat_elevation_distribution_or_ecology");
+		List<Element> descriptionTypes = xpath.selectNodes(inputRoot);
+		if(!descriptionTypes.isEmpty()) {
+			DescriptionNodeCreator descriptionNodeCreator = new DescriptionNodeCreator();
+			List<Element> descriptionNodes = descriptionNodeCreator.getNodes(descriptionTypes);
+			addToOutput(outputRoot, descriptionNodes, descriptionTypes);
+		}
+		
+		xpath = XPath.newInstance("/treatment/habitat");
 		List<Element> nodes = xpath.selectNodes(inputDoc);
 		for(Element node : nodes) {
 			Element habitatElement = new Element("description");
@@ -172,7 +188,8 @@ public class FileConverter {
 	private void createNumber(Document inputDoc, Element inputRoot,	Element outputRoot) throws JDOMException {
 		XPath xpath = XPath.newInstance("/treatment/number");
 		Element node = (Element)xpath.selectSingleNode(inputDoc);
-		addToOutput(outputRoot, node);
+		if(node != null)
+			addToOutput(outputRoot, node);
 	}
 
 	private void createTaxonIdentification(Document inputDoc, Element inputRoot, Element outputRoot) throws JDOMException {
@@ -192,32 +209,77 @@ public class FileConverter {
 			node.setName("taxon_identification");
 		}
 		addToOutput(outputRoot, nodes);
+		
+		xpath = XPath.newInstance("/treatment/taxon_identification");
+		nodes = xpath.selectNodes(inputDoc);
+		addToOutput(outputRoot, nodes);
 	}
 
 	private void createMeta(Document inputDoc, Element inputRoot, Element outputRoot) throws JDOMException {
-		Element meta = new Element("meta");
-		Element source = new Element("source");
-		
-		XPath xpath = XPath.newInstance("/treatment/author");
-		List<Element> nodes = xpath.selectNodes(inputDoc);
-		
-		Element author = new Element("author");
-		if(!nodes.isEmpty()) {
-			String authorString = "";
-			for(Element node : nodes) {
-				authorString += node.getValue() + ", ";
+		XPath xpath = XPath.newInstance("/treatment/meta");
+		Element node = (Element)xpath.selectSingleNode(inputRoot);
+		if(node != null) {
+			Element source = node.getChild("source");
+			source.setText("");
+			Element author = new Element("author");
+			author.setText("Gray");
+			Element dateElement = new Element("date");
+			dateElement.setText("1950");
+			source.addContent(author);
+			source.addContent(dateElement);
+
+			xpath = XPath.newInstance("/treatment/meta/processed_by");
+			Element processedByNode = (Element) xpath.selectSingleNode(inputRoot);
+			if(processedByNode != null) {
+				xpath = XPath.newInstance("/treatment/meta/processed_by/processor");
+				List<Element> nodes = xpath.selectNodes(inputRoot);
+				for(Element processorNode : nodes) {
+					processorNode.setText("");
+					processorNode.removeAttribute("process_type");
+					dateElement = new Element("date");
+					DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+					Date date = new Date();
+					dateElement.setText(dateFormat.format(date));
+					processorNode.addContent(dateElement);
+					Element software = new Element("software");
+					software.setText("Text2XML");
+					software.setAttribute("type", "format_conversion");
+					software.setAttribute("version", "f0a80a8516a06e51224d01314403eb26d60f881d");
+					processorNode.addContent(software);
+					Element operator = new Element("operator");
+					operator.setText("Hong, Cui");
+					processorNode.addContent(operator);
+				}
+				this.addToOutput(processedByNode, nodes);
 			}
-			author.setText(authorString.substring(0, authorString.length() - 2));
+
+			addToOutput(outputRoot, node);
+			
 		} else {
-			author.setText("N/A");
+			Element meta = new Element("meta");
+			Element source = new Element("source");
+			
+			xpath = XPath.newInstance("/treatment/author");
+			List<Element> nodes = xpath.selectNodes(inputDoc);
+			
+			Element author = new Element("author");
+			if(!nodes.isEmpty()) {
+				String authorString = "";
+				for(Element authorNode : nodes) {
+					authorString += authorNode.getValue() + ", ";
+				}
+				author.setText(authorString.substring(0, authorString.length() - 2));
+			} else {
+				author.setText("N/A");
+			}
+			
+			Element date = new Element("date");
+			date.setText("N/A");
+			meta.addContent(source);
+			addToOutput(source, author, nodes);
+			addToOutput(source, date);
+			addToOutput(outputRoot, meta);
 		}
-		
-		Element date = new Element("date");
-		date.setText("N/A");
-		meta.addContent(source);
-		addToOutput(source, author, nodes);
-		addToOutput(source, date);
-		addToOutput(outputRoot, meta);
 	}
 
 	private void addToOutput(Element parent, List<Element> nodes) {
@@ -239,6 +301,15 @@ public class FileConverter {
 		for(Element sourceNode : sourceNodes) {
 			this.removeFromUnusedElementsRecursively(sourceNode);
 		}
+	}
+	
+	private void addToOutput(Element parent, List<Element> nodes, List<Element> sourceNodes) {
+		for(Element node : nodes) {
+			node.detach();
+			parent.addContent(node);
+		}
+		for(Element node : sourceNodes) 
+			this.removeFromUnusedElementsRecursively(sourceNode);
 	}
 	
 	private void removeFromUnusedElementsRecursively(Element node) {

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>particularis</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species particularis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(special or apart from others, "not closely related")</other_name>
+  <number>42</number>
+  <description>Relatively coarse, the strongly armed canes up to 5 mm. thick and bearing stout straight prickles up to 3 or 4 mm. long; leaves soft-pilose beneath; primocane-leaves 5-foliolate, with densely villous petiole and petiolules; the median leaflets on elongate petiolules, elliptic-ovate, these and the broadly elliptic terminal one abruptly caudate-acuminate; stipules narrowly linear, 1-1.5 cm. long; floricane with densely villous flowering shoots, their leaflets oblong to narrowly elliptic-obovate; flowers 1 or 2 on erect strongly pubescent pedicels only 1-1.5 cm. long in anthesis.</description>
+  <habitat_elevation_distribution_or_ecology>Upland of W.Va.</habitat_elevation_distribution_or_ecology>
+  <description> </description>
+</treatment>
+

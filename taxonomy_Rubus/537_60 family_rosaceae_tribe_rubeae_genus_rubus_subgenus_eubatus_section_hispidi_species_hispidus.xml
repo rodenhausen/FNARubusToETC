@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>hispidus</species_name>
+    <species_authority>l.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section hispidi;species hispidus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(bristly)</other_name>
+  <number>60</number>
+  <description>Trailing, up to 2.5 m. long; canes woody, the stronger portions 2-5 mm. thick; primocanes with 300-2000 bristles and intermixed glands per dm. on the median and terminal growth; leaves coriaceous, mostly evergreen, lustrous, dark green, often purple- or bronze-tinged (especially beneath), with 3 (rarely 5) obtuse to abruptly short-pointed obovate to rhombic-ovate or suborbicular blunt-toothed leaflets; petioles of principal new primocane-foliage with. 100-500 bristles; terminal leaflet 2.5-7 cm. long, 2-5.5 cm, broad; floricanes somewhat less bristly, the leaves smaller, the terminal leaflet 1.5-6 cm. long; inflorescence a lax corymb, cyme or irregular raceme; pedicels spreading or ascending, minutely pilose, with or mostly without stiffish bristles; calyx pubescent, mostly without bristles or glands; petals 5-9 mm. long, 2-5 mm. broad; fruit seedy, tardily blackening, (Var. major Blanch., in part)</description>
+  <habitat_elevation_distribution_or_ecology>Moist or dry open soil, ditches, swales and open woods, P.E.I. to Algoma Distr., Ont., s. to N.S., N.E., Del., Md. and upland to N.C. Fl. June-early Sept.; fr. mid-Aug.-Oct. Passing into</habitat_elevation_distribution_or_ecology>
+</treatment>
+

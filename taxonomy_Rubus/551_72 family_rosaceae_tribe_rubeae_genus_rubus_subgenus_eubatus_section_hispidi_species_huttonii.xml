@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>huttonii</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section hispidi;species huttonii;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(named in 1947 for its discoverer, eugene e. hutton, jr.)</other_name>
+  <number>72</number>
+  <description>Differing from no. 68 in the copiously stipitate-glandular slender canes; primocane-leaves coriaceous but opaque, subpersistent, 3-foliolate; the leaflets abruptly short-acuminate, glabrous except on nerves beneath, sharply serrate; terminal leaflet of 3-foliolate bracts elliptic-ovate, acute, the simple upper bracts nearly overtopping the corymb.</description>
+  <habitat_elevation_distribution_or_ecology>Mts. of W.Va.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>32.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>setosus</species_name>
+    <species_authority>Bigelow</species_authority>
+    <place_of_publication>
+      <publication_title>Fl. Boston. ed.</publication_title>
+      <place_in_publication>2, 198. 1824</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species setosus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Bristly blackberry , ronce sétuleuse E</other_info>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>apparatus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>beatus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>benneri</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>bicknellii</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>boottianus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>condignus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>deaneanus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>discretus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>dissensus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>dissimilis</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>electus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>exter</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>fulleri</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>groutianus</species_name>
+    <species_authority>Blanchard</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>gulosus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>hispidoides</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>hispidus</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <variety_name>suberectus</variety_name>
+    <variety_authority>Peck</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>jejunus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>junceus</species_name>
+    <species_authority>Blanchard</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>junior</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>lawrencei</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>mediocris</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>navus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>nocivus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>notatus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>ortivus</species_name>
+    <species_authority>(L. H. Bailey) L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>perinvisus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>racemiger</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>regionalis</species_name>
+    <species_authority>(L. H. Bailey) L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>reravus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>rotundior</species_name>
+    <species_authority>(L. H. Bailey) L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>schneideri</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>semisetosus</species_name>
+    <species_authority>Blanchard</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>spectatus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>stipulatus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>uniformis</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>univocus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>vermontanus</species_name>
+    <species_authority>Blanchard</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>viridifrons</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>wheeleri</species_name>
+    <species_authority>(L. H. Bailey) L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <description>Shrubs, 2--10(--15) dm, armed. Stems &lt;biennial&gt;, erect to arching, rarely creeping, &lt;not node- or tip-rooting&gt;, sparsely to moderately hairy, sparsely to densely long-, rarely short-stipitate-glandular, &lt;glands rounded to flattened&gt;, not pruinose; prickles absent or sparsely to moderately dense, erect to retrorse, weak, slender, 1--3(--5) mm, narrow-based; &lt;bristles sparse to dense, erect to retrorse, green to reddish, narrow, semi-rigid, sometimes flexible, not gland-tipped&gt;. Leaves deciduous, ternate or palmately compound, &lt;sometimes +/- lustrous&gt;; stipules filiform to lanceolate, 5--20(--38) mm; leaflets (3--)5, terminal obovate or elliptic to rhombic, 4.5--11.5 x 2--7 cm, base cuneate to narrowly rounded, unlobed, margins moderately, coarsely serrate to doubly serrate or serrate-dentate, apex acute or acuminate to short-attenuate, abaxial surfaces unarmed or with bristles on midvein, sparsely to moderately hairy, eglandular or sparsely to moderately sessile- to long-stipitate-glandular along larger veins. Inflorescences terminal &lt;on short shoots, sometimes appearing axillary&gt;, 5--15(--20)-flowered, racemiform, cymiform, or thyrsiform. Pedicels prickles or bristles sparse to dense, erect to retrorse, moderately to densely hairy, moderately to densely stipitate-glandular. Flowers bisexual; petals white, obovate to oblanceolate, 6--13 mm; filaments filiform; ovaries glabrous. Fruits black, globose, 0.7--1.5 cm; drupelets 5--25, strongly coherent, separating with torus attached. 2n = 14, 21, 28, 35.</description>
+  <phenology_info>
+    <text>Flowering Jun--Jul(--Aug).</text>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+  </phenology_info>
+  <habitat>open woodlands</habitat>
+  <habitat>savannas</habitat>
+  <habitat>prairies</habitat>
+  <habitat>meadows</habitat>
+  <habitat>disturbed areas</habitat>
+  <habitat>dry to wet soils</habitat>
+  <elevation>0--1000 m;</elevation>
+  <ca_distribution>N.B.</ca_distribution>
+  <ca_distribution>Nfld. and Labr. (Nfld.)</ca_distribution>
+  <ca_distribution>N.S.</ca_distribution>
+  <ca_distribution>Ont.</ca_distribution>
+  <ca_distribution>P.E.I.</ca_distribution>
+  <ca_distribution>Que.</ca_distribution>
+  <us_distribution>Conn.</us_distribution>
+  <us_distribution>Del.</us_distribution>
+  <us_distribution>D.C.</us_distribution>
+  <us_distribution>Ill.</us_distribution>
+  <us_distribution>Ind.</us_distribution>
+  <us_distribution>Iowa</us_distribution>
+  <us_distribution>Maine</us_distribution>
+  <us_distribution>Md.</us_distribution>
+  <us_distribution>Mass.</us_distribution>
+  <us_distribution>Mich.</us_distribution>
+  <us_distribution>Minn.</us_distribution>
+  <us_distribution>N.H.</us_distribution>
+  <us_distribution>N.J.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <us_distribution>Ohio</us_distribution>
+  <us_distribution>Pa.</us_distribution>
+  <us_distribution>R.I.</us_distribution>
+  <us_distribution>Vt.</us_distribution>
+  <us_distribution>Va.</us_distribution>
+  <us_distribution>W.Va.</us_distribution>
+  <us_distribution>Wis.</us_distribution>
+  <discussion>Rubus setosus is identified by erect to arching, rarely creeping, not tip-rooting, terete primocanes, always setose but variable in density, and deciduous primocane leaves that are often palmately compound with five leaflets. Cultivated plants sometimes alternate from erect to creeping (or vice-versa) in successive years, depending on changing soil conditions.</discussion>
+  <discussion>The following nothospecies names are based on putative hybrids involving Rubus setosus and: R. allegheniensis (R. x\abbrevians Blanchard, R. x\aculiferus Fernald, R. x\adenocaulis Fernald, R. x\angustifoliatus L. H. Bailey, R. x\ascendens Blanchard, R. x\atwoodii L. H. Bailey, R. x\clausenii L. H. Bailey, R. x\flavinanus Blanchard, R. x\frondisentis Blanchard, R. x\perspicuus L. H. Bailey, R. x\ravus L. H. Bailey); R. canadensis (R. x\miscix L. H. Bailey); R. flagellaris (R. x\alter L. H. Bailey, R. x\arcuans Fernald &amp; H. St. John, R. x\biformispinus Blanchard, R. x\bigelovianus L. H. Bailey, R. x\bracteolifer Fernald, R. x\jacens Blanchard var. specialis L. H. Bailey, R. x\laevior (L. H. Bailey) Fernald, R. x\multiformis Blanchard, R. x\setospinosus L. H. Bailey, R. x\severus Brainerd ex Fernald); R. hispidus (R. x\adjacens Fernald, R. x\grandidens L. H. Bailey, R. x\harmonicus L. H. Bailey, R. x\jacens Blanchard, R. x\parlinii L. H. Bailey, R. x\spiculosus Fernald, R. x\tardatus Blanchard, R. x\tholiformis Fernald, R. x\trifrons Blanchard, R. x\zaplutus L. H. Bailey); R. pensilvanicus (R. x\wisconsinensis L. H. Bailey).</discussion>
+</treatment>
+

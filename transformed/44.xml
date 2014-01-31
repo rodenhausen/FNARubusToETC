@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>36.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>ursinus</species_name>
+    <species_authority>Chamisso &amp; Schlechtendal</species_authority>
+    <place_of_publication>
+      <publication_title>Linnaea</publication_title>
+      <place_in_publication>2: 11. 1827</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species ursinus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* California, Pacific, or creeping blackberry</other_info>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>eastwoodianus</species_name>
+    <species_authority>Rydberg</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>macropetalus</species_name>
+    <species_authority>Douglas ex Hooker</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>sirbenus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>ursinus</species_name>
+    <variety_name>eastwoodianus</variety_name>
+    <variety_authority>(Rydberg) J. T. Howell</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>ursinus</species_name>
+    <subspecies_name>macropetalus</subspecies_name>
+    <subspecies_authority>(Douglas ex Hooker) Roy L. Taylor &amp; MacBryde</subspecies_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>ursinus</species_name>
+    <variety_name>macropetalus</variety_name>
+    <variety_authority>(Douglas ex Hooker) S. W. Brown</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>ursinus</species_name>
+    <variety_name>sirbenus</variety_name>
+    <variety_authority>(L. H. Bailey) J. T. Howell</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>vitifolius</species_name>
+    <species_authority>Chamisso &amp; Schlechtendal</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>vitifolius</species_name>
+    <variety_name>eastwoodianus</variety_name>
+    <variety_authority>(Rydberg) Munz</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>vitifolius</species_name>
+    <subspecies_name>ursinus</subspecies_name>
+    <subspecies_authority>(Chamisso &amp; Schlechtendal) Abrams</subspecies_authority>
+  </TaxonIdentification>
+  <description>Shrubs, &lt;usually dioecious&gt;, 0.5--2 dm, armed. Stems &lt;biennial&gt;, creeping (often growing over other vegetation), sparsely to densely hairy, eglandular or sparsely to densely sessile- to stipitate-glandular, usually strongly pruinose; prickles moderate to dense, erect to retrorse or hooked, weak to moderately stout, 4--10 mm, narrow- to broad-based. Leaves deciduous or persistent, usually ternate, sometimes simple or pinnately compound; stipules filiform to linear, 7--17 mm; leaflets 3(--5), terminal ovate to lanceolate, 3.5--12 x 3--10 cm, base cuneate or rounded to cordate, shallowly sharp-lobed or unlobed, margins coarsely serrate to doubly serrate, apex acute to acuminate, abaxial surfaces with slender, erect prickles on larger veins, moderately to densely hairy, eglandular, rarely sparsely sessile-glandular along midvein. Inflorescences terminal &lt;on short shoots, usually appearing axillary&gt;, 1--5-flowered, cymiform or racemiform. Pedicels: prickles moderate to dense, erect, densely hairy, eglandular or sparsely to densely stipitate-glandular. Flowers usually functionally unisexual; petals white, in staminate flowers ovate or obovate to narrowly elliptic, 7--18 mm, in pistillate ovate to elliptic, 6--11 mm; filaments filiform; ovaries glabrous or hairy. Fruits black, sometimes red or purple, rarely white, &lt;not pruinose&gt;, globose to cylindric, 1--2.5 cm; drupelets 20--50, strongly coherent, separating with torus attached. 2n = 42, 56, 63, 70, 77, 84, 91.</description>
+  <phenology_info>
+    <text>Flowering (Jan--)Mar--Aug(--Sep).</text>
+    <phenology>jan</phenology>
+    <phenology>mar</phenology>
+    <phenology>apr</phenology>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+    <phenology>sep</phenology>
+  </phenology_info>
+  <habitat>woodlands</habitat>
+  <habitat>shrublands</habitat>
+  <habitat>open or disturbed areas</habitat>
+  <habitat>dry to damp soils</habitat>
+  <elevation>0--1600 m;</elevation>
+  <ca_distribution>B.C.</ca_distribution>
+  <us_distribution>Calif.</us_distribution>
+  <us_distribution>Idaho</us_distribution>
+  <us_distribution>Mont.</us_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <us_distribution>Wash.</us_distribution>
+  <us_distribution>Mexico (Baja California).</us_distribution>
+  <discussion>In habit, Rubus ursinus is often reminiscent of the predominantly eastern North American, non-sympatric R. flagellaris; it is also polymorphic. Rubus ursinus comprises a polyploid spectrum dominated by octaploid and dodecaploid plants. It is an allopolyploid involving phylogenetically distant ancestors with its closest relative being the Hawaiian endemic R. macraei A. Gray. See S. W. Brown (1943) for a discussion of morphological and chromosome number variation in R. ursinus. The widespread, glaucous-stemmed, trifoliate-leaved forms of R. ursinus are vegetatively nearly identical to R. caesius. Of agricultural significance, R. ursinus is a parent of some important cultivars, including loganberry and boysenberry.</discussion>
+  <discussion>There has been uncertainty whether the name Rubus menziesii Hooker and subsequent combinations [Parmena menziesii (Hooker) Greene, R. spectabilis var. menziesii (Hooker) S. Watson, and R. ursinus var. menziesii (Hooker) Focke] pertain to R. spectabilis or R. ursinus. The protologue by Hooker describes a hairy, relatively small, procumbent plant, which is congruent with R. ursinus. The type specimen at Kew also looks like R. ursinus. In the protologue Hooker also claimed the species has red petals and suggested that it may have an affinity with R. spectabilis.</discussion>
+  <discussion>Specimens examined for this study of North American collections attributed to Rubus macrophyllus Weihe &amp; Nees (synonym R. amplificatus Lees) are R. ursinus. If R. macrophyllus was once present in the flora area it is likely absent now; some reports of R. macrophyllus could represent hybrids. There are reports of R. ursinus hybridizing with R. bifrons and R. pensilvanicus in California (T. S. Mallah 1954; L. V. Clark 2011; L. A. Alice, unpubl.{{JZ: but he is an author}}{{CH: remove?}}).</discussion>
+</treatment>
+

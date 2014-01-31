@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>16.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>lasiococcus</species_name>
+    <species_authority>A. Gray</species_authority>
+    <place_of_publication>
+      <publication_title>Proc. Amer. Acad. Arts</publication_title>
+      <place_in_publication>17: 201. 1882</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species lasiococcus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Roughfruit berry E</other_info>
+  <description>Herbs, 1--1.5 dm, unarmed. Stems creeping, &lt;flowering branches erect&gt;, sparsely hairy, eglandular or sparsely to moderately short-stipitate-glandular, not pruinose. Leaves deciduous, simple or ternate; stipules broadly elliptic to ovate, 5--10 mm; leaflets 3(--5), blade reniform or orbiculate, terminal lobe or leaflets broadly obovate to obovate-cuneate, 1.5--4(--6) x 1.5--4(--6) cm, base cordate, 3(--5)-lobed, margins coarsely doubly dentate, apex rounded to acute, abaxial surfaces sparsely hairy on veins, eglandular. Inflorescences 1--2-flowered. Pedicels sparsely to moderately hairy, short-stipitate-glandular. Flowers bisexual; petals white, broadly elliptic to obovate to orbiculate, (5--)8--10(--12) mm; filaments filiform; ovaries densely hairy, &lt;styles glabrous&gt;. Fruits red, hemispheric, 1 cm; drupelets 5--15, weakly coherent, falling separately or as loose units free from torus. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering May--Aug.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+  </phenology_info>
+  <habitat>moist to dry, semi-open forests</habitat>
+  <habitat>wet meadows</habitat>
+  <habitat>roadsides</habitat>
+  <habitat>dry sand</habitat>
+  <elevation>800--2000 m;</elevation>
+  <ca_distribution>B.C.</ca_distribution>
+  <us_distribution>Calif.</us_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <us_distribution>Wash.</us_distribution>
+  <discussion>Rubus lasiococcus is recognized by its creeping, unarmed stems, simple 3-lobed to 3-foliate leaves, small flowers, white petals, and densely hairy ovaries.</discussion>
+</treatment>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>leviculus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species leviculus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(very small)</other_name>
+  <number>41</number>
+  <description>More delicate than no. 40; the flexible and cord-like very prolonged greenish to pale brown canes almost prickleless or with remote bristle-like straight or slightly curved prickles only 1-2 mm. long; leaves very thin, at first pilose but becoming glabrescent beneath; primocane-leaves 3-foliolate, with the coarsely serrate-dentate leaflets mostly less than half as broad as long and attenuate, the lower leaflets cuneate to subsessile base, the terminal one narrowly rhombic- or elliptic-ovate; principal leaves of flowering shoots similar and coarsely serrate-dentate; flowers solitary on sparsely spreading-villous and stipitate-glandular pedicels; fruit very rich and juicy, about 1.5 cm. in diameter.</description>
+  <habitat_elevation_distribution_or_ecology>Thin woods, bottoms and fertile thickets, e. S.C. to se. Va. Fl. late April; fr. June.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

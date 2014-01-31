@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>rosagnetis</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species rosagnetis;</taxon_hierarchy>
+  </taxon_identification>
+  <number>34</number>
+  <description type="morphology">Canes 3-4 mm. thick, copiously armed with broad-based and hooked prickles; leaves soft-pilose beneath; primocane-leaves 3-foliolate, with strongly armed glandless or glandular petioles; leaflets sharply double-serrate, the terminal one ovate and tapering to long acumination; flowering axis and pedicels copiously glandular; the strongly ascending pedicels mostly overtopping their subtending bracts; petals 1.5-2 cm. long, 1 cm. broad. (Incl. R. Deamii Bailey which seems to differ chiefly in glandless petioles of primocane-leaves; R. Gordonii Bailey)</description>
+  <description type="morphology">?</description>
+</treatment>
+

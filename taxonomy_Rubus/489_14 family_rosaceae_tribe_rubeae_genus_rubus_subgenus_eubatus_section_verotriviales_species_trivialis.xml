@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>trivialis</species_name>
+    <species_authority>mi-c.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section verotriviales;species trivialis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(ordinary), southern dewberry</other_name>
+  <number>14</number>
+  <description>Trailing or low-arching and soon depressed, with slender tough terete canes, tip-rooting; primocanes and usually floricanes bearing glandular bristles among the hard curved prickles; leaves of primocanes coriaceous, somewhat evergreen; the usually 5 glabrous leaflets oblong to lanceolate, coarsely toothed, 2-10 cm. long, 1-3 cm, broad; leaflets of floricanes smaller; flowers 1-few on erect filiform bristly or glandular otherwise glabrous long pedicels; calyx glabrous or glabrescent on back or glandular; petals obovate, 7-10 mm. broad; fruit subglobose to elongate, black, (Incl. R. rubrisetus Rydb. And R. continentalis (Focke) Bailey)</description>
+  <habitat_elevation_distribution_or_ecology>Low to dry grounds of Coastal Plain, Fla. to Tex., n. to Md., Mo. and Okla. Fl. April, May; fr. late May, June.</habitat_elevation_distribution_or_ecology>
+  <description> </description>
+</treatment>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>argutus</species_name>
+    <species_authority>link</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species argutus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(sharply serrate)</other_name>
+  <number>168</number>
+  <description>Erect or high-arching and stiff, up to 2.5 m. high; primocanes angled and furrowed when young, with scattered subulate straight or slightly arching hard prickles mostly 4-10 mm. long, the stouter prickles broadening at base to a width of 2-5 mm,; primocane-leaflets mostly 5-foliolate, the glabrous petiole with a few unguiculate prickles; leaflets narrowly oblong-lanceolate, acuminate, velvety beneath; the terminal one about one-third as broad as long and gradually narrowed to base, with mostly sharp simple coarse teeth 3-6 mm. long; full-grown primocane-leaflets usually with 3-4 (-5) teeth per cm, of median margin; floricanes with leaflets of flowering shoots coarsely toothed; racemes few-flowered, often corymbiform, the rachis unguiculate-prickly, the narrow bracteal leaves and leaflets coarsely and mostly simply toothed, the densely pilose pedicels mostly unarmed; calyx-lobes lanceolate or lance-ovate; petals 1.2 cm. long, 6 mm. broad; fruit globose to thick-cylindric, 1 cm. thick. (Inch R. incisifrons Bailey)</description>
+  <habitat_elevation_distribution_or_ecology>Dry or moist thickets and borders of woods, Ga. and Ala. to Ark., n. to se. Mass., N.J., Pa., Ky. and s. Ill. Fl. May, early June; fr. late June-early Aug.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

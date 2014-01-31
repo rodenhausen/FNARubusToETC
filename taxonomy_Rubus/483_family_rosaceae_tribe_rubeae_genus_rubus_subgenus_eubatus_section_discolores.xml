@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <section_name>discolores</section_name>
+    <section_authority>p. j. muell.</section_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section discolores;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(see p. 822)two european species natzd.:</other_name>
+  <key>
+    <key_heading>Key 33</key_heading>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Canes canescent toward tips; panicle  thyrsiform-subcylindric, its prickles falcate</statement>
+      <determination>11. R. procerus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Canes nearly or quite glabrous; panicle, when well developed, pyramidal, its prickles straight</statement>
+      <determination>12. R. bifrons.</determination>
+    </key_statement>
+  </key>
+</treatment>
+

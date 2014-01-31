@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>4.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>bifrons</species_name>
+    <species_authority>Vest</species_authority>
+    <place_of_publication>
+      <publication_title>Steyermärk. Z.</publication_title>
+      <place_in_publication>3: 163. 1821</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species bifrons;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* European or Himalayan blackberry IW</other_info>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>armeniacus</species_name>
+    <species_authority>Focke</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>linkianus</species_name>
+    <species_authority>Seringe</species_authority>
+  </TaxonIdentification>
+  <description>Shrubs, (3--)10--50 dm, armed. Stems &lt;biennial&gt;, arching, sometimes creeping early or with age, sparsely to densely hairy, eglandular or sparsely sessile-glandular, not or weakly pruinose; prickles moderately dense, hooked, retrorse, or erect, stout, 4--10 mm, broad- or narrow-based. Leaves deciduous to semievergreen, palmately compound; stipules filiform to linear, 7--15 mm; leaflets 3--5, terminal elliptic or ovate to suborbiculate, 6--15 x 4--9 cm, base rounded to shallowly cordate, unlobed, margins moderately to coarsely serrate, apex acute or acuminate to short-attenuate, abaxial surfaces white (gray-green in shade), with hooked prickles on largest veins, short-velutinous to tomentose, eglandular, rarely sparsely sessile-glandular along midveins. Inflorescences terminal, sometimes also axillary, 10--60(--100)-flowered, thyrsiform, &lt;projected well beyond subtending leaves&gt;. Pedicels: prickles moderate to dense, hooked to retrorse or erect, densely hairy, eglandular or sparsely to moderately sessile-glandular. Flowers bisexual; petals white to pink, obovate or elliptic to orbiculate, 10--15 mm; filaments filiform; ovaries apically hairy. Fruits black, globose to subcylindric, 1--2 cm; drupelets 15--40(--50), strongly coherent, separating with torus attached. 2n = 28, 48.</description>
+  <phenology_info>
+    <text>Flowering (Apr--)May--Aug(--Sep).</text>
+    <phenology>apr</phenology>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+    <phenology>sep</phenology>
+  </phenology_info>
+  <habitat>woodland edges</habitat>
+  <habitat>dry or mixed woods</habitat>
+  <habitat>open areas</habitat>
+  <habitat>often disturbed, roadsides</habitat>
+  <habitat>moist soils</habitat>
+  <elevation>0--1200(--1800) m;</elevation>
+  <introduced>introduced;</introduced>
+  <ca_distribution>B.C.</ca_distribution>
+  <ca_distribution>Ont.</ca_distribution>
+  <us_distribution>Ala.</us_distribution>
+  <us_distribution>Alaska</us_distribution>
+  <us_distribution>Ariz.</us_distribution>
+  <us_distribution>Ark.</us_distribution>
+  <us_distribution>Calif.</us_distribution>
+  <us_distribution>Colo.</us_distribution>
+  <us_distribution>Conn.</us_distribution>
+  <us_distribution>D.C.</us_distribution>
+  <us_distribution>Ga.</us_distribution>
+  <us_distribution>Idaho</us_distribution>
+  <us_distribution>Ill.</us_distribution>
+  <us_distribution>Kans.</us_distribution>
+  <us_distribution>Ky.</us_distribution>
+  <us_distribution>La.</us_distribution>
+  <us_distribution>Md.</us_distribution>
+  <us_distribution>Mass.</us_distribution>
+  <us_distribution>Miss.</us_distribution>
+  <us_distribution>Mo.</us_distribution>
+  <us_distribution>Mont.</us_distribution>
+  <us_distribution>Nev.</us_distribution>
+  <us_distribution>N.J.</us_distribution>
+  <us_distribution>N.Mex.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <us_distribution>N.C.</us_distribution>
+  <us_distribution>Ohio</us_distribution>
+  <us_distribution>Okla.</us_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <us_distribution>Pa.</us_distribution>
+  <us_distribution>R.I.</us_distribution>
+  <us_distribution>S.C.</us_distribution>
+  <us_distribution>Tenn.</us_distribution>
+  <us_distribution>Tex.</us_distribution>
+  <us_distribution>Utah</us_distribution>
+  <us_distribution>Va.</us_distribution>
+  <us_distribution>Wash.</us_distribution>
+  <global_distribution>Europe.</global_distribution>
+  <discussion>Rubus bifrons lacks the strongly pruinose stems of the related R. ulmifolius and has usually much larger leaves. The species also often has much broader inflorescences than R. ulmifolius or the related R. vestitus. It is less densely glandular and has longer and more open inflorescences than R. pascuus, and unlike the latter it has spreading, not erect, primocane leaves. Rubus bifrons also lacks the stipitate-glandular hairs and nearly round primocane terminal leaflets of R. vestitus; seedlings of R. bifrons can be densely stipitate-glandular.</discussion>
+  <discussion>L. H. Bailey (1941--1945), M. L. Fernald (1950), Y. Heslop-Harrison (1968), and H. A. Gleason and A. Cronquist (1991) distinguished between Rubus bifrons and another species (referred to as either R. discolor or R. procerus, both often considered synonyms of R. armeniacus), based on stem shape and indument, prickle shape and angle, leaf shape and margins, inflorescence shape, and petal color. Plants in North America identified as either R. bifrons or the other species can vary broadly in any of these characters, even within individual stems, making it extremely difficult or impossible to distinguish between these species in the flora area. Recent research addressing the genetics or species distinctiveness in this complex in Europe (J. Kollmann et al. 2000) and Australia (K. J. Evans et al. 2007) did not sample plants from North America, and recent work within the flora area (L. V. Clark et al. 2013) addressed this complex only in California, Oregon, and Washington, but nowhere else in North America. Until a much-needed genetic study is performed that includes a broad selection of plants of ser. Discolores from throughout North America, Europe, and elsewhere, the precise identities of all of our material in this complex will be elusive. In the presence of so much uncertainty, a conservative approach is taken here, which is consistent with the treatment herein of the native blackberries. The results of more comprehensive DNA research may show that a different name than R. bifrons is to be used in the flora area. The name R. discolor often has been misattributed as a synonym of R. armeniacus; it is a synonym of R. ulmifolius (H. E. Weber 1985).</discussion>
+  <discussion>In the flora area, Rubus bifrons is most abundant from northern California northward to British Columbia, where it can grow in great density over large areas, often to the exclusion of all other vegetation (for example, K. Williams et al. 2006). There are reports of R. bifrons (as R. armeniacus or R. procerus) hybridizing with R. ursinus (T. S. Mallah 1954; L. V. Clark 2011; B. Sutherland and L. Alice, unpubl.) and R. laciniatus (R. K. Bammi and H. P. Olmo 1966).</discussion>
+  <discussion>Rubus thyrsoideus Wimmer is an illegitmate name that applies here.</discussion>
+</treatment>
+

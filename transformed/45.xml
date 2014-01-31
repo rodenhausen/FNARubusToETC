@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>37.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>vestitus</species_name>
+    <species_authority>Weihe &amp; Nees</species_authority>
+    <place_of_publication>
+      <publication_title>in M. J. Bluff et al., Comp. Fl. German.</publication_title>
+      <place_in_publication>1: 684. 1825</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species vestitus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* European blackberry IW</other_info>
+  <description>Shrubs, 10--20 dm, armed. Stems &lt;biennial&gt;, arching, usually densely, sometimes moderately, hairy, usually eglandular, sometimes sessile- to short-stipitate-glandular, not pruinose; prickles moderate to dense, recurved to erect, slender, 3--10 mm, broad-based. Leaves deciduous or +/- persistent, palmately compound; stipules filiform to linear, 5--15 mm; leaflets 3--5, terminal usually suborbiculate to orbiculate, sometimes broadly elliptic, 4--9 x 4--8 cm, base rounded to shallowly cordate, unlobed, margins moderately to coarsely serrate, apex acute to cuspidate, abaxial surfaces with hooked prickles on midvein, densely white-gray to gray-green tomentose, eglandular or obscurely short-stipitate- to sessile-glandular along midveins. Inflorescences terminal, 7--35-flowered, cymiform or thyrsiform. Pedicels: prickles moderate to dense, recurved to erect, densely hairy, moderately to densely stipitate-glandular. Flowers bisexual; petals pink to magenta, elliptic to suborbiculate, 6--12(--15) mm; filaments filiform; ovaries apically hairy. Fruits black, globose, 1--1.5 cm; drupelets 15--40, coherent, separating with torus attached. 2n = 28.</description>
+  <phenology_info>
+    <text>Flowering Jul--Sep.</text>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+    <phenology>sep</phenology>
+  </phenology_info>
+  <habitat>woodland edges</habitat>
+  <habitat>open areas</habitat>
+  <habitat>disturbed areas</habitat>
+  <habitat>in moist soils</habitat>
+  <elevation>0--600 m;</elevation>
+  <introduced>introduced;</introduced>
+  <ca_distribution>B.C.</ca_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <global_distribution>Europe.</global_distribution>
+  <discussion>Rubus vestitus can be distinguished, especially from the closely related R. bifrons and R. ulmifolius, by its long-stipitate-glandular hairs, particularly in the inflorescence, and terminal primocane leaflets that are typically suborbiculate and abaxially densely tomentose. Rubus allegheniensis can possess similar glandular hairs; it does not have pink petals, thyrsiform inflorescences, and rounded and abaxially densely tomentose, often whitened terminal leaflets.</discussion>
+  <discussion>Rubus vestitus has not yet been found in Washington, but it likely is there. Because of the overall similarity of R. vestitus to R. bifrons, it is possible that this potentially weedy species is widespread, but rare and possibly overlooked, occurring as far south as California. In Oregon, R. vestitus prefers shady habitats (B. Wilson, pers. comm.).</discussion>
+  <references>
+    <reference>OTHER REFERENCES</reference>
+  </references>
+  <references>
+    <reference>Alice, L. A., T. M. Dodson, and B. L. Sutherland. 2008. Diversity and relationships of Bhutanese Rubus. Acta Hort. 777: 63--70.</reference>
+  </references>
+  <references>
+    <reference>Ambrose, K. V. 2006. Clarification of Basal Relationships in Rubus (Rosaceae) and the Origin of Rubus chamaemorus. M.S. thesis. Western Kentucky University.</reference>
+  </references>
+  <references>
+    <reference>Bailey, L. H. 1941--1945. Species batorum. The genus Rubus in North America. I--X. Gentes Herb. 5: 1--918.</reference>
+  </references>
+  <references>
+    <reference>Bammi, R. K. and H. P. Olmo. 1966. Cytogenetics of Rubus. V. Natural hybridization between R. procerus P. J. Muell. and R. laciniatus Willd. Evolution 20: 617--633.</reference>
+  </references>
+  <references>
+    <reference>Bergner, P. 1997. Herbs and dysmenorrhea. Med. Herbalism 9(3): 5--13.</reference>
+  </references>
+  <references>
+    <reference>Brown, R. G. and M. L. Brown. 1972. Woody Plants of Maryland. College Park.</reference>
+  </references>
+  <references>
+    <reference>Brown, S. W. 1943. The origin and variability in the Pacific Coast blackberries (Rubus ursinus Cham. &amp; Schlecht. and R. lemurum sp. nov.). Amer. J. Bot. 30: 686--697.</reference>
+  </references>
+  <references>
+    <reference>Clark, J. R. et al. 2007. Blackberry breeding and genetics. Pl. Breed. Rev. 29: 19--144.</reference>
+  </references>
+  <references>
+    <reference>Clark, L. V. 2011. Ecological Genetics of the Apomictic Rubus Invasion in the Western United States. Ph.D. dissertation. University of California, Davis.</reference>
+  </references>
+  <references>
+    <reference>Clark, L. V., K. J. Evans, and M. Jasieniuk. 2013. Origins and distribution of invasive Rubus fruticosus L. agg. (Rosaceae) clones in the western United States. Biol. Invasions 15: 1331--1342.</reference>
+  </references>
+  <references>
+    <reference>Cooperrider, T. S., A. W. Cusick, and J. T. Kartesz, eds. 2001. Seventh Catalogue of the Vascular Plants of Ohio. Columbus.</reference>
+  </references>
+  <references>
+    <reference>Dietrich, W., W. L. Wagner, and P. H. Raven. 1997. Systematics of Oenothera section Oenothera subsection Oenothera (Onagraceae). Syst. Bot. Monogr. 50.</reference>
+  </references>
+  <references>
+    <reference>Drobney, P. M. and M. P. Widrlechner. 2010. Japenese raspberry (Rubus parvifolius L.): An invasive species threat in savanna and prairie. Pp. 148--152 in D. Williams, B. Butler, and D. Smith, eds. Proceedings of the 22nd North American Prairie Conference, University of Northern Iowa, Cedar Falls, IA.</reference>
+  </references>
+  <references>
+    <reference>Evans, K. J. et al. 2007. Systematics of the Rubus fruticosus aggregate (Rosaceae) and other exotic Rubus taxa in Australia. Austral. Syst. Bot. 20: 187--251.</reference>
+  </references>
+  <references>
+    <reference>Fassett, N. C. 1941. Mass collections: Rubus odoratus and R. parviflorus. Ann. Missouri Bot. Gard. 28: 299--375.</reference>
+  </references>
+  <references>
+    <reference>Fernald, M. L. 1900. Rubus idaeus and its variety anomalus in America. Rhodora 2: 195--200.</reference>
+  </references>
+  <references>
+    <reference>Fernald, M. L. 1919b. Rubus idaeus and some of its variations in North America. Rhodora 21: 89--98.</reference>
+  </references>
+  <references>
+    <reference>Fernald, M. L. 1950. Gray’s Manual of Botany, ed. 8. New York.</reference>
+  </references>
+  <references>
+    <reference>Focke, W. O. 1911. Species Ruborum. Monographie generis Rubi Prodromus. Part 1 &amp; 2. Bibliotheca Botanica 72: 1--273.</reference>
+  </references>
+  <references>
+    <reference>Gleason, H. A. and A. Cronquist. 1991. Manual of the Vascular Plants of Northeastern United States and adjacent Canada, ed. 2. Bronx.</reference>
+  </references>
+  <references>
+    <reference>Godfrey, R. K. 1988. Trees, Shrubs, and Woody Vines of Northern Florida and Adjacent Georgia and Alabama. Athens, Ga.</reference>
+  </references>
+  <references>
+    <reference>Godfrey, R. K. and J. W. Wooten. 1981. Aquatic and Wetland Plants of Southeastern United States: Dicotyledons. Athens, Ga.</reference>
+  </references>
+  <references>
+    <reference>Great Plains Flora Association. 1986. Flora of the Great Plains. Lawrence, Kans.</reference>
+  </references>
+  <references>
+    <reference>Gueillard, J. C. 1857. Idée générale de l’inflorescence. Bull. Soc. Bot. France 4: 29--41, 116--124.</reference>
+  </references>
+  <references>
+    <reference>Harmon, P. J., D. Ford-Werntz, and W. Grafton. 2006. Checklist and Atlas of the Vascular Flora of West Virginia. West Virginia Division of Natural Resources, Wildlife Resources Division, Elkins, West Virginia.</reference>
+  </references>
+  <references>
+    <reference>Henderson, L. 1995. Plant Invaders of Southern Africa. A Pocket Guide to the Identification of 161 of the Most Important and Potentially Important Alien Species. Pretoria.</reference>
+  </references>
+  <references>
+    <reference>Herrick, J. W. 1977. Iroquois Medical Botany. Ph.D. thesis. State University of New York, Albany.</reference>
+  </references>
+  <references>
+    <reference>Heslop-Harrison, Y. 1968. Rubus. In: T. G. Tutin et al., eds. 1964--1980. Flora Europea. 5 vols. Cambridge. Vol. 2, pp. 7--25.</reference>
+  </references>
+  <references>
+    <reference>Hoffman, D. 2003. Medical Herbalism: The Science and Practice of Herbal Medicine. Rochester, Vt.</reference>
+  </references>
+  <references>
+    <reference>Hutton, E. E. and R. B. Clarkson. 1961. Two plants new for North America and some new or otherwise interesting plants in West Virginia. Castanea 26: 84--88.</reference>
+  </references>
+  <references>
+    <reference>Jensen, D. B. and K. D. Christensen, eds. 2003. The Biodiversity of Greenland---A Country Study. Pinngortitaleriffik.</reference>
+  </references>
+  <references>
+    <reference>Jones, R. L. 2005. Plant Life of Kentucky: An Illustrated Guide to the Vascular Flora. Lexington, Ky.</reference>
+  </references>
+  <references>
+    <reference>Klein, H. 2002. Legislation Regarding Harmful Plants in South Africa. Pretoria.</reference>
+  </references>
+  <references>
+    <reference>Kollmann, J., T. Steinger, and B. A. Roy. 2000. Evidence of sexuality in European Rubus (Rosaceae) species based on AFLP and allozyme analysis. Amer. J. Bot. 87: 1592--1598.</reference>
+  </references>
+  <references>
+    <reference>Lingdi, L. and D. E. Boufford. 2003. Rubus. In: Wu Z. and P. H. Raven, eds. 1994+. Flora of China. 20+ vols. Beijing and St. Louis. Vol. 9, pp. 195--286.</reference>
+  </references>
+  <references>
+    <reference>Magee, D. W. and H. E. Ahles. 1999. Flora of the Northeast: A Manual of the Vascular Flora of New England and Adjacent New York. Amherst.</reference>
+  </references>
+  <references>
+    <reference>Mallah, T. S. 1954. Natural Hybridization Between Rubus ursinus Cham. and Schlect. and Other Rubi in California. Ph.D. dissertation. University of California, Davis.</reference>
+  </references>
+  <references>
+    <reference>Mitchell, R. S. and G. C. Tucker. 1997. Revised checklist of New York State plants. Bull. New York State Mus. Sci. Serv. 490.</reference>
+  </references>
+  <references>
+    <reference>Moerman, D. E. 1998. Native American Ethnobotany. Portland.</reference>
+  </references>
+  <references>
+    <reference>Monasterio-Huelin, E. and H. E. Weber. 1996. Taxonomy and nomenclature of Rubus ulmifolius and Rubus sanctus (Rosaceae). Edinburgh J. Bot. 53: 311--322.</reference>
+  </references>
+  <references>
+    <reference>Morton, J. F. 1987. Fruits of Warm Climates. Miami.</reference>
+  </references>
+  <references>
+    <reference>Olkers, T. and M. P. Hill, eds. 1999. Biological Control of Weeds in South Africa. A Pocket Guide to the Identification of 161 of the Most Important and Potentially Important Alien Species (1990--1998). Pretoria.</reference>
+  </references>
+  <references>
+    <reference>Radford, A. E., H. E. Ahles, and C. R. Bell. 1968. Manual of the Vascular Flora of the Carolinas. Chapel Hill.</reference>
+  </references>
+  <references>
+    <reference>Reagan, A. B. 1936. Plants used by the Hoh and Quileute Indians. Trans. Kansas Acad. Sci. 37: 55--70.</reference>
+  </references>
+  <references>
+    <reference>Rhoads, A. F. and W. M. Klein. 1993. The Vascular Flora of Pennsylvania: Annotated Checklist and Atlas. Philadelphia.</reference>
+  </references>
+  <references>
+    <reference>Rickett, H. W. 1944. The classification of inflorescences. Bot. Rev. (Lancaster) 10: 187--231.</reference>
+  </references>
+  <references>
+    <reference>Smith, E. B. 1994. Keys to the Flora of Arkansas. Fayetteville, Ark.</reference>
+  </references>
+  <references>
+    <reference>Smith, H. H. 1923. Ethnobotany of the Menomini. Bull. Public Mus. Milwaukee 4: 1--82.</reference>
+  </references>
+  <references>
+    <reference>Smith, H. H. 1928. Ethnobotany of the Meskwaki. Bull. Public Mus. Milwaukee 4: 189--274.</reference>
+  </references>
+  <references>
+    <reference>Smith, H. H. 1932. Ethnobotany of the Ojibwe. Bull. Public Mus. Milwaukee 4: 348--433.</reference>
+  </references>
+  <references>
+    <reference>Smith, H. H. 1933. Ethnobotany of the Potawatomi. Bull. Public Mus. Milwaukee 7: 32--1272.</reference>
+  </references>
+  <references>
+    <reference>Strausbaugh, P. D. and E. L. Core. 1978. Flora of West Virginia, ed. 2 corr. Grantsville, W.Va.</reference>
+  </references>
+  <references>
+    <reference>Thompson, M. M. 1997. Survey of chromosome numbers in Rubus (Rosaceae: Rosoideae). Ann. Missouri Bot. Gard. 84: 128--164.</reference>
+  </references>
+  <references>
+    <reference>Voss, E. G. 1972--1996. Michigan Flora.... 3 vols. Bloomfield Hills and Ann Arbor.</reference>
+  </references>
+  <references>
+    <reference>Weakley, A. S. 2012. Flora of the Southern and Mid-Atlantic States. Working Draft of 30 November 2012. Chapel Hill.</reference>
+  </references>
+  <references>
+    <reference>Weber, H. E. 1985. Rubi westfalici. Abh. Westfäl. Mus. Naturk. 47(3).</reference>
+  </references>
+  <references>
+    <reference>Williams, K., L. J. Westrick, and B. J. Williams. 2006. Effects of blackberry (Rubus discolor) invasion on oak population dynamics in a California savanna. Forest Ecol. Managem. 228: 187--196.</reference>
+  </references>
+  <references>
+    <reference>Wunderlin, R. P. 1998. Guide to the Vascular Plants of Florida. Gainesville.</reference>
+  </references>
+  <XXXX>Acer</XXXX>
+  <XXXX>glabrum, 14</XXXX>
+  <XXXX>Ahles, H. E., 3</XXXX>
+  <XXXX>Alchemilla, 3</XXXX>
+  <XXXX>Alice, L. A., 1, 2, 42, 57</XXXX>
+  <XXXX>Allegheny blackberry, 9</XXXX>
+  <XXXX>Amber raspberry, 4, 32</XXXX>
+  <XXXX>Ambrose, K. V., 21, 57</XXXX>
+  <XXXX>American red raspberry, 33</XXXX>
+  <XXXX>Arctic raspberry, 12</XXXX>
+  <XXXX>Australian bramble, 47</XXXX>
+  <XXXX>Australian raspberry, 47</XXXX>
+  <XXXX>Bailey, L. H., 2, 3, 16, 33, 35, 53, 62</XXXX>
+  <XXXX>Bakeapple berry, 2, 20</XXXX>
+  <XXXX>Bammi, R. K., 17, 37</XXXX>
+  <XXXX>Barton’s raspberry, 14</XXXX>
+  <XXXX>Bergner, P., 46</XXXX>
+  <XXXX>Black raspberry, 4, 43, 44</XXXX>
+  <XXXX>Blackberry, 2, 4, 23, 37, 42, 60</XXXX>
+  <XXXX>Böcher, T. W., 58</XXXX>
+  <XXXX>Boufford, D. E., 5</XXXX>
+  <XXXX>Boysenberry, 66</XXXX>
+  <XXXX>Bramble, 1</XXXX>
+  <XXXX>Bristly blackberry, 58</XXXX>
+  <XXXX>Bristly dewberry, 30</XXXX>
+  <XXXX>Brown, M. L., 2</XXXX>
+  <XXXX>Brown, R. G., 2</XXXX>
+  <XXXX>Brown, S. W., 66</XXXX>
+  <XXXX>California blackberry, 65</XXXX>
+  <XXXX>Campbell, C. S., 2, 42, 57</XXXX>
+  <XXXX>Canadian highbush blackberry, 19</XXXX>
+  <XXXX>Chamaemorus</XXXX>
+  <XXXX>anglica, 20</XXXX>
+  <XXXX>norwegica, 20</XXXX>
+  <XXXX>Chesapeake blackberry, 48</XXXX>
+  <XXXX>Chicouté, 20</XXXX>
+  <XXXX>Christensen, K. D., 58</XXXX>
+  <XXXX>Clark, J. R., 4</XXXX>
+  <XXXX>Clark, L. V., 16, 17, 54, 67</XXXX>
+  <XXXX>Clarkson, R. B., 5</XXXX>
+  <XXXX>Cloudberry, 2, 20</XXXX>
+  <XXXX>Common blackberry, 9</XXXX>
+  <XXXX>Cooperrider, T. S., 3</XXXX>
+  <XXXX>Core, E. L., 3</XXXX>
+  <XXXX>Creeping blackberry, 65</XXXX>
+  <XXXX>Crepis, 3</XXXX>
+  <XXXX>Cronquist, A., 2, 3, 16</XXXX>
+  <XXXX>Cutleaf blackberry, 36</XXXX>
+  <XXXX>Dalibarda, 1, 2</XXXX>
+  <XXXX>repens, 2, 56, 57</XXXX>
+  <XXXX>Dalibarde rampante, 56</XXXX>
+  <XXXX>Dark raspberry, 40</XXXX>
+  <XXXX>Davis, H. A., 3, 50</XXXX>
+  <XXXX>Delicious raspberry, 23</XXXX>
+  <XXXX>Dietrich, W., 3</XXXX>
+  <XXXX>Drobney, P. M., 48</XXXX>
+  <XXXX>Dwarf raspberry, 2, 12</XXXX>
+  <XXXX>Dwarf red blackberry, 55</XXXX>
+  <XXXX>Dwarf red raspberry, 55</XXXX>
+  <XXXX>Elm-leaf blackberry, 63</XXXX>
+  <XXXX>European blackberry, 14, 65, 67</XXXX>
+  <XXXX>European dewberry, 17</XXXX>
+  <XXXX>European raspberry, 32</XXXX>
+  <XXXX>Evans, K .J., 16</XXXX>
+  <XXXX>False violet, 56</XXXX>
+  <XXXX>Fassett, N. C., 47</XXXX>
+  <XXXX>Fernald, M. L., 2, 16, 33, 35, 47</XXXX>
+  <XXXX>Flowering raspberry, 2</XXXX>
+  <XXXX>Focke, W. O., 2, 41</XXXX>
+  <XXXX>Framboisier, 31</XXXX>
+  <XXXX>Framboisier d’Europe, 32</XXXX>
+  <XXXX>Framboisier noir, 43</XXXX>
+  <XXXX>Framboisier sauvage, 33</XXXX>
+  <XXXX>Gleason, H. A., 2, 3, 16</XXXX>
+  <XXXX>Godfrey, R. K., 2, 3</XXXX>
+  <XXXX>Golden raspberry, 4</XXXX>
+  <XXXX>Goldman, D. H., 1</XXXX>
+  <XXXX>Great Plains Flora Association, 3</XXXX>
+  <XXXX>Guillard, J. C., 3</XXXX>
+  <XXXX>Harmon, P. J., 5</XXXX>
+  <XXXX>Henderson, L., 23</XXXX>
+  <XXXX>Herrick, J. W., 57</XXXX>
+  <XXXX>Heslop-Harrison, Y., 16</XXXX>
+  <XXXX>Hieracium, 3</XXXX>
+  <XXXX>Highbush blackberry, 20</XXXX>
+  <XXXX>Hill raspberry, 42</XXXX>
+  <XXXX>Hill, M. P., 23</XXXX>
+  <XXXX>Himalayan blackberry, 14</XXXX>
+  <XXXX>Hoffman, D., 32</XXXX>
+  <XXXX>Hutton, E. E., 5</XXXX>
+  <XXXX>Jensen, D. B., 58</XXXX>
+  <XXXX>Jones, R. L., 3</XXXX>
+  <XXXX>Kiger, R. W., 3</XXXX>
+  <XXXX>Klein, H., 23</XXXX>
+  <XXXX>Klein, W. M., 3</XXXX>
+  <XXXX>Kollmann, J., 16</XXXX>
+  <XXXX>Lingdi, L., 5</XXXX>
+  <XXXX>Loganberry, 66</XXXX>
+  <XXXX>Macklin, J. A., 1</XXXX>
+  <XXXX>Magee, D. W., 3</XXXX>
+  <XXXX>Mallah, S., 54</XXXX>
+  <XXXX>Mallah, T. S., 17, 67</XXXX>
+  <XXXX>Melanobatus</XXXX>
+  <XXXX>nigerrimus, 40</XXXX>
+  <XXXX>Mitchell, R. S., 3</XXXX>
+  <XXXX>Moerman, D. E., 32</XXXX>
+  <XXXX>Monasterio-Huelin, E., 64</XXXX>
+  <XXXX>Moore, G., 1</XXXX>
+  <XXXX>Morton, J. F., 43</XXXX>
+  <XXXX>Mysore raspberry, 42</XXXX>
+  <XXXX>Nagoonberry, 11</XXXX>
+  <XXXX>New Mexico raspberry, 40</XXXX>
+  <XXXX>Northern dewberry, 24</XXXX>
+  <XXXX>Northwest raspberry, 40</XXXX>
+  <XXXX>Oenothera, 3</XXXX>
+  <XXXX>Olkers, T., 23</XXXX>
+  <XXXX>Olmo, H. P., 17, 37</XXXX>
+  <XXXX>Pacific blackberry, 65</XXXX>
+  <XXXX>Parmena</XXXX>
+  <XXXX>menziesii, 66</XXXX>
+  <XXXX>Peck, M. E., 40</XXXX>
+  <XXXX>Pennsylvania blackberry, 51</XXXX>
+  <XXXX>Plaquebière, 20</XXXX>
+  <XXXX>Plumboys, 2</XXXX>
+  <XXXX>Porter, D. M., 3</XXXX>
+  <XXXX>Purple flowering raspberry, 44</XXXX>
+  <XXXX>Purple raspberry, 4, 34, 35</XXXX>
+  <XXXX>Radford, A. E., 2</XXXX>
+  <XXXX>Raspberry, 2, 4, 36, 43, 45, 47, 48</XXXX>
+  <XXXX>Reagan, A. B., 42</XXXX>
+  <XXXX>Red raspberry, 4, 31, 32, 55</XXXX>
+  <XXXX>Rhoads, A. F., 3</XXXX>
+  <XXXX>Ribes, 14</XXXX>
+  <XXXX>Rickett, H. W., 3</XXXX>
+  <XXXX>Robin runaway, 56</XXXX>
+  <XXXX>Ronce à flagelles, 24</XXXX>
+  <XXXX>Ronce acaule, 12</XXXX>
+  <XXXX>Ronce de Pennsylvanie, 51</XXXX>
+  <XXXX>Ronce des Alléghanys, 9</XXXX>
+  <XXXX>Ronce du Canada, 19</XXXX>
+  <XXXX>Ronce hispide, 30</XXXX>
+  <XXXX>Ronce odorante, 45</XXXX>
+  <XXXX>Ronce pubescente, 55</XXXX>
+  <XXXX>Ronce sétuleuse, 58</XXXX>
+  <XXXX>Roughfruit berry, 37</XXXX>
+  <XXXX>Rubacer</XXXX>
+  <XXXX>odoratum, 45</XXXX>
+  <XXXX>Rubus, 1, 2, 3, 4, 11, 20, 47, 50, 57, 62, 64</XXXX>
+  <XXXX>abactus, 51</XXXX>
+  <XXXX>ablatus, 51</XXXX>
+  <XXXX>aboriginum, 25</XXXX>
+  <XXXX>abundiflorus, 51</XXXX>
+  <XXXX>acadiensis, 9</XXXX>
+  <XXXX>acaulis, 12</XXXX>
+  <XXXX>agilis, 61</XXXX>
+  <XXXX>alacer, 25</XXXX>
+  <XXXX>alaskensis, 11</XXXX>
+  <XXXX>aliceae, 33</XXXX>
+  <XXXX>alius, 25</XXXX>
+  <XXXX>allegheniensis, 8, 9, 10, 11, 20, 53, 60, 68, 69, 70, 71, 72, 73, 74</XXXX>
+  <XXXX>calycosus, 9</XXXX>
+  <XXXX>gravesii, 9</XXXX>
+  <XXXX>neoscoticus, 9</XXXX>
+  <XXXX>plausus, 9</XXXX>
+  <XXXX>populifolius, 9</XXXX>
+  <XXXX>almus, 25</XXXX>
+  <XXXX>alumnus, 9</XXXX>
+  <XXXX>amnicola, 51</XXXX>
+  <XXXX>amplificatus, 67</XXXX>
+  <XXXX>andrewsianus, 51</XXXX>
+  <XXXX>apianus, 9</XXXX>
+  <XXXX>apogaeus, 25</XXXX>
+  <XXXX>apparatus, 58</XXXX>
+  <XXXX>aptatus, 25</XXXX>
+  <XXXX>arcticus, 5, 6, 11</XXXX>
+  <XXXX>acaulis, 12, 56, 74</XXXX>
+  <XXXX>arcticus, 12</XXXX>
+  <XXXX>arcticus, 12</XXXX>
+  <XXXX>grandiflorus, 13</XXXX>
+  <XXXX>pentaphylloides, 12</XXXX>
+  <XXXX>stellatus, 12, 13</XXXX>
+  <XXXX>arenicola, 25</XXXX>
+  <XXXX>argutus, 51</XXXX>
+  <XXXX>randii, 19</XXXX>
+  <XXXX>arizonensis, 25, 28</XXXX>
+  <XXXX>arizonicus, 33</XXXX>
+  <XXXX>armatus, 25</XXXX>
+  <XXXX>armeniacus, 15, 16, 17</XXXX>
+  <XXXX>arundelanus, 25</XXXX>
+  <XXXX>jecklyanus, 25</XXXX>
+  <XXXX>arvensis, 51</XXXX>
+  <XXXX>ashei, 25</XXXX>
+  <XXXX>associus, 51</XXXX>
+  <XXXX>attractus, 9</XXXX>
+  <XXXX>audax, 22</XXXX>
+  <XXXX>auroralis, 9</XXXX>
+  <XXXX>austrinus, 25</XXXX>
+  <XXXX>baileyanus, 25</XXXX>
+  <XXXX>barbarus, 51</XXXX>
+  <XXXX>bartonianus, 5, 14, 24, 41</XXXX>
+  <XXXX>beatus, 58</XXXX>
+  <XXXX>bellobatus, 51</XXXX>
+  <XXXX>benneri, 58</XXXX>
+  <XXXX>bernardinus, 39</XXXX>
+  <XXXX>besseyi, 19</XXXX>
+  <XXXX>betulifolius, 51</XXXX>
+  <XXXX>bicknellii, 58</XXXX>
+  <XXXX>bifrons, 5, 6, 7, 14, 15, 16, 17, 37, 49, 64, 67, 68</XXXX>
+  <XXXX>blakei, 51</XXXX>
+  <XXXX>blanchardianus, 30</XXXX>
+  <XXXX>bollianus, 25</XXXX>
+  <XXXX>bonus, 25</XXXX>
+  <XXXX>boottianus, 58</XXXX>
+  <XXXX>botruosus, 25</XXXX>
+  <XXXX>bractealis, 51</XXXX>
+  <XXXX>brainerdii, 51</XXXX>
+  <XXXX>bretonis, 25</XXXX>
+  <XXXX>brevipedalis, 25</XXXX>
+  <XXXX>burnhamii, 51</XXXX>
+  <XXXX>bushii, 51</XXXX>
+  <XXXX>cacaponensis, 25</XXXX>
+  <XXXX>caesius, 6, 17, 18, 29, 31, 66</XXXX>
+  <XXXX>campester, 9</XXXX>
+  <XXXX>camurus, 25</XXXX>
+  <XXXX>canadensis, 8, 18, 20, 70, 71, 72, 73, 74, 75</XXXX>
+  <XXXX>imus, 19</XXXX>
+  <XXXX>cardianus, 51</XXXX>
+  <XXXX>carolinianus, 33</XXXX>
+  <XXXX>cathartium, 25</XXXX>
+  <XXXX>celer, 25</XXXX>
+  <XXXX>census, 25</XXXX>
+  <XXXX>centralis, 25</XXXX>
+  <XXXX>chamaemorus, 1, 5, 20, 21</XXXX>
+  <XXXX>chapmanii, 22</XXXX>
+  <XXXX>clairbrownii, 25</XXXX>
+  <XXXX>clandestinus, 25</XXXX>
+  <XXXX>clarus, 25</XXXX>
+  <XXXX>coloniatus, 25</XXXX>
+  <XXXX>complex, 25</XXXX>
+  <XXXX>compos, 30</XXXX>
+  <XXXX>conabilis, 25</XXXX>
+  <XXXX>concameratus, 9</XXXX>
+  <XXXX>condensiflorus, 51</XXXX>
+  <XXXX>condignus, 58</XXXX>
+  <XXXX>congruus, 51</XXXX>
+  <XXXX>connixus, 25</XXXX>
+  <XXXX>continentalis, 61</XXXX>
+  <XXXX>cordialis, 25</XXXX>
+  <XXXX>cordifrons, 25</XXXX>
+  <XXXX>cubitans, 30</XXXX>
+  <XXXX>cuneifolius, 7, 8, 9, 21, 22, 23, 31, 49, 69, 70, 72, 73</XXXX>
+  <XXXX>angustior, 22</XXXX>
+  <XXXX>austrifer, 22</XXXX>
+  <XXXX>spiniceps, 22</XXXX>
+  <XXXX>subellipticus, 22</XXXX>
+  <XXXX>cupressorum, 51</XXXX>
+  <XXXX>currulis, 25</XXXX>
+  <XXXX>curtipes, 25</XXXX>
+  <XXXX>dalibarda, 2</XXXX>
+  <XXXX>davisiorum, 30</XXXX>
+  <XXXX>deamii, 25</XXXX>
+  <XXXX>deaneanus, 58</XXXX>
+  <XXXX>decor, 25</XXXX>
+  <XXXX>defectionis, 51</XXXX>
+  <XXXX>deliciosus, 5, 14, 23, 24, 41</XXXX>
+  <XXXX>neomexicanus, 40</XXXX>
+  <XXXX>densipubens, 51</XXXX>
+  <XXXX>densissimus, 51</XXXX>
+  <XXXX>depavitus, 25</XXXX>
+  <XXXX>discolor, 16, 63</XXXX>
+  <XXXX>discretus, 58</XXXX>
+  <XXXX>dissensus, 58</XXXX>
+  <XXXX>dissimilis, 58</XXXX>
+  <XXXX>dives, 25</XXXX>
+  <XXXX>duplaris, 61</XXXX>
+  <XXXX>eastwoodianus, 65</XXXX>
+  <XXXX>eflagellaris, 25</XXXX>
+  <XXXX>egglestonii, 35</XXXX>
+  <XXXX>electus, 58</XXXX>
+  <XXXX>enslenii, 25</XXXX>
+  <XXXX>eriocarpus, 44</XXXX>
+  <XXXX>exemptus, 25</XXXX>
+  <XXXX>exrubicundus, 40</XXXX>
+  <XXXX>exsularis, 25</XXXX>
+  <XXXX>exter, 58</XXXX>
+  <XXXX>facetus, 51</XXXX>
+  <XXXX>fandus, 25</XXXX>
+  <XXXX>fassettii, 30</XXXX>
+  <XXXX>fatuus, 51</XXXX>
+  <XXXX>fecundus, 25</XXXX>
+  <XXXX>felix, 25</XXXX>
+  <XXXX>ferrofluvius, 25</XXXX>
+  <XXXX>flagellaris, 7, 18, 24, 28, 31, 60, 63, 66, 69, 70, 71, 72, 73, 74, 75</XXXX>
+  <XXXX>almus, 25</XXXX>
+  <XXXX>occidualis, 26</XXXX>
+  <XXXX>floridus, 51</XXXX>
+  <XXXX>foliaceus, 26</XXXX>
+  <XXXX>folioflorus, 26</XXXX>
+  <XXXX>franciscanus, 60</XXXX>
+  <XXXX>frondosus, 51</XXXX>
+  <XXXX>fryei, 9</XXXX>
+  <XXXX>fulleri, 58</XXXX>
+  <XXXX>ganderi, 29</XXXX>
+  <XXXX>georgiensis, 22</XXXX>
+  <XXXX>glandicaulis, 9</XXXX>
+  <XXXX>glaucifolius, 6, 29</XXXX>
+  <XXXX>ganderi, 29</XXXX>
+  <XXXX>gnarus, 51</XXXX>
+  <XXXX>greeneanus, 33</XXXX>
+  <XXXX>grimesii, 26</XXXX>
+  <XXXX>groutianus, 58</XXXX>
+  <XXXX>gulosus, 58</XXXX>
+  <XXXX>hancinianus, 26</XXXX>
+  <XXXX>hawaiiensis, 61</XXXX>
+  <XXXX>hesperius, 40</XXXX>
+  <XXXX>heterophyllus, 52</XXXX>
+  <XXXX>hirsutus, 5</XXXX>
+  <XXXX>hispidoides, 58</XXXX>
+  <XXXX>hispidus, 7, 23, 30, 31, 60, 69, 71, 72, 73, 74, 75</XXXX>
+  <XXXX>blanchardianus, 30</XXXX>
+  <XXXX>cupulifer, 30</XXXX>
+  <XXXX>obovalis, 30</XXXX>
+  <XXXX>suberectus, 58</XXXX>
+  <XXXX>housei, 26</XXXX>
+  <XXXX>humilior, 52</XXXX>
+  <XXXX>huttonii, 30</XXXX>
+  <XXXX>ictus, 61</XXXX>
+  <XXXX>idaeus, 4, 6, 31, 32, 33</XXXX>
+  <XXXX>aculeatissimus, 33</XXXX>
+  <XXXX>anomalus, 35</XXXX>
+  <XXXX>canadensis, 33</XXXX>
+  <XXXX>caudatus, 33</XXXX>
+  <XXXX>egglestonii, 33</XXXX>
+  <XXXX>eucyclus, 33</XXXX>
+  <XXXX>gracilipes, 33</XXXX>
+  <XXXX>heterolasius, 34</XXXX>
+  <XXXX>idaeus, 4, 32, 33</XXXX>
+  <XXXX>inermis, 33</XXXX>
+  <XXXX>melanolasius, 34</XXXX>
+  <XXXX>peramoenus, 34</XXXX>
+  <XXXX>sachalinensis, 34</XXXX>
+  <XXXX>strigosus, 4, 11, 32, 33, 34, 35, 44</XXXX>
+  <XXXX>ignarus, 26</XXXX>
+  <XXXX>illecebrosus, 8, 35, 36</XXXX>
+  <XXXX>illustris, 19</XXXX>
+  <XXXX>impar, 52</XXXX>
+  <XXXX>imperiorum, 26</XXXX>
+  <XXXX>impos, 9</XXXX>
+  <XXXX>inclinis, 9</XXXX>
+  <XXXX>independens, 52</XXXX>
+  <XXXX>indianensis, 26</XXXX>
+  <XXXX>inermis, 64</XXXX>
+  <XXXX>iniens, 26</XXXX>
+  <XXXX>injunctus, 26</XXXX>
+  <XXXX>inobvius, 26</XXXX>
+  <XXXX>insons, 52</XXXX>
+  <XXXX>insulanus, 52</XXXX>
+  <XXXX>interioris, 52</XXXX>
+  <XXXX>invisus, 26</XXXX>
+  <XXXX>irregularis, 9</XXXX>
+  <XXXX>ithacanus, 26</XXXX>
+  <XXXX>jactus, 26</XXXX>
+  <XXXX>jaysmithii, 26</XXXX>
+  <XXXX>angustior, 26</XXXX>
+  <XXXX>jejunus, 58</XXXX>
+  <XXXX>jennisonii, 52</XXXX>
+  <XXXX>jugosus, 52</XXXX>
+  <XXXX>junceus, 58</XXXX>
+  <XXXX>junior, 58</XXXX>
+  <XXXX>kelloggii, 52</XXXX>
+  <XXXX>kennedyanus, 19</XXXX>
+  <XXXX>kentuckiensis, 26</XXXX>
+  <XXXX>laciniatus, 7, 8, 17, 36, 37</XXXX>
+  <XXXX>laetabilis, 19</XXXX>
+  <XXXX>lasiococcus, 5, 6, 37, 38, 57</XXXX>
+  <XXXX>lassus, 26</XXXX>
+  <XXXX>latifoliolus, 52</XXXX>
+  <XXXX>laudatus, 52</XXXX>
+  <XXXX>lawrencei, 58</XXXX>
+  <XXXX>leggii, 52</XXXX>
+  <XXXX>leucodermis, 6, 38, 39, 44</XXXX>
+  <XXXX>bernardinus, 39</XXXX>
+  <XXXX>glaucifolius, 29</XXXX>
+  <XXXX>leucodermis, 39</XXXX>
+  <XXXX>nigerrimus, 39, 40</XXXX>
+  <XXXX>trinitatis, 39</XXXX>
+  <XXXX>leviculus, 26</XXXX>
+  <XXXX>libratus, 52</XXXX>
+  <XXXX>licitus, 9</XXXX>
+  <XXXX>linkianus, 15</XXXX>
+  <XXXX>longii, 23</XXXX>
+  <XXXX>longipes, 26</XXXX>
+  <XXXX>louisianus, 52</XXXX>
+  <XXXX>lucidus, 61</XXXX>
+  <XXXX>macraei, 66</XXXX>
+  <XXXX>macropetalus, 65</XXXX>
+  <XXXX>macrophyllus, 67</XXXX>
+  <XXXX>macvaughii, 61</XXXX>
+  <XXXX>mainensis, 26</XXXX>
+  <XXXX>maltei, 26</XXXX>
+  <XXXX>maniseesensis, 26</XXXX>
+  <XXXX>mediocris, 58</XXXX>
+  <XXXX>medius, 23</XXXX>
+  <XXXX>melanolasius, 34</XXXX>
+  <XXXX>menziesii, 61, 66</XXXX>
+  <XXXX>meracus, 26</XXXX>
+  <XXXX>michiganensis, 26</XXXX>
+  <XXXX>minnesotanus, 26</XXXX>
+  <XXXX>mirus, 61</XXXX>
+  <XXXX>missouricus, 52, 53</XXXX>
+  <XXXX>mollior, 52</XXXX>
+  <XXXX>montanus, 11</XXXX>
+  <XXXX>montensis, 19</XXXX>
+  <XXXX>montpelierensis, 10</XXXX>
+  <XXXX>multifer, 26</XXXX>
+  <XXXX>multispinus, 52</XXXX>
+  <XXXX>mundus, 26</XXXX>
+  <XXXX>navus, 58</XXXX>
+  <XXXX>nefrens, 26</XXXX>
+  <XXXX>neglectus, 34, 35, 44</XXXX>
+  <XXXX>neomexicanus, 5, 14, 24, 40, 41</XXXX>
+  <XXXX>nessianus, 61</XXXX>
+  <XXXX>nigerrimus, 40</XXXX>
+  <XXXX>nigrobaccus, 10</XXXX>
+  <XXXX>nivalis, 5, 6, 41, 42</XXXX>
+  <XXXX>niveus, 6, 42, 43</XXXX>
+  <XXXX>nocivus, 58</XXXX>
+  <XXXX>notatus, 58</XXXX>
+  <XXXX>nuperus, 10</XXXX>
+  <XXXX>obsessus, 26</XXXX>
+  <XXXX>obvius, 26</XXXX>
+  <XXXX>occidentalis, 4, 6, 34, 39, 43, 44</XXXX>
+  <XXXX>leucodermis, 38</XXXX>
+  <XXXX>occidualis, 26</XXXX>
+  <XXXX>odoratus, 5, 44, 45, 46, 47</XXXX>
+  <XXXX>albidus, 45</XXXX>
+  <XXXX>columbianus, 45</XXXX>
+  <XXXX>oklahomus, 52</XXXX>
+  <XXXX>oligospermus, 28</XXXX>
+  <XXXX>originalis, 52</XXXX>
+  <XXXX>ortivus, 58</XXXX>
+  <XXXX>paganus, 30</XXXX>
+  <XXXX>paludivagus, 52</XXXX>
+  <XXXX>particeps, 26</XXXX>
+  <XXXX>particularis, 26</XXXX>
+  <XXXX>parviflorus, 5, 45, 46, 47</XXXX>
+  <XXXX>grandiflorus, 46</XXXX>
+  <XXXX>velutinus, 46, 47</XXXX>
+  <XXXX>parvifolius, 7, 47, 48</XXXX>
+  <XXXX>pascuus, 7, 8, 15, 23, 48, 49, 50</XXXX>
+  <XXXX>paulus, 10</XXXX>
+  <XXXX>pauper, 52</XXXX>
+  <XXXX>pauxillus, 52</XXXX>
+  <XXXX>pedatus, 6, 50, 51</XXXX>
+  <XXXX>penetrans, 52</XXXX>
+  <XXXX>pensilvanicus, 9, 49, 50, 51, 53, 54, 60, 67, 69, 70, 71, 72, 73, 74, 75</XXXX>
+  <XXXX>pensilvanicus, 8</XXXX>
+  <XXXX>perfoliosus, 52</XXXX>
+  <XXXX>perinvisus, 58</XXXX>
+  <XXXX>pernagaeus, 26</XXXX>
+  <XXXX>perpauper, 52</XXXX>
+  <XXXX>persistens, 52</XXXX>
+  <XXXX>philadelphicus, 52</XXXX>
+  <XXXX>phoenicolasius, 8, 54, 55</XXXX>
+  <XXXX>pityophilus, 26</XXXX>
+  <XXXX>plexus, 26</XXXX>
+  <XXXX>plicatifolius, 26</XXXX>
+  <XXXX>plus, 30</XXXX>
+  <XXXX>porteri, 30</XXXX>
+  <XXXX>praepes, 52</XXXX>
+  <XXXX>pratensis, 52</XXXX>
+  <XXXX>prestonensis, 52</XXXX>
+  <XXXX>pringlei, 44</XXXX>
+  <XXXX>probabilis, 22</XXXX>
+  <XXXX>probativus, 22</XXXX>
+  <XXXX>procerus, 16, 17, 37</XXXX>
+  <XXXX>profusiflorus, 26</XXXX>
+  <XXXX>pronus, 26</XXXX>
+  <XXXX>provincialis, 30</XXXX>
+  <XXXX>pubescens, 6, 55, 56, 74</XXXX>
+  <XXXX>pilosifolius, 55</XXXX>
+  <XXXX>pubifolius, 52</XXXX>
+  <XXXX>pudens, 30</XXXX>
+  <XXXX>pugnax, 10</XXXX>
+  <XXXX>pumilus, 42</XXXX>
+  <XXXX>racemiger, 58</XXXX>
+  <XXXX>randolphiorum, 22</XXXX>
+  <XXXX>recurvans, 52</XXXX>
+  <XXXX>redundans, 26</XXXX>
+  <XXXX>regionalis, 58</XXXX>
+  <XXXX>repens, 2, 5, 56, 57</XXXX>
+  <XXXX>reravus, 58</XXXX>
+  <XXXX>rhodophyllus, 26</XXXX>
+  <XXXX>riograndis, 61</XXXX>
+  <XXXX>roezlii, 23</XXXX>
+  <XXXX>roribaccus, 26</XXXX>
+  <XXXX>rosa, 10</XXXX>
+  <XXXX>rosagnetis, 26</XXXX>
+  <XXXX>rossbergianus, 69</XXXX>
+  <XXXX>rotundior, 59</XXXX>
+  <XXXX>rowleei, 30</XXXX>
+  <XXXX>rubrisetus, 61</XXXX>
+  <XXXX>russeus, 26</XXXX>
+  <XXXX>saepescandens, 52</XXXX>
+  <XXXX>sailori, 26</XXXX>
+  <XXXX>saltuensis, 10</XXXX>
+  <XXXX>sanfordii, 27</XXXX>
+  <XXXX>satis, 27</XXXX>
+  <XXXX>sativus, 52</XXXX>
+  <XXXX>saxatilis, 6, 57, 58</XXXX>
+  <XXXX>canadensis, 55</XXXX>
+  <XXXX>scambens, 27</XXXX>
+  <XXXX>sceleratus, 10</XXXX>
+  <XXXX>schneideri, 59</XXXX>
+  <XXXX>schoolcraftianus, 27</XXXX>
+  <XXXX>sect. Arguti, 53</XXXX>
+  <XXXX>sect. Canadenses, 20</XXXX>
+  <XXXX>sect. Cuneifolii, 50</XXXX>
+  <XXXX>sect. Flagellares, 28, 63</XXXX>
+  <XXXX>sect. Persistentes, 63</XXXX>
+  <XXXX>sect. Persistentes, 63</XXXX>
+  <XXXX>sect. Procumbentes, 28, 63</XXXX>
+  <XXXX>sect. Verotriviales, 62</XXXX>
+  <XXXX>sejunctus, 22</XXXX>
+  <XXXX>semisetosus, 59</XXXX>
+  <XXXX>ser. Discolores, 16</XXXX>
+  <XXXX>serissimus, 48</XXXX>
+  <XXXX>setosus, 7, 8, 31, 58, 60, 69, 70, 71, 72, 73, 74, 75</XXXX>
+  <XXXX>sewardianus, 27</XXXX>
+  <XXXX>signatus, 30</XXXX>
+  <XXXX>sirbenus, 65</XXXX>
+  <XXXX>sons, 61</XXXX>
+  <XXXX>spectabilis, 8, 60, 61, 66, 67</XXXX>
+  <XXXX>franciscanus, 47, 60</XXXX>
+  <XXXX>menziessii, 66</XXXX>
+  <XXXX>spectatus, 59</XXXX>
+  <XXXX>steelei, 27</XXXX>
+  <XXXX>stellatus, 13</XXXX>
+  <XXXX>stipulatus, 59</XXXX>
+  <XXXX>strigosus, 33</XXXX>
+  <XXXX>acalyphaceus, 34</XXXX>
+  <XXXX>arizonicus, 34</XXXX>
+  <XXXX>subg. Anoplobatus, 2</XXXX>
+  <XXXX>subg. Chamaebatus, 2, 42</XXXX>
+  <XXXX>subg. Chamaemorus, 2</XXXX>
+  <XXXX>subg. Cylactis, 2</XXXX>
+  <XXXX>subg. Dalibarda, 2</XXXX>
+  <XXXX>subg. Idaeobatus, 2</XXXX>
+  <XXXX>subg. Idaeobaus, 2</XXXX>
+  <XXXX>subg. Rubus, 2, 4, 42</XXXX>
+  <XXXX>subinnoxius, 27</XXXX>
+  <XXXX>subsolanus, 52</XXXX>
+  <XXXX>subtractus, 52</XXXX>
+  <XXXX>suus, 52</XXXX>
+  <XXXX>tallahasseanus, 61</XXXX>
+  <XXXX>temerarius, 27</XXXX>
+  <XXXX>tetricus, 27</XXXX>
+  <XXXX>thyrsoideus, 17</XXXX>
+  <XXXX>tomentosus</XXXX>
+  <XXXX>canescens, 4</XXXX>
+  <XXXX>trifrons</XXXX>
+  <XXXX>pudens, 30</XXXX>
+  <XXXX>trilobus, 24</XXXX>
+  <XXXX>triphyllus, 47</XXXX>
+  <XXXX>trivialis, 6, 7, 61, 62, 63, 73</XXXX>
+  <XXXX>tygartensis, 52</XXXX>
+  <XXXX>ucetanus, 52</XXXX>
+  <XXXX>uliginosus, 48</XXXX>
+  <XXXX>ulmifolius, 6, 15, 17, 63, 64, 68</XXXX>
+  <XXXX>anoplothyrsus, 63, 64</XXXX>
+  <XXXX>inermis, 64</XXXX>
+  <XXXX>uniformis, 59</XXXX>
+  <XXXX>univocus, 59</XXXX>
+  <XXXX>ursinus, 1, 5, 6, 7, 17, 18, 54, 65, 66, 67</XXXX>
+  <XXXX>eastwoodianus, 65</XXXX>
+  <XXXX>macropetalus, 65</XXXX>
+  <XXXX>menziesii, 66</XXXX>
+  <XXXX>sirbenus, 65</XXXX>
+  <XXXX>uvidus, 27</XXXX>
+  <XXXX>vagulus, 30</XXXX>
+  <XXXX>vagus, 29</XXXX>
+  <XXXX>vermontanus, 59</XXXX>
+  <XXXX>vestitus, 5, 7, 9, 15, 16, 64, 67, 68</XXXX>
+  <XXXX>viburnifolius, 35</XXXX>
+  <XXXX>vigil, 30</XXXX>
+  <XXXX>villosus</XXXX>
+  <XXXX>montanus, 9</XXXX>
+  <XXXX>viridifrons, 59</XXXX>
+  <XXXX>virilis, 52</XXXX>
+  <XXXX>vitifolius, 65</XXXX>
+  <XXXX>eastwoodianus, 65</XXXX>
+  <XXXX>ursinus, 65</XXXX>
+  <XXXX>vixalacer, 27</XXXX>
+  <XXXX>vixargutus, 52</XXXX>
+  <XXXX>wahlii, 52</XXXX>
+  <XXXX>whartoniae, 27</XXXX>
+  <XXXX>wheeleri, 59</XXXX>
+  <XXXX>wiegandii, 52</XXXX>
+  <XXXX>x\abbrevians, 69</XXXX>
+  <XXXX>x\acer, 69</XXXX>
+  <XXXX>subacer, 69</XXXX>
+  <XXXX>x\aculiferus, 69</XXXX>
+  <XXXX>x\adenocaulis, 69</XXXX>
+  <XXXX>x\adjacens, 69</XXXX>
+  <XXXX>x\akermanii, 69</XXXX>
+  <XXXX>x\alter, 69</XXXX>
+  <XXXX>x\amabilis, 70</XXXX>
+  <XXXX>x\ambigens, 69</XXXX>
+  <XXXX>x\amicalis, 70</XXXX>
+  <XXXX>x\angustifoliatus, 70</XXXX>
+  <XXXX>x\arcuans, 70</XXXX>
+  <XXXX>x\argutinus, 70</XXXX>
+  <XXXX>x\ascendens, 70</XXXX>
+  <XXXX>x\atwoodii, 70</XXXX>
+  <XXXX>x\avipes, 70</XXXX>
+  <XXXX>x\biformispinus, 70</XXXX>
+  <XXXX>x\bigelovianus, 70</XXXX>
+  <XXXX>x\boyntonii, 71</XXXX>
+  <XXXX>x\bracteolifer, 71</XXXX>
+  <XXXX>x\canadensis</XXXX>
+  <XXXX>elegantulus, 71</XXXX>
+  <XXXX>x\clausenii, 71</XXXX>
+  <XXXX>x\darlingtonii, 71</XXXX>
+  <XXXX>x\dissitiflorus, 71</XXXX>
+  <XXXX>x\distinctus, 71</XXXX>
+  <XXXX>x\elegantulus, 71</XXXX>
+  <XXXX>x\elongatus, 71</XXXX>
+  <XXXX>x\emeritus, 71</XXXX>
+  <XXXX>x\flavinanus, 72</XXXX>
+  <XXXX>x\floricomus, 72</XXXX>
+  <XXXX>x\floridensis, 72</XXXX>
+  <XXXX>x\forestalis, 72</XXXX>
+  <XXXX>x\fraseri, 45, 47</XXXX>
+  <XXXX>x\fraternalis, 72</XXXX>
+  <XXXX>x\fraternus, 72</XXXX>
+  <XXXX>x\frondisentis, 72</XXXX>
+  <XXXX>x\furtivus, 72</XXXX>
+  <XXXX>x\grandidens, 72</XXXX>
+  <XXXX>x\harmonicus, 72</XXXX>
+  <XXXX>x\hypolasius, 73</XXXX>
+  <XXXX>x\immanis, 73</XXXX>
+  <XXXX>x\inferior, 73</XXXX>
+  <XXXX>x\jacens, 73</XXXX>
+  <XXXX>specialis, 73</XXXX>
+  <XXXX>x\janssonii, 73</XXXX>
+  <XXXX>x\kalamazoensis, 73</XXXX>
+  <XXXX>x\laevior, 73</XXXX>
+  <XXXX>x\largus, 73</XXXX>
+  <XXXX>x\lepagei, 73</XXXX>
+  <XXXX>x\licens, 73</XXXX>
+  <XXXX>x\miscix, 73</XXXX>
+  <XXXX>x\multiformis, 73</XXXX>
+  <XXXX>x\multilicius, 73</XXXX>
+  <XXXX>x\neglectus, 34</XXXX>
+  <XXXX>x\novanglicus, 73</XXXX>
+  <XXXX>x\noveboracus, 73</XXXX>
+  <XXXX>x\orarius, 73</XXXX>
+  <XXXX>x\ostryifolius, 74</XXXX>
+  <XXXX>x\paracaulis, 56, 74</XXXX>
+  <XXXX>x\parlinii, 74</XXXX>
+  <XXXX>x\pergratus, 74</XXXX>
+  <XXXX>x\permixtus, 74</XXXX>
+  <XXXX>x\perspicuus, 74</XXXX>
+  <XXXX>x\ravus, 74</XXXX>
+  <XXXX>x\recurvicaulis, 74</XXXX>
+  <XXXX>x\rixosus, 74</XXXX>
+  <XXXX>x\rosendahlii, 74</XXXX>
+  <XXXX>x\segnis, 74</XXXX>
+  <XXXX>x\setospinosus, 74</XXXX>
+  <XXXX>x\severus, 74</XXXX>
+  <XXXX>x\spiculosus, 74</XXXX>
+  <XXXX>x\tardatus, 74</XXXX>
+  <XXXX>x\tholiformis, 74</XXXX>
+  <XXXX>x\trifrons, 74</XXXX>
+  <XXXX>x\trux, 75</XXXX>
+  <XXXX>x\varus, 75</XXXX>
+  <XXXX>x\vigoratus, 75</XXXX>
+  <XXXX>x\zaplutus, 75</XXXX>
+  <XXXX>Rydberg, P. A., 3</XXXX>
+  <XXXX>Salmonberry, 60</XXXX>
+  <XXXX>San Diego raspberry, 29</XXXX>
+  <XXXX>Sand blackberry, 21</XXXX>
+  <XXXX>Smith, E. B., 3</XXXX>
+  <XXXX>Smith, H. H., 11</XXXX>
+  <XXXX>Smooth highbush blackberry, 19</XXXX>
+  <XXXX>Snow raspberry, 2, 41</XXXX>
+  <XXXX>Snowpeaks raspberry, 42</XXXX>
+  <XXXX>Southern dewberry, 61</XXXX>
+  <XXXX>Sow-teat berry, 9</XXXX>
+  <XXXX>Stone bramble, 57</XXXX>
+  <XXXX>Strausbaugh, P. D., 3</XXXX>
+  <XXXX>Strawberry raspberry, 35</XXXX>
+  <XXXX>Strawberryleaf raspberry, 50</XXXX>
+  <XXXX>Swamp dewberry, 30</XXXX>
+  <XXXX>Taraxacum, 3</XXXX>
+  <XXXX>Thimbleberry, 2, 46</XXXX>
+  <XXXX>Thompson, M. M., 42</XXXX>
+  <XXXX>Tucker, G. C., 3</XXXX>
+  <XXXX>Voss, E. G., 3</XXXX>
+  <XXXX>Weakley, A. S., 3</XXXX>
+  <XXXX>Weber, H. E., 17, 64</XXXX>
+  <XXXX>Whitebark raspberry, 39</XXXX>
+  <XXXX>Widrlechner, M. P., 3, 18, 48</XXXX>
+  <XXXX>Williams, K., 17</XXXX>
+  <XXXX>Wineberry, 54</XXXX>
+  <XXXX>Wooten, J. W., 3</XXXX>
+  <XXXX>Wunderlin, R. P., 3</XXXX>
+  <discussion>[Regional reviews: ECAN: Coursol, Cayouette, Morton, M. Oldham, Ont. M. Munro, NS – no comment, Blaney; Brouillet; Central US: D. Lewis (2), compiled reviews: Cholewa (Minn.), Kaul (Nebr.), Lewis (Iowa), McGregor (Kans.), G. Yatskievych (Mo.), K. Yatskievych (Ind.); Texas: JM Poole; SE Review; Rockies: B. Heidel; PNW &amp; UBC]</discussion>
+</treatment>
+

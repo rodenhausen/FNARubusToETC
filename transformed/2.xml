@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>1.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>allegheniensis</species_name>
+    <species_authority>Porter</species_authority>
+    <place_of_publication>
+      <publication_title>Bull. Torrey Bot. Club</publication_title>
+      <place_in_publication>23: 153. 1896</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species allegheniensis;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Allegheny or common blackberry , sow-teat berry , ronce des Alléghanys EF</other_info>
+  <TaxonIdentification Status="BASIONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>villosus</species_name>
+    <species_authority>Aiton</species_authority>
+    <variety_name>montanus</variety_name>
+    <variety_authority>Porter</variety_authority>
+    <place_of_publication>
+      <publication_title>Bull. Torrey Bot. Club</publication_title>
+      <place_in_publication>17: 15. 1890</place_in_publication>
+    </place_of_publication>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>acadiensis</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>allegheniensis</species_name>
+    <variety_name>calycosus</variety_name>
+    <variety_authority>(Fernald) Fernald</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>allegheniensis</species_name>
+    <variety_name>gravesii</variety_name>
+    <variety_authority>(Fernald) Fernald</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>allegheniensis</species_name>
+    <variety_name>neoscoticus</variety_name>
+    <variety_authority>(Fernald) L. H. Bailey</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>allegheniensis</species_name>
+    <variety_name>plausus</variety_name>
+    <variety_authority>L. H. Bailey</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>allegheniensis</species_name>
+    <variety_name>populifolius</variety_name>
+    <variety_authority>Fernald</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>alumnus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>apianus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>attractus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>auroralis</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>campester</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>concameratus</species_name>
+    <species_authority>H. A. Davis &amp; T. Davis</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>fryei</species_name>
+    <species_authority>H. A. Davis &amp; T. Davis</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>glandicaulis</species_name>
+    <species_authority>Blanchard</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>impos</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>inclinis</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>irregularis</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>licitus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>montpelierensis</species_name>
+    <species_authority>Blanchard ex L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>nigrobaccus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>nuperus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>paulus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>pugnax</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>rosa</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>saltuensis</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>sceleratus</species_name>
+    <species_authority>Brainerd ex Fernald</species_authority>
+  </TaxonIdentification>
+  <description>Shrubs, 10--30 dm, armed. Stems &lt;biennial&gt;, erect-arching, sparsely to densely hairy, sparsely to abundantly stipitate-glandular, &lt;glands usually flattened to cupulate&gt;, not pruinose; prickles sparse to dense, erect or slightly retrorse, stout, 4--10 mm, broad-based. Leaves deciduous, palmately compound, &lt;not lustrous&gt;; stipules filiform to narrowly lanceolate, (2--)5--15(--20) mm; leaflets (3--)5(--7), terminal ovate to lanceolate, 7--16 x 4--9 cm, base rounded to shallowly cordate, unlobed, margins finely to coarsely serrate or doubly serrate, apex acuminate to long-attenuate, abaxial surfaces with hooked prickles on midveins, moderately hairy, moderately to densely stipitate-glandular on veins. Inflorescences terminal &lt;on short shoots, sometimes appearing axillary&gt;, (5--)15--25-flowered, racemiform, often elongate. Pedicels unarmed or prickles sparse, hooked, densely hairy, densely short- to long-stipitate-glandular. Flowers bisexual; petals white, obovate to elliptic, rarely suborbiculate, 8--20 mm; filaments filiform; ovaries glabrous or glabrate. Fruits black, globose to cylindric, 1--2 cm; drupelets 20--100, strongly coherent, separating with torus attached. 2n = 14, 21, 28.</description>
+  <phenology_info>
+    <text>Flowering May--Jul.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+  </phenology_info>
+  <habitat>woodlands</habitat>
+  <habitat>savannas</habitat>
+  <habitat>prairies</habitat>
+  <habitat>meadows</habitat>
+  <habitat>rock outcrops</habitat>
+  <habitat>disturbed areas</habitat>
+  <habitat>dry to damp soils</habitat>
+  <elevation>0--1600 m;</elevation>
+  <ca_distribution>B.C.</ca_distribution>
+  <ca_distribution>N.B.</ca_distribution>
+  <ca_distribution>N.S.</ca_distribution>
+  <ca_distribution>Ont.</ca_distribution>
+  <ca_distribution>P.E.I.</ca_distribution>
+  <ca_distribution>Que.</ca_distribution>
+  <us_distribution>Ala.</us_distribution>
+  <us_distribution>Ark.</us_distribution>
+  <us_distribution>Calif.</us_distribution>
+  <us_distribution>Conn.</us_distribution>
+  <us_distribution>Del.</us_distribution>
+  <us_distribution>D.C.</us_distribution>
+  <us_distribution>Ga.</us_distribution>
+  <us_distribution>Ill.</us_distribution>
+  <us_distribution>Ind.</us_distribution>
+  <us_distribution>Iowa</us_distribution>
+  <us_distribution>Kans.</us_distribution>
+  <us_distribution>Ky.</us_distribution>
+  <us_distribution>Maine</us_distribution>
+  <us_distribution>Md.</us_distribution>
+  <us_distribution>Mass.</us_distribution>
+  <us_distribution>Mich.</us_distribution>
+  <us_distribution>Minn.</us_distribution>
+  <us_distribution>Mo.</us_distribution>
+  <us_distribution>Nebr.</us_distribution>
+  <us_distribution>N.H.</us_distribution>
+  <us_distribution>N.J.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <us_distribution>N.C.</us_distribution>
+  <us_distribution>Ohio</us_distribution>
+  <us_distribution>Okla.</us_distribution>
+  <us_distribution>Pa.</us_distribution>
+  <us_distribution>R.I.</us_distribution>
+  <us_distribution>S.C.</us_distribution>
+  <us_distribution>Tenn.</us_distribution>
+  <us_distribution>Vt.</us_distribution>
+  <us_distribution>Va.</us_distribution>
+  <us_distribution>W.Va.</us_distribution>
+  <us_distribution>Wis.</us_distribution>
+  <discussion>Rubus allegheniensis consists of erect-arching, usually well-armed plants, usually densely stipitate-glandular with flattened to cupulate glands, particularly about the inflorescence.</discussion>
+  <discussion>The Menominee, Meskwaki, and Potawatomi used root extracts of Rubus allegheniensis to treat eye irritation (H. H. Smith 1923, 1928, 1933). The Ojibwa used boiled extracts of the canes as a diuretic and a root extract for treating diarrhea (Smith 1932). Rubus allegheniensis is introduced in British Columbia and California, where rare and in at least California probably no more than a waif.</discussion>
+  <discussion>Rubus montanus (Porter) Porter, a name that has been used for this species, is a later homonym of R. montanus Libert ex Lejeune.</discussion>
+  <discussion>The following nothospecies names are based on putative hybrids involving Rubus allegheniensis and: R. canadensis (R. x\forestalis L. H. Bailey, R. x\immanis Ashe); R. flagellaris (R. x\boyntonii Ashe, R. x\fraternalis L. H. Bailey, R. x\licens L. H. Bailey, R. x\ostryifolius Rydberg); R. pensilvanicus (R. x\avipes L. H. Bailey, R. x\floricomus Blanchard, R. x\orarius Blanchard); R. setosus (R. x\abbrevians Blanchard, R. x\aculiferus Fernald, R. x\adenocaulis Fernald, R. x\angustifoliatus L. H. Bailey, R. x\ascendens Blanchard, R. x\atwoodii L. H. Bailey, R. x\clausenii L. H. Bailey, R. x\flavinanus Blanchard, R. x\frondisentis Blanchard, R. x\perspicuus L. H. Bailey, R. x\ravus L. H. Bailey).</discussion>
+</treatment>
+

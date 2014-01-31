@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>facetus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species facetus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(elegant)</other_name>
+  <number>175</number>
+  <description>Differing from nos. 173 and 174 in its very great stature; primary canes 1-2 cm. in diameter and up to 4.5 m. high, erect or stiffly arching; primocane-leaves strigose-pilose above; terminal leaflet cordate- or subcordate-ovate, abruptly long-acuminate, 10-15 cm. long, 7-10.5 cm. broad, this and the similar median leaflets long-petiolulate; corolla 3.5-4 cm. broad; calyx-lobes tardily spreading, only slightly recurved in fruit; fruit subglobose, becoming2-2.5 cm. in diameter, very rich, with grape-like flavor.</description>
+  <habitat_elevation_distribution_or_ecology>Damp thickets, pond-margins and disturbed soil, w. N.S. and centr. Me. to s. N.E. and L.I. Fl. June, early July; fr. Aug., Sept.</habitat_elevation_distribution_or_ecology>
+  <description> </description>
+</treatment>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>grandidens</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species grandidens;</taxon_hierarchy>
+  </taxon_identification>
+  <number>94</number>
+  <description type="morphology">Somewhat intermediate between nos. 77 and 95; primocanes high-doming, then the tips arching and finally trailing, about 6 mm. thick, with stout-based prickles 4 mm. long mixed with fine and short bristles and glands; primocane-leaves coriaceous, dark green, lustrous, 5-foliolate; leaflets with caudate tips 2-3 cm. long; terminal and median leaflets broadly ovate, cordate or subcordate; the terminal 1-1.2 dm. long and 6-7 cm. broad, on petiolules 2.5 cm. long; petiolules of median leaflets 1.5 cm. long; floricane-leaves small, narrowly oval, acute; racemose-corymbiform inflorescence with glandular but prickleless pedicels 1.5-2.5 cm. long.</description>
+</treatment>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>akermani</species_name>
+    <species_authority>fern,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species akermani;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(in honor of alfred akerman, 1876-)</other_name>
+  <number>97</number>
+  <description>Coarser, forming intricate domes up to 1.3 m. high, with long-arching and finally tip-rooting branches up to 3 m. or more long; primary canes 4-10 mm. thick, remotely armed with hard recurving prickles 3-6mm. long and with flattened bases 2-6 mm. broad; leaves firm to coriaceous, soft-pubescent beneath, the upper surface with strigae barely 0.5 mm. long or glabrate; primocane-leaves 3-foliolate, with ovate regularly toothed acuminate leaflets; terminal leaflet cordate or rounded at base, 5-8 cm. long, 2.5-5.5 cm. broad, on strongly armed villous petiolules 1.5-3 cm. long; flowering shoots with small leaves with obtuse to merely acutish elliptic to cuneate-obovate leaflets, the terminal leaflet 1.5-6 cm. long; flowers 1 or 2-4 in a compact corymb, equaled by the bracts; pedicels ascending, villous, glandless and mostly unarmed, 0.7-1.8 cm. long; calyx pilose, unarmed; fruit nearly 2 cm. in diameter.</description>
+  <habitat_elevation_distribution_or_ecology>Argillaceous thickets or peaty or sphagnous swamps, Brunswick and Greensville Cos., Va. Fr. mid-June, early July.</habitat_elevation_distribution_or_ecology>
+  <description> </description>
+  <description />
+</treatment>
+

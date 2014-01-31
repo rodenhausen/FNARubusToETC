@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>cordifrons</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species cordifrons;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(with heart-shaped leaf; i.e. leaflet)</other_name>
+  <number>53</number>
+  <description>Very strong and intricately forking low-arching and long-trailing and root-tipping, with canes up to 8 mm. thick at base but down to 2 mm. at rooting tips; canes with scattered broad-based prickles; terminal leaves membranaceous, downy beneath; terminal primocane-leaflet broadly ovate and cordate or subcordate, in maturity 3-7 cm. broad, tapering from near or above middle to caudate tip, sharply double-serrate; flowering axis and pedicels villous but mostly without bristles or glands; corymb 2-7 (at tips of canes often l)-flowered, the arched-ascending or spreading villous pedicels 1-4 cm. long and mostly overtopped by the bracts.</description>
+  <discussion>A handsome double-flowered plant with stamens largely altered to petals is forma pleniflorus Fern, (double-flowered).</discussion>
+  <habitat_elevation_distribution_or_ecology>Sandy thickets, borders of woods and clearings, N.J. and Pa., s. to Va. and W.Va. Fl. early May-mid-June; fr. June, July.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

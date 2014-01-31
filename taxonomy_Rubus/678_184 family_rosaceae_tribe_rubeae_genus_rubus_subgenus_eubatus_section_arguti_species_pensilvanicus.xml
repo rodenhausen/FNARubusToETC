@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>pensilvanicus</species_name>
+    <species_authority>poir.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species pensilvanicus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(pennsylvanian)</other_name>
+  <number>184</number>
+  <description>Erect or ascending usually firm- and finally purple-stemmed plant with canes 0.5-3 m. high, freely branching; primocanes with stout straight or slightly arching remote prickles; primocane-leaves mostly 5-foliolate, soft- or velvety-pubescent beneath, on more or less prickly petioles; terminal leaflet narrowly to broadly ovate, acuminate, with broadly rounded to cordate base, doubly serrate, the mostly submembranaceous blade becoming 0.6-2 dm. long and 4-10 cm. broad, its petiolule elongate, the principal veins slender and partially obscured by the pubescence beneath; racemes corymbiform or subcorymbiform, broadest above the middle, the axis densely pilose or villous; pedicels elongate and pilose, mostly unarmed, some rarely armed, mostly subtended by small stipule-like bracts, only the lower 1-4 subtended by foliaceous bracts, or all or nearly all (including the upper ones) with foliaceous bracts in the rare forma phyllophorus Fern. (bearing leaves); flowers showy, 2-3 or more cm. broad; calyx-lobes soon reflexed; fruit squarish-subglobose to thick-ellipsoid, 1-3 cm. long, usually very juicy and of fine quality, rarely bitter. (Incl. many local phases which can scarcely be distinguished: R. Andrewsianus, orarius, pergratus and philadelphicus of Blanchard; R. laudatus Berger; and R. abactus, difformis, Hanesii, honorus, insons, litoreus, ozarkensis, parcifrondifer, pubifolius, rosarius and uniquus of Bailey)</description>
+  <habitat_elevation_distribution_or_ecology>Thickets, borders of woods, clearings and (luxuriantly) recent burns, sw. Nfld. to s. Ont. and Minn., s. to N.S., N.E., Va., upland to Ala., Tenn., Ark. and Okla. Fl. May (southw.)-mid-July (northw.);fr. July (southw.)-Sept. (northw.).</habitat_elevation_distribution_or_ecology>
+  <description> </description>
+</treatment>
+

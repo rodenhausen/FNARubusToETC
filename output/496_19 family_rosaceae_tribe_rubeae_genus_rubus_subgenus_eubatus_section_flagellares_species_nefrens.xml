@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>nefrens</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species nefrens;</taxon_hierarchy>
+  </taxon_identification>
+  <number>19</number>
+  <description type="morphology">Resembling no. 16 but with flowering pedicels and petioles of bracteal leaves densely spreading-villous; canes with remote subulate prickles only 1-2.5 mm. long; petioles unarmed or with remote bristles1-2 mm. long; primocane-leaves firm-membranaceous, the terminal ovate leaflet acuminate-tipped; floricane-leaflets merely acute, all leaflets coarsely dentate or dentate-serrate with broad simple or hut slightly notched teeth; larger corymbs with 2-6 flowers on nearly prickleless pedicels up to 7 cm. long. (? R. Steelei Bailey; R. multifer Bailey)</description>
+</treatment>
+

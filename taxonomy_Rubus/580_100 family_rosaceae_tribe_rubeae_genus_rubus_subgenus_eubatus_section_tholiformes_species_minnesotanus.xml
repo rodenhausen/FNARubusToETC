@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>minnesotanus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species minnesotanus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(of minnesota)</other_name>
+  <number>100</number>
+  <description>Forming dense domes up to nearly 1 m. high, the arching branches reaching the ground and trailing or tip-rooting; stronger parts of primocane with scattered subulate straight prickles 2-3 mm. long; primocane-leaves 3- or 5-foliolate, membranaceous, glabrous above, soft-pubescent beneath; leaflets broadly ovate, long-acuminate, sharply double-serrate; the terminal one deeply cordate, 8-13 cm. long, 6-9 cm. broad; petiole remotely unguiculate-prickly; flowering shoots with large 3-foliolate or simple cordate-ovate leafy bracts, these mostly equaling or exceeding the racemose-corymbiform inflorescence; pedicels ascending, 1.5-4 cm. long, remotely prickly; calyx pilose, the subulate-tipped lobes 7 mm. long; petals 1.5 cm. long, about 1 cm. broad; fruit 1-1.5 cm. in diameter.</description>
+  <habitat_elevation_distribution_or_ecology>So. and centr. Minn.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

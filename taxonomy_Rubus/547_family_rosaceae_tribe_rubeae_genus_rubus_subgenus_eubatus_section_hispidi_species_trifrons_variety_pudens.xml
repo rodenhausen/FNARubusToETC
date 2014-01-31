@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <variety_name>pudens</variety_name>
+    <variety_authority>(bailey) fern,</variety_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section hispidi;species trifrons;variety pudens;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(modest)</other_name>
+  <description>Slender, the primocanes and petioles nearly bristle-less or with few scattered setae. (R. pudens Bailey)</description>
+  <habitat_elevation_distribution_or_ecology>C.B. to e. Vt. and se. Mass.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

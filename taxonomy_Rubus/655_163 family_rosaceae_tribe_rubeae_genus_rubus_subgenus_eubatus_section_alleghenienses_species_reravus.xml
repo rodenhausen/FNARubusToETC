@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>reravus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section alleghenienses;species reravus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(another r. ravus)</other_name>
+  <number>163</number>
+  <description>Coarser than no. 161, with terete canes up to 1 cm. in diameter; primocanes densely covered by acicular prickles, setae and stipitate glands closely intermixed; primocane-leaves with similarly clothed petiole and petiolules; raceme simple or with lower pedicels forking; calyx-lobes lance-attenuate with prolonged tips; petals narrowly oblanceolate, 1.4-1.8 cm. long.</description>
+  <habitat_elevation_distribution_or_ecology>Mts. of Garrett Co., Md.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

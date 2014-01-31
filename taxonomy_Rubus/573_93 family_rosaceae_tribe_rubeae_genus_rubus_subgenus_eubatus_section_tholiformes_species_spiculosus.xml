@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>spiculosus</species_name>
+    <species_authority>fern.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species spiculosus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(covered with spicules)</other_name>
+  <number>93</number>
+  <description>Habit of no. 92; canes elongating to 2m., frequently tip-rooting; primocanes green and glabrous, openly retrorse-setose, with 100-500straight reflexed setae (and only scattered glands) per dm.; primocane-foliage firm, pale green, glabrous, with ribs less prominent beneath and glabrous or nearly so, the petioles and petiolules glandless; terminal leaflet subcordate, long-acuminate, 7-14 cm. long, 3.5-8 cm. broad, on bristly petiolule 1-3 cm. long; floricane-leaflets narrowly ovate or rhombic-obovate, acuminate, coarsely serrate; racemes lax, often subcorymbiform, the pilose rachis 3-8 cm. long, the lanceolate bracts often incised; pedicels loosely divergent, pilose and glandular, scarcely setose, mostly 2.5-5 cm. long; calyx-lobes 6-7 mm. long; petals showy, narrowly obovate, 1.2-1.5 cm. long, 5-9 mm. broad; fruit subglobose, 1.3 cm. in diameter.</description>
+  <habitat_elevation_distribution_or_ecology>Thickets and borders of woods, n. and centr. N.H. Fl. July; fr. late Aug., Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

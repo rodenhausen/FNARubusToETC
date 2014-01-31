@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>30.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>repens</species_name>
+    <species_authority>(Linnaeus) Kuntze</species_authority>
+    <place_of_publication>
+      <publication_title>Revis. Gen. Pl.</publication_title>
+      <place_in_publication>1: 223. 1891</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species repens;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Robin runaway , false violet , dalibarde rampante EF</other_info>
+  <TaxonIdentification Status="BASIONYM">
+    <genus_name>Dalibarda</genus_name>
+    <species_name>repens</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <place_of_publication>
+      <publication_title>Sp. Pl.</publication_title>
+      <place_in_publication>1: 491. 1753</place_in_publication>
+    </place_of_publication>
+  </TaxonIdentification>
+  <description>Herbs, 0.5--1 dm, unarmed. Stems creeping, moderately appressed-hairy, eglandular or sparsely to moderately stipitate-glandular, not pruinose. Leaves deciduous, simple; stipules lanceolate-laciniate, (2--)3--5(--8) mm; blade ovate-orbiculate, 1.5--2.7(--3) x 1.5--3.5(--4) cm, base deeply cordate, unlobed, margins crenate to broadly dentate, apex rounded, abaxial surfaces sparsely to moderately hairy, sparsely to moderately short-stipitate-glandular. Inflorescences 1-flowered. Pedicels moderately and retrorsely long-hairy, eglandular. Flowers bisexual; petals &lt;absent in fertile flowers, present in sterile flowers&gt;, white, narrowly elliptic to oblanceolate, 5--8 mm; filaments filiform; ovaries densely hairy, &lt;styles glabrous&gt;. Fruits whitish, 0.3--0.5 cm, &lt;dry&gt;; drupelets 5--10(--15), not coherent, separating from torus, &lt;enclosed by converging sepals&gt;. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering Jun--Sep.</text>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+    <phenology>sep</phenology>
+  </phenology_info>
+  <habitat>moist woods</habitat>
+  <habitat>swamps</habitat>
+  <elevation>0--1000 m;</elevation>
+  <ca_distribution>N.B.</ca_distribution>
+  <ca_distribution>N.S.</ca_distribution>
+  <ca_distribution>Ont.</ca_distribution>
+  <ca_distribution>P.E.I.</ca_distribution>
+  <ca_distribution>Que.</ca_distribution>
+  <us_distribution>Conn.</us_distribution>
+  <us_distribution>Maine</us_distribution>
+  <us_distribution>Md.</us_distribution>
+  <us_distribution>Mass.</us_distribution>
+  <us_distribution>Mich.</us_distribution>
+  <us_distribution>Minn.</us_distribution>
+  <us_distribution>N.H.</us_distribution>
+  <us_distribution>N.J.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <us_distribution>N.C.</us_distribution>
+  <us_distribution>Ohio</us_distribution>
+  <us_distribution>Pa.</us_distribution>
+  <us_distribution>R.I.</us_distribution>
+  <us_distribution>Vt.</us_distribution>
+  <us_distribution>Va.</us_distribution>
+  <us_distribution>W.Va.</us_distribution>
+  <discussion>Rubus repens is recognized by its creeping, unarmed stems, simple, ovate-orbiculate leaves, long petioles with spreading hairs, sterile petaliferous flowers on long pedicels and fertile apetalous flowers on short pedicels, and essentially dry fruits. Phylogenetic analysis of DNA sequence data supports inclusion of D. repens in Rubus (L. A. Alice and C. S. Campbell 1999), among other basal species to R. lasiococcus (K. V. Ambrose 2006).</discussion>
+  <discussion>The Iroquois use a decoction of powdered plants of Rubus repens as a blood purifier and for venereal disease (J. W. Herrick 1977).</discussion>
+</treatment>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>flagellaris</species_name>
+    <species_authority>willd., at least sensu bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species flagellaris;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(like a whip-lash)</other_name>
+  <number>16</number>
+  <description>Very long-creeping and prostrate, the canes eventually flat-trailing and usually rooting at tips. Primocanes up to 6 mm. thick at base, at first ascending, later depressed, becoming 2-5 m. long, slender toward tips, glabrous and with firm subulate but thick-based scattered and slightly recurved prickles 1-4 mm. long along the angles; leaves on slender subglabrous or merely puberulent or appressed-pilose prickleless or sparsely prickly petioles; leaflets 3 or 5, serrate or dentate, glabrous or with the veins beneath appressed-pilose; the terminal leaflet ovate to subelliptic, rounded to base, rather abruptly contracted (often shouldered) to an acuminate tip 0.5-2 cm. long, the petiolule elongate, the lateral leaflets subsessile and often asymmetrical, all glabrous or merely appressed-pilose on nerves beneath. Floricanes trailing, woody and tough, often reddish or purplish; flowering branchlets erect, those near base producing corymbs of (2-)3-9 (sometimes more) flowers on nearly erect filiform glabrous to merely puberulent or appressed-pilose (rarely remotely villous) prickleless or sparsely setose-prickly pedicels, the lower pedicels 3-9 (-12) cm. long; corymbs toward tip of floricane often reduced to 2 (or 1) flowers; bracteal leaves 3-foliolate or simple, glabrous or nearly so beneath and on glabrescent petioles, the terminal leaflet or the simple blade ovate, obovate or lanceolate, longer than broad; calyx pubescent; petals white, oblong to elliptic-oval or obovate, 1-1.5 cm long, 5-10 mm, broad; fruit relatively large, globose or slightly elongate, mostly 1-1.5 cm. in diameter, usually of rich flavor. (R. villosus of ed. 7, not Ait.; R. procumbens sensu many auth., not Muhl. as validated by Bart.; R. geophilus Blanch., thinner- and paler-leaved plants with most jagged toothing; R. alacer Bailey; R. fecundus Bailey, form with floricane- subacute)</description>
+  <discussion>Aug.</discussion>
+  <habitat_elevation_distribution_or_ecology>Highly variable but scarcely divisible species of dry fields, openings and borders of thickets, w.-centr. Me. and sw. Que. to s. Ont. and Minn., s. beyond our limits. Fl. May, June; fr. June</habitat_elevation_distribution_or_ecology>
+  <description> </description>
+</treatment>
+

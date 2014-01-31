@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>profusiflorus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species profusiflorus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(profusely flowering)</other_name>
+  <number>30</number>
+  <description>Less glandular than no. 29; longer and less crowded prickles of primocane 4 mm. long; petioles and petiolules of primocane-leaves glandless; the terminal leaflet elliptic-ovate, only gradually tapering to acuminate tip; suberect glandular and bristly pedicels much longer than subtending bracts, up to 6.5 cm. long; calyx glandular, scarcely bristly.</description>
+  <habitat_elevation_distribution_or_ecology>Sandy open soil, n. Ind.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

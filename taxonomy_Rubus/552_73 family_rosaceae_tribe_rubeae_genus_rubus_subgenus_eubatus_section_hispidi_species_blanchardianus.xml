@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>blanchardianus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section hispidi;species blanchardianus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(for its discoverer, william henry blanchard, 1850-1922, pioneering and self-sacrificing student of eastern north american rubi)</other_name>
+  <number>73</number>
+  <description>Characterized by jagged or lacerate-toothed leaflets with acute sinuses up to 5 mm. deep; primocanes retrorse-bristly and stipitate-glandular; primocane-leaves 3- or 5-foIiolate, glabrous, with narrowly ovate acuminate leaflets; corymb short, only the lowest pedicels subtended by foliaceous bracts; calyx glandular.</description>
+  <habitat_elevation_distribution_or_ecology>Windham Co., Vt.</habitat_elevation_distribution_or_ecology>
+  <description> </description>
+</treatment>
+

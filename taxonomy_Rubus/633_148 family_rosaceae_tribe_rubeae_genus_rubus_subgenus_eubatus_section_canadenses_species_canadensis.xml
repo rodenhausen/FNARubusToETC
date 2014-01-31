@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>canadensis</species_name>
+    <species_authority>l.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section canadenses;species canadensis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(canadian), smooth b</other_name>
+  <number>148</number>
+  <description>Canes smooth and without (or with exceptional and very remote) prickles, 0.5-3 m. high, erect or high-arching; primocane-leaves with smooth petioles or exceptionally with 1 or 2 small prickles; leaflets (3-)5(-7), ovate or ovate-lanceolate, long-acuminate, glabrous on both surfaces, the median and terminal ones long-petiolulate, the terminal with broadly rounded to cordate base; floricanes strongly ascending (unless lodged by heavy snow); primary inflorescences elongate racemes of numerous (up to 25) flowers, standing well above the basal foliaceous bracts; most bracts reduced and stipuliform, the rachis minutely pilose; petals 1.2-2 cm. long, 6-12 mm. broad; fruit globose to thimble-shaped, -12 mm. long, dryish or in some colonies juicy and of rich quality. (R. Millspaughii Britt.; R. Randii (Bailey) Rydb., the smallest extreme)</description>
+  <habitat_elevation_distribution_or_ecology>Thickets and clearings, Nfld. to w. Out. and Minn., s. to N.S.,N.E., Pa., upland to n. Ga. and Tenn. Fl. June, July; fr. Aug., early Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

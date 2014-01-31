@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>25.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>pascuus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+    <place_of_publication>
+      <publication_title>Gentes Herb.</publication_title>
+      <place_in_publication>5: 440, fig. 200. 1943</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species pascuus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Topsy, Nanticoke or Chesapeake blackberry E</other_info>
+  <habitat>rubus serissimus l. h. bailey</habitat>
+  <global_distribution>R. uliginosus Fernald</global_distribution>
+  <discussion>Shrubs, 7--30 dm, armed. Stems &lt;biennial&gt;, arching, sparsely to densely hairy, sparsely to densely sessile-glandular, rarely short-stipitate-glandular, not pruinose; &lt;bark not papery, peeling&gt;; prickles moderate to dense, hooked, retrorse, or erect, stout, 4--10 mm, broad- or narrow-based. Leaves deciduous to semievergreen, palmately compound, rarely ternate; stipules filiform to linear, rarely narrowly lanceolate, 5--16(--20) mm; leaflets 3--5, terminal broadly elliptic or ovate, (3.5--)4.5--8.5 x 2.5--6 cm, base rounded, unlobed, margins moderately to coarsely doubly, rarely singly, serrate, apex acute or short-acuminate, abaxial surfaces with hooked prickles on larger veins, short-velutinous to tomentose, sparsely to densely sessile-glandular, rarely short-stipitate-glandular. Inflorescences terminal and axillary, 3--15(--25)-flowered, cymiform to thyrsiform, &lt;not projected well beyond subtending leaves&gt;. Pedicels: prickles moderate to dense, hooked, retrorse, or erect, densely hairy, eglandular or sparsely to moderately sessile-glandular. Flowers bisexual; petals white to pale pink, obovate or elliptic to orbiculate, (8--)10--15 mm; filaments filiform; ovaries glabrous or apically hairy. Fruits black, globose to subcylindric, 1--2 cm; drupelets (15--)20--40(--50), strongly coherent, separating with torus attached. 2n = 21, 28.</discussion>
+  <discussion>Flowering (Apr--)May--Jun. Woodland edges, swamp margins, dry thickets, open and often disturbed areas, roadsides; 0--300(--700) m; Ala., Ark., Del., Ga., Ill., Ind., Ky., Md., Miss., Mo., N.J., N.C., Okla., Pa., S.C., Tenn., Tex., Va.</discussion>
+  <discussion>Rubus pascuus is probably more widespread than indicated here. The species is most likely to be mistaken for R. bifrons, R. cuneifolius, or R. pensilvanicus. Unlike R. bifrons, R. pascuus is generally more densely glandular, has much shorter, compact inflorescences that usually barely surpass the leaves, and tends to hold its primocane leaves relatively erect (versus spreading in R. bifrons). Although both can be semievergreen, R. pascuus will lose its leaves more readily than R. bifrons in areas where they co-occur. When compared with R. cuneifolius, R. pascuus has pale pink to white petals and ovate to broadly elliptic leaflets with flat margins, the entire part restricted to the base; R. cuneifolius has white petals and cuneate to obovate leaflets with usually revolute margins, the proximal third entire. When compared with R. pensilvanicus, R. pascuus has pale pink to white petals. Rubus pensilvanicus only has white petals as well as abaxial leaf surfaces, which are white to gray-green in R. pascuus with dense, short-velutinous to tomentose indument, while those of R. pensilvanicus can be hairy but never whitish to gray-green. A notable aspect of R. pascuus is how vigorously armed it is, more so than most other Rubus species in the flora area.</discussion>
+  <discussion>Rubus pascuus may represent a stabilized hybrid between a European and a native blackberry species, suggested by whitish pubescence on the abaxial leaf surface and pale pink petals. L. H. Bailey placed R. pascuus in his sect. Cuneifolii (L. H. Bailey) L. H. Bailey, likely because of the whitish hairs on the abaxial leaf surface.</discussion>
+  <discussion>The use of the name Rubus pascuus here is tentative; it is the best fit to the material observed. This treatment follows H. A. Davis (1990) for the choice of the name to use and its associated synonymy.</discussion>
+</treatment>
+

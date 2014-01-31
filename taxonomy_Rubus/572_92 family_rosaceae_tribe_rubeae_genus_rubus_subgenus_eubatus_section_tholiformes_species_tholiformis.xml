@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>tholiformis</species_name>
+    <species_authority>fern.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species tholiformis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(dome-shaped)</other_name>
+  <number>92</number>
+  <description>In habit like nos. 88 and 89; canes 3-7 mm. thick, elongating to 1 m., often rooting at tip; primocanes densely gray- or fuscous-glandular and setose; the bristles divergent and only 1-2 mm. long, subrigid; primocane-foliage quinate or ternate, chartaceous, pale green, dull, glabrous, with elliptic-oval leaflets mostly tapering to base and apex, doubly fine-serrate, the ribs beneath prominent and pilose; the terminal leaflet 7-11 cm. long, 3.5-6.5 cm. broad, somewhat rounded to base, on a glandular and setose petiolule 1.2-2.4 cm. long; leaflets of floricane-foliage acute, narrowly serrate-dentate; inflorescence corymbose or corymbose-racemose, with densely villous rachis and often trifid upper bracts; pedicels subascending, 1-2 cm. long, gray-villous and glandular, sometimes setose; calyx villous and glandular-setose, with short soon reflexed lobes; petals narrow, 0.5-1 cm. long, 3-4 mm. broad; fruit subglobose, 1-1.3 cm. in diameter, of fine quality.</description>
+  <habitat_elevation_distribution_or_ecology>Sandy alluvium, sand-plains and damp thickets, Coos Co., N.H. Fl. July; fr. Aug., Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

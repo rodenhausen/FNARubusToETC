@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>cupressorum</species_name>
+    <species_authority>fern,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species cupressorum;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(of cypresses)</other_name>
+  <number>192</number>
+  <description>Erect, 1-2 m. high, with widely arching branches and intricate branchlets; primocane with stout broad-based prickles 4-8 or more mm. long; petioles of primocane-leaves with stout hooked prickles; terminal leaflet elliptic-ovate to slightly obovate, long-acuminate, 7-10 cm. long, strigose-pilose above and along nerves beneath; corymb (l-)2-7-flowered, short and compact, all but the lowest unarmed sho7't pedicels overtopping the bracts; longer bracteal leaves or their terminal leaflets only 1.5-2.5 an. long; calyx-lobes 3-4 mm. long, soon reflexed; fruit ellipsoid, small.</description>
+  <habitat_elevation_distribution_or_ecology>Borders of cypress-swamps, se. Va.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

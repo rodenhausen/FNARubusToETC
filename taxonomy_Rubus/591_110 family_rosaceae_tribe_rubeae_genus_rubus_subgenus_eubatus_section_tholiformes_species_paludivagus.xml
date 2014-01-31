@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>paludivagus</species_name>
+    <species_authority>fern.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species paludivagus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(wandering over the bog)</other_name>
+  <number>110</number>
+  <description>Primocanes at first simple, soon intricately branching, 3-6 mm. thick, at first puberulent; becoming glabrate, stiffly armed with subulate prickles 5 mm. long and 2-3 mm. broad at base; primocane-leaflets 5, strigose-pilose above, velvety beneath, oblong or narrowly lance-ovate, serrate, acuminate, the terminal one one-third to less than half as broad as long (2.5-3.7 cm. wide); membranaceous floricane-leaflets acuminate; pedicels loosely ascending, minutely pilose, the longer ones 2-5 cm. long, mostly unarmed; calyx-lobes 3-5 mm. long, unarmed, scarcely reflexed in fruit; petals 1-1.5 cm. long, 6-7 mm. broad; fruit 1.5 cm. in diameter, of rich quality.</description>
+  <habitat_elevation_distribution_or_ecology>Wet thickets and bogs, Cape Cod, Mass. Fl. mid-June, early July; fr. late Aug.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

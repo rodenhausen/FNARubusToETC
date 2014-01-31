@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>15.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>laciniatus</species_name>
+    <species_authority>Willdenow</species_authority>
+    <place_of_publication>
+      <publication_title>Hort. Berol.</publication_title>
+      <place_in_publication>2: plate 82. 1806</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species laciniatus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Cutleaf blackberry I</other_info>
+  <description>Shrubs, 2--20 dm, armed. Stems &lt;biennial&gt;, arching, sometimes creeping, glabrate to moderately hairy, sparsely to densely sessile- to short-stipitate-glandular, not or weakly pruinose; prickles moderately dense to dense, suberect to retrorse or hooked, stout, 2--8 mm, broad-based. Leaves evergreen to late-deciduous, ternate or palmately compound; stipules filiform, 5--15 mm; leaflets 3--5, terminal ovate to elliptic, 6--12 x 7--12 cm, base rounded to cordate, usually deeply, rarely shallowly, lobed, margins coarsely serrate to doubly serrate, apex acuminate to short-attenuate, abaxial surfaces with hooked prickles primarily on midvein, moderately to densely hairy, eglandular or moderately sessile- to short-stipitate-glandular primarily on midvein. Inflorescences terminal, 5--25-flowered, thyrsiform. Pedicels: prickles moderate to dense, erect to reflexed, densely hairy, moderately to densely sessile- to short-stipitate-glandular. Flowers bisexual; petals white to pink, elliptic to obovate, 8--15 mm; filaments filiform; ovaries usually apically hairy. Fruits black, globose to subcylindric, 1--1.5 cm; drupelets 25--60, strongly coherent, separating with torus attached. 2n = 28.</description>
+  <phenology_info>
+    <text>Flowering Jun--Sep(--Oct).</text>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+    <phenology>sep</phenology>
+    <phenology>oct</phenology>
+  </phenology_info>
+  <habitat>woodland edges</habitat>
+  <habitat>semi-open woods</habitat>
+  <habitat>rocky and/or moist soils</habitat>
+  <habitat>open areas</habitat>
+  <habitat>often disturbed, roadsides</habitat>
+  <elevation>0--1800 m;</elevation>
+  <introduced>introduced;</introduced>
+  <ca_distribution>B.C.</ca_distribution>
+  <ca_distribution>Ont.</ca_distribution>
+  <us_distribution>Calif.</us_distribution>
+  <us_distribution>Colo.</us_distribution>
+  <us_distribution>Conn.</us_distribution>
+  <us_distribution>Del.</us_distribution>
+  <us_distribution>D.C.</us_distribution>
+  <us_distribution>Idaho</us_distribution>
+  <us_distribution>Ill.</us_distribution>
+  <us_distribution>Ind.</us_distribution>
+  <us_distribution>Ky.</us_distribution>
+  <us_distribution>Md.</us_distribution>
+  <us_distribution>Mass.</us_distribution>
+  <us_distribution>Mich.</us_distribution>
+  <us_distribution>Mo.</us_distribution>
+  <us_distribution>Mont.</us_distribution>
+  <us_distribution>N.J.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <us_distribution>N.C.</us_distribution>
+  <us_distribution>Ohio</us_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <us_distribution>Pa.</us_distribution>
+  <us_distribution>R.I.</us_distribution>
+  <us_distribution>S.C.</us_distribution>
+  <us_distribution>Tenn.</us_distribution>
+  <us_distribution>Vt.</us_distribution>
+  <us_distribution>Va.</us_distribution>
+  <us_distribution>Wash.</us_distribution>
+  <us_distribution>W.Va.</us_distribution>
+  <us_distribution>Wyo.</us_distribution>
+  <global_distribution>Europe.</global_distribution>
+  <discussion>Rubus laciniatus is the only blackberry in the flora area that has leaflets so deeply lobed and dissected or has 3-lobed petals. Rare individuals bearing relatively unlobed leaflets and perianth parts may be part of the natural variation of this species or be hybrids with some other species. Putative natural hybrids have been reported with R. bifrons (as R. procerus; R. K. Bammi and H. P. Olmo 1966). Such unusual plants of R. laciniatus would be distinguished from the native blackberries by their thyrsiform and notably stipitate-glandular inflorescences and evergreen to late-deciduous leaves.</discussion>
+  <discussion>Although widely introduced in the flora area, Rubus laciniatus is a less aggressive weed than R. bifrons.</discussion>
+</treatment>
+

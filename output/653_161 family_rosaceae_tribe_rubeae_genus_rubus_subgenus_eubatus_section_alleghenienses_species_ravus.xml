@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>ravus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section alleghenienses;species ravus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>161</number>
+  <description type="morphology">Suggesting small extremes of no. 154, but with the angular primocane bearing many stipitate glands interspersed among the subulate-acicular divergent prickles; primocane-leaves with strongly stipitate-glandular and prickly petiole and petiolules; the long-acuminate cordate-ovate doubly serrate terminal leaflet grayish with velvety pubescence beneath; cylindric raceme strongly glandular, the lower flowers subtended by 3-foliolate bracts with narrowly obovate blunt leaflets; calyx-lobes lance-attenuate; corolla scarcely 2 cm. broad; petals about 8 mm. long and 4-5 mm. broad.</description>
+</treatment>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>jactus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species jactus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(thrown out or spreading)</other_name>
+  <number>59</number>
+  <description>Stout canes smooth or with caducous prickles, 4-8 mm. in diameter; smooth primocane-leaflets ovate, abruptly tipped, dentate; flowering shoots glabrous; floricane-leaves with elliptic-oblong or -obovate blunt leaflets; flowers 3-5 on arched-ascending glandular pedicels up to 3 cm. long, these subtended by very small bracts.</description>
+  <habitat_elevation_distribution_or_ecology>Nw. Vt., little known; perhaps of some other Section .</habitat_elevation_distribution_or_ecology>
+  <description> </description>
+</treatment>
+

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>7.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>chamaemorus</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <place_of_publication>
+      <publication_title>Sp. Pl.</publication_title>
+      <place_in_publication>1: 494. 1753</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species chamaemorus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Bake d- apple berry , cloudberry , chicouté , plaquebière</other_info>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Chamaemorus</genus_name>
+    <species_name>anglica</species_name>
+    <species_authority>Greene</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>C.</genus_name>
+    <species_name>norwegica</species_name>
+    <species_authority>Greene</species_authority>
+  </TaxonIdentification>
+  <description>Herbs, (0.5--)1--2.5(--3) dm, unarmed. Stems &lt;from rhizomes&gt;, erect, &lt;rarely woody basally&gt;, sparsely hairy, sparsely stipitate-glandular distally, not pruinose. Leaves deciduous, simple; stipules broadly ovate to oblong, 3--6 mm; blade reniform or orbiculate, 2.5--6 x (3--)5--8(--12) cm, base cordate, 3--7-lobed, lobe apices rounded, margins finely doubly serrate or dentate, abaxial surfaces sparsely hairy, sparsely to moderately stipitate-glandular along veins. Inflorescences 1-flowered. Pedicels pubescent, sparsely to densely short- to long-stipitate-glandular. Flowers unisexual; petals white, obovate, (8--)10--15(--18) mm; filaments filiform; ovaries glabrous, &lt;styles glabrous&gt;. Fruits golden yellow to orange or reddish, globose, 1.2--1.5 cm; drupelets (5--)10--20, moderately coherent, separating from torus. 2n = 56.</description>
+  <phenology_info>
+    <text>Flowering May--Aug.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+  </phenology_info>
+  <habitat>bogs</habitat>
+  <habitat>muskeg, wet meadows</habitat>
+  <habitat>mossy woods</habitat>
+  <habitat>boreal forests</habitat>
+  <habitat>peaty tundra</habitat>
+  <habitat>lichen peat polygons</habitat>
+  <habitat>exposed sandy areas</habitat>
+  <habitat>lakesides</habitat>
+  <habitat>gravelly stream beds</habitat>
+  <habitat>rock outcrops</habitat>
+  <elevation>0--1300 m;</elevation>
+  <global_distribution>Greenland</global_distribution>
+  <global_distribution>St. Pierre and Miquelon</global_distribution>
+  <ca_distribution>Alta.</ca_distribution>
+  <ca_distribution>B.C.</ca_distribution>
+  <ca_distribution>Man.</ca_distribution>
+  <ca_distribution>N.B.</ca_distribution>
+  <ca_distribution>Nfld. and Labr.</ca_distribution>
+  <ca_distribution>N.W.T.</ca_distribution>
+  <ca_distribution>N.S.</ca_distribution>
+  <ca_distribution>Nunavut</ca_distribution>
+  <ca_distribution>Ont.</ca_distribution>
+  <ca_distribution>P.E.I.</ca_distribution>
+  <ca_distribution>Que.</ca_distribution>
+  <ca_distribution>Sask.</ca_distribution>
+  <ca_distribution>Yukon</ca_distribution>
+  <us_distribution>Alaska</us_distribution>
+  <us_distribution>Maine</us_distribution>
+  <us_distribution>Minn.</us_distribution>
+  <us_distribution>N.H.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <global_distribution>Eurasia.</global_distribution>
+  <discussion>Rubus chamaemorus is circumboreal; it is presumed to be extirpated from New York, where it was known only from a single population on Long Island, far removed from the next southernmost localities in northern New Hampshire.</discussion>
+  <discussion>Rubus chamaemorus is defined by its unarmed stems, simple, coriaceous, and plicate leaves, unisexual flowers, and golden yellow to reddish fruits. Rubus chamaemorus is likely an ancient allopolyploid (K. V. Ambrose 2006).</discussion>
+  <discussion>The edible fruits of Rubus chamaemorus are highly valued in northern regions for consumption fresh and in yogurt, jams, syrups, and juices. An alcoholic beverage is made from the fruits and sold commercially in Newfoundland, Quebec, and Finland.</discussion>
+</treatment>
+

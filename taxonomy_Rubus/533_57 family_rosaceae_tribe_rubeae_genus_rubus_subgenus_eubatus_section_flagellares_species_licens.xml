@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>licens</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species licens;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(unrestrained)</other_name>
+  <number>57</number>
+  <description>Habitally like nos. 55 and 56; canes rather slender, bearing about 20 prickles per dm.; leaves membranaceous, with sharp simple or double serration, the leaflets tapering to long-acuminate tips; corymb racemiform as in no. 55, with 5-17 glandular-villous pedicels, most of the pedicels much exceeding the small bracts.</description>
+  <habitat_elevation_distribution_or_ecology>Openings, thickets and borders of woods, sw. Que. to s. Mich.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

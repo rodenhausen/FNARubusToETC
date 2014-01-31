@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>setosus</species_name>
+    <species_authority>bigel.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section setosi;species setosus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(bristly)</other_name>
+  <number>120</number>
+  <description>Primocanes slender, 0.3-1.5 m. high or long, arched-ascending to erect, densely covered with hundreds or thousands of spreading to reflexed pale nearly uniform bristles; these scarcely resistant to touch, neither rigid nor pungent, 1.5-4 mm. long; primocane-leaves 3- or mostly 5-foliolate, on more or less bristly petioles; the leaflets lance- or oblong-ovate to slightly obovate or subrhombic, pale green, dull, plicate, double-serrate (or sometimes dentate), mostly acutish to acuminate, terminal leaflet distinctly petiolulate; floricanes reclining to upright, covered with fuscous bristles; the branching mostly sublateral or unilateral and prolonged on reclining or partially buried canes, more symmetrical and shorter on upright canes; floricane-leaflets narrowly obovate to oblong-rhombic, acutish to acuminate, one-third to three-fifths as broad as long; inflorescence a simple and racemose short corymb or a branching corymbiform panicle, its axis and pedicels setose; the lower bracts leaf-like, the upper greatly reduced; calyx-lobes usually bristly, 3.5-7.5 mm. long; petals 7-10 mm. long, 2-4 mm. broad; fruit inferior, dryish, subglobose, about 1 cm. in diameter. (Incl. R. nigricans Rydb., an erect and symmetrically branching state; and R. junior, significant, dissimilis, Ribes (erect and symmetrically branching state), notatus, Boottianus, condignus and tectus Bailey, states which, as individual collections, show some tendencies but which in a series of hundreds of nos. show little constancy, making up what the author of most of them would call a "small various bramble".)</description>
+  <habitat_elevation_distribution_or_ecology>Swamps, swales, damp thickets, etc., s. Que. to Wisc., s. to N.B., s. N.E., Md. and W.Va. Fl. late June-early Aug.; fr. late Aug., Sept.</habitat_elevation_distribution_or_ecology>
+  <description> </description>
+  <description />
+</treatment>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>severus</species_name>
+    <species_authority>brain,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species severus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(harsh)</other_name>
+  <number>114</number>
+  <description>Habitally like no. 113; primocanes with 150-300 stout-horizontal to arched-recurving prickles per dm.; primocane-leaves subcoriaceous, dark green above, coarsely double-serrate; leaflets ovate to obovate, acuminate; the terminal one 6-13 cm. long by 3.5-8 cm, broad, its strongly armed petiolule 1.5-4 cm. long; leaflets of floricane elliptic-obovate; inflorescence loosely paniculate, corymbiform or open-cymose; rachis remotely bristly; filiform pedicels 2-5 cm. long, without or with few bristles and glands; calyx-lobes 4-8 mm. long, reflexed in fruit; petals 9-11 mm. long, 4-5 mm. broad; fruit subglobose.</description>
+  <habitat_elevation_distribution_or_ecology>Thickets and clearings, N.H. and e. Vt. Fl. late June-early Aug.; fr. late Aug., early Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

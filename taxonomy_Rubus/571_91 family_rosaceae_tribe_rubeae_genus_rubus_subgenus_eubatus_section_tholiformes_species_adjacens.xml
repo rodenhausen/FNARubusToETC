@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>adjacens</species_name>
+    <species_authority>fern.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species adjacens;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(neighboring)</other_name>
+  <number>91</number>
+  <description>Arching or doming, finally depressed; young primocanes at first ascending, then arching, the tips and branch-tips finally trailing, sometimes rooting, becoming 1-2.5 m. long, 3-8 mm. thick, densely covered with overlapping purple or colored long reflexed setae (3000-5000 per dm.) and glands; primocane-foliage coriaceous, dark green, shining, glabrous, quinate or ternate, the setose and glandular petiole 6 12 cm. long; leaflets obovate or rhombic, abruptly short-acuminate, serrate-dentate; the terminal leaflet rhombic-obovate, rounded-cuneate at base, 4-8 cm. long, 2.5-5 cm. broad, its pilose, glandular and setose petiolule 0.5-1.8 cm. long; leaflets of floricane-foliage narrowly cuneate-obovate, subcoriaceous, acute or acutish, acutely serrate; inflorescence corymbose, corymbose-racemose or loosely cymose, with the pilose rachis and pedicels bristly and glandular; middle bracts lanceolate, simple or incised; pedicels arcuate-ascending, mostly 1.5-2.5 cm. long; calyx pilose, more or less glandular-setose, its lobes 2.7-5(-6) mm. long; petals narrow, 7-12 mm. long, 2-5 mm. wide; fruit of poor quality, about 1 cm. in diameter. (R. signatus and Fulleri Bailey)</description>
+  <habitat_elevation_distribution_or_ecology>Peaty or sandy thickets and clearings, s. Que. to Wisc, s. to N.S., Me., Mass., N.Y. and n. Ind. Fl. July; Fr. mid-Aug., Sept.</habitat_elevation_distribution_or_ecology>
+  <description />
+  <description />
+</treatment>
+

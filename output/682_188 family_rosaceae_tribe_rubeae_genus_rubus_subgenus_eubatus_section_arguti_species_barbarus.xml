@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:50</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>barbarus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species barbarus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>188</number>
+  <description type="morphology">Rather rigidly erect, with hard stiff canes 5-9 dm. high, bearing hard subulate straight prickles mostly 5-10 mm. long; leaves subcoriaceous, scabridulous and with impressed nerves above, soft-pubescent and with prominent straight nerves beneath; primocane-leaves on petioles with hooked prickles, the petiolules similarly prickly, the terminal oblong- or elliptic-ovate coarsely toothed leaflet 3.5-7 cm. long; leaflets of flowering shoots often larger but similar; corymbiform raceme 5-12-fl.owered, the divergent densely pilose pedicels all or partly armed; calyx-lobes promptly reflexed; corolla up to 2 cm. broad; fruit subglobose, 5-10 mm. in diameter, inferior (often bitter). (R. conanicutensis and originalis Bailey)</description>
+</treatment>
+

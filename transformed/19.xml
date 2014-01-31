@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>13b.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>idaeus</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <subspecies_name>strigosus</subspecies_name>
+    <subspecies_authority>(Michaux) Focke</subspecies_authority>
+    <place_of_publication>
+      <publication_title>Biblioth. Bot.</publication_title>
+      <place_in_publication>17(Heft 72): 209. 1911</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species idaeus;subspecies strigosus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* American red raspberry , framboisier sauvage</other_info>
+  <TaxonIdentification Status="BASIONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>strigosus</species_name>
+    <species_authority>Michaux</species_authority>
+    <place_of_publication>
+      <publication_title>Fl. Bor.-Amer.</publication_title>
+      <place_in_publication>1: 297. 1803</place_in_publication>
+    </place_of_publication>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>aliceae</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>arizonicus</species_name>
+    <species_authority>(Greene) Rydberg</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>carolinianus</species_name>
+    <species_authority>Rydberg</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>greeneanus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>idaeus</species_name>
+    <variety_name>aculeatissimus</variety_name>
+    <variety_authority>Regel &amp; Tiling</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>idaeus</species_name>
+    <variety_name>canadensis</variety_name>
+    <variety_authority>Richardson ex Fernald</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>idaeus</species_name>
+    <variety_name>caudatus</variety_name>
+    <variety_authority>(B. L. Robinson &amp; H. Schrenk) Fernald &amp; B. G. Schubert</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>idaeus</species_name>
+    <variety_name>egglestonii</variety_name>
+    <variety_authority>(Blanchard) Fernald</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>idaeus</species_name>
+    <variety_name>eucyclus</variety_name>
+    <variety_authority>Fernald &amp; Weatherby</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>idaeus</species_name>
+    <variety_name>gracilipes</variety_name>
+    <variety_authority>M. E. Jones</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>idaeus</species_name>
+    <variety_name>heterolasius</variety_name>
+    <variety_authority>Fernald</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>idaeus</species_name>
+    <subspecies_name>melanolasius</subspecies_name>
+    <subspecies_authority>(Dieck) Focke</subspecies_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>idaeus</species_name>
+    <variety_name>melanolasius</variety_name>
+    <variety_authority>(Dieck) R. J. Davis</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>idaeus</species_name>
+    <variety_name>peramoenus</variety_name>
+    <variety_authority>(Greene) Fernald</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>idaeus</species_name>
+    <subspecies_name>sachalinensis</subspecies_name>
+    <subspecies_authority>(H. Léveillé) Focke</subspecies_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>idaeus</species_name>
+    <variety_name>strigosus</variety_name>
+    <variety_authority>(Michaux) Maximowicz</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>melanolasius</species_name>
+    <species_authority>Dieck</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>strigosus</species_name>
+    <variety_name>acalyphaceus</variety_name>
+    <variety_authority>(Greene) L. H. Bailey</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>strigosus</species_name>
+    <variety_name>arizonicus</variety_name>
+    <variety_authority>(Greene) Kearney &amp; Peebles</variety_authority>
+  </TaxonIdentification>
+  <description>Stems to 0.6 cm diam., stipitate-glandular; bristles present; bark usually peeling with age. Leaves: petiole stipitate-glandular; leaflets 3--5, terminal ovate to lanceolate, base rounded to cordate, unlobed or lobed (less deeply so in ternate leaves), apex acuminate to attenuate, abaxial surfaces stipitate-glandular. Flowers: sepals stipitate-glandular. Fruits: drupelets 10--60, coherent, separating without torus attached or drupelets not coherent and falling separately. 2n = 14, 21, 28.</description>
+  <phenology_info>
+    <text>Flowering May--Jul.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+  </phenology_info>
+  <habitat>fields</habitat>
+  <habitat>woodlands</habitat>
+  <habitat>roadsides</habitat>
+  <habitat>disturbed areas</habitat>
+  <habitat>dry to moist soils</habitat>
+  <elevation>0--3400 m;</elevation>
+  <global_distribution>St. Pierre and Miquelon</global_distribution>
+  <ca_distribution>Alta.</ca_distribution>
+  <ca_distribution>B.C.</ca_distribution>
+  <ca_distribution>Man.</ca_distribution>
+  <ca_distribution>N.B.</ca_distribution>
+  <ca_distribution>Nfld. and Labr.</ca_distribution>
+  <ca_distribution>N.W.T.</ca_distribution>
+  <ca_distribution>N.S.</ca_distribution>
+  <ca_distribution>Nunavut</ca_distribution>
+  <ca_distribution>Ont.</ca_distribution>
+  <ca_distribution>P.E.I.</ca_distribution>
+  <ca_distribution>Que.</ca_distribution>
+  <ca_distribution>Sask.</ca_distribution>
+  <ca_distribution>Yukon</ca_distribution>
+  <us_distribution>Alaska</us_distribution>
+  <us_distribution>Ariz.</us_distribution>
+  <us_distribution>Calif.</us_distribution>
+  <us_distribution>Colo.</us_distribution>
+  <us_distribution>Conn.</us_distribution>
+  <us_distribution>Del.</us_distribution>
+  <us_distribution>D.C.</us_distribution>
+  <us_distribution>Idaho</us_distribution>
+  <us_distribution>Ill.</us_distribution>
+  <us_distribution>Ind.</us_distribution>
+  <us_distribution>Iowa</us_distribution>
+  <us_distribution>Maine</us_distribution>
+  <us_distribution>Md.</us_distribution>
+  <us_distribution>Mass.</us_distribution>
+  <us_distribution>Mich.</us_distribution>
+  <us_distribution>Minn.</us_distribution>
+  <us_distribution>Mo.</us_distribution>
+  <us_distribution>Mont.</us_distribution>
+  <us_distribution>Nebr.</us_distribution>
+  <us_distribution>Nev.</us_distribution>
+  <us_distribution>N.H.</us_distribution>
+  <us_distribution>N.J.</us_distribution>
+  <us_distribution>N.Mex.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <us_distribution>N.C.</us_distribution>
+  <us_distribution>N.Dak.</us_distribution>
+  <us_distribution>Ohio</us_distribution>
+  <us_distribution>Okla.</us_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <us_distribution>Pa.</us_distribution>
+  <us_distribution>R.I.</us_distribution>
+  <us_distribution>S.Dak.</us_distribution>
+  <us_distribution>Tenn.</us_distribution>
+  <us_distribution>Utah</us_distribution>
+  <us_distribution>Vt.</us_distribution>
+  <us_distribution>Va.</us_distribution>
+  <us_distribution>Wash.</us_distribution>
+  <us_distribution>W.Va.</us_distribution>
+  <us_distribution>Wis.</us_distribution>
+  <us_distribution>Wyo.</us_distribution>
+  <global_distribution>Mexico (Chihuahua).</global_distribution>
+  <global_distribution>Mexico (Nuevo León).</global_distribution>
+  <global_distribution>Mexico (Sonora).</global_distribution>
+  <discussion>Hybrids between subsp. strigosus and Rubus occidentalis, including the cultivated purple raspberries, have usually gone under the name R. x\neglectus Peck. Peck did not treat R. neglectus as a hybrid, although his description, based on plants from northeastern New York, acknowledged the plants to be intermediate between the two taxa. L. H. Bailey (1941--1945) suspected R. neglectus to be a distinct species of local range. The fruit of these plants has a strikingly distinct taste; Peck noted that the locals referred to it as cream berries. M. L. Fernald (1900) misapplied the name R. idaeus var. anomalus Arrhenius to reduced, unarmed sterile plants of subsp. strigosus with simple leaves on the floricanes; such plants were later described by Blanchard as R. egglestonii. Rubus viburnifolius (Greene) Rydberg [not Franchet] is an illegitimate name that applies here.</discussion>
+</treatment>
+

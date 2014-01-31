@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>illecebrosus</species_name>
+    <species_authority>focke</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus idaeobatus;section rosaeifolii;species illecebrosus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>7</number>
+  <description type="morphology">Slender annual green angular glabrous canes with flat-based curved prickles, arising from the subterranean rhizomes and stolons; leaves pinnate, with 5-9 lance-attenuate leaflets, the pairs remote, the rachis prickly; flowers from upper axils, 3-4 cm. broad, fragrant; calyx-lobes slender-tipped; petals white, spreading, conspicuously clawed; fruit scarlet, 2-3 cm. in diameter, suggesting a strawberry.</description>
+</treatment>
+

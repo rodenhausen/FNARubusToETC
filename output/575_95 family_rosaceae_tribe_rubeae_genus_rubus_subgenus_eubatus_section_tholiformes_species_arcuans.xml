@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>arcuans</species_name>
+    <species_authority>fern. &amp; st.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species arcuans;</taxon_hierarchy>
+  </taxon_identification>
+  <number>95</number>
+  <description type="morphology">Strongly suggesting no. 91, doming, arching or sprawling; primocanes with numerous hard broad-based hooked prickles 3-4.5 mm. long, mixed with relatively few or no bristles and glands; primocane-foliage coriaceous, dark green, lustrous, 3- or 5-foliolate; the obovate to suborbicular leaflets abruptly tipped, coarsely toothed; terminal leaflet 3-8 cm. long, 2.5-5.5 cm. broad, the midrib beneath armed with hooked prickles, the prickly petiolule 0.5-2 cm. long; raceme interrupted, simple or paniculate, 0.6-3.2 dm. long; the axis and pedicels densely pilose, usually much armed, sometimes glandular; pedicels 1.5-4 cm. long; calyx prickly or unarmed, its lobes ascending in fruit; petals spatulate, 7-11 mm. long, 4-8 mm, broad; fruit globose, small. (Incl. R. provincialis, vigoratus, Bicknellii and mananensis Bailey)</description>
+</treatment>
+

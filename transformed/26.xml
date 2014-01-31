@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>18.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>neomexicanus</species_name>
+    <species_authority>A. Gray</species_authority>
+    <place_of_publication>
+      <publication_title>Smithsonian Contr. Knowl.</publication_title>
+      <place_in_publication>5(6): 55. 1853</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species neomexicanus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <past_name>neo-mexicanus</past_name>
+  <other_info>* New Mexico raspberry E</other_info>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>deliciosus</species_name>
+    <species_authority>Torrey</species_authority>
+    <variety_name>neomexicanus</variety_name>
+    <variety_authority>(A. Gray) Kearney</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>exrubicundus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <description>Shrubs, (10--)20--30(--35) dm, unarmed. Stems erect, sparsely to moderately short-hairy, sparsely stipitate-glandular, not pruinose. Leaves deciduous, simple; stipules lanceolate to narrowly ovate, (4--)6--8(--10) mm; blade cordate to broadly ovate, (2.5--)3.5--5.5(--6.5) x (2.5--)3.5--5.5(--8) cm, base shallowly to deeply cordate, palmately, shallowly to deeply 3--5(--7)-lobed, margins coarsely doubly dentate, apex acute to broadly obtuse, abaxial surfaces moderately hairy, sparsely stipitate-glandular. Inflorescences 1(--2)-flowered. Pedicels sparsely to moderately hairy, sparsely to densely short- to long-stipitate-glandular. Flowers bisexual; petals white, broadly obovate to suborbiculate, (15--)20--30(--35) mm; filaments filiform; ovaries glabrous, &lt;styles villous&gt;. Fruits red, hemispheric, to 1 cm; drupelets 20, coherent, separating from torus. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering May--Sep.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+    <phenology>sep</phenology>
+  </phenology_info>
+  <habitat>mountain slopes</habitat>
+  <habitat>canyons</habitat>
+  <habitat>streams</habitat>
+  <elevation>1400--2600 m;</elevation>
+  <us_distribution>Ariz.</us_distribution>
+  <us_distribution>Colo.</us_distribution>
+  <us_distribution>N.Mex.</us_distribution>
+  <us_distribution>Utah.</us_distribution>
+  <discussion>Rubus neomexicanus is recognized by its erect, unarmed stems, relatively small, simple leaves with acute to obtuse lobes, the terminal prominent, deeply cordate base, moderately hairy abaxially, large flowers, white petals, and densely long-hairy, clavate styles. The species is similar to R. bartonianus and R. deliciosus, and treating it as a variety of the latter species would be reasonable, as W. O. Focke (1910) considered the two conspecific.</discussion>
+</treatment>
+

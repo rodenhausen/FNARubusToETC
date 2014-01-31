@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>scambens</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species scambens;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(becoming bow-legged)</other_name>
+  <number>40</number>
+  <description>Low-arching and trailing; canes firm, soon becoming reddish-brown or purplish, 2-3.5 mm. thick at base, with scattered broad-based hooked prickles mostly 1.5-4 mm. long; floricane-leaves 3-foliolate, with the lower leaflets subsessile, often plush-like beneath; leaflets caudate-acuminate, sharply double-serrate, the terminal one ovate and one-half to three-fourths as broad as long, the laterals nearly as large but oblique; flowering shoots more or less stipitate-glandular, their petioles commonly so; 3-foliolate leaves of flowering shoots with elliptic-oval terminal leaflet at least half as broad as long, the simple bracteal leaves broader; flower usually single, on villous and often glandular pedicel.</description>
+  <habitat_elevation_distribution_or_ecology>Open woods, thickets and clearings, se. Mass to se. Va. Fl. late April-June; fr. May-Aug.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

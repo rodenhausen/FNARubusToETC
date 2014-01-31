@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>13.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>idaeus</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <place_of_publication>
+      <publication_title>Sp. Pl.</publication_title>
+      <place_in_publication>1: 492. 1753</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species idaeus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Red raspberry , framboisier</other_info>
+  <description>Shrubs, 5--25 dm, armed or unarmed. Stems &lt;biennial&gt;, erect, glabrescent, eglandular or stipitate-glandular, strongly pruinose; prickles absent or sparse to dense, erect, weak, 1--4 mm, broad-based; &lt;bristles present or absent&gt;. Leaves deciduous, pinnately compound; stipules filiform, 5--10 mm; &lt;petiole unarmed or with prickles, strigose or glabrous, glandular or eglandular; terminal leaflets petiolulate, lateral sessile or subsessile&gt;; leaflets 3--5(--7), terminal ovate to lanceolate, 7--15 x 4--11 cm, base rounded to cordate, unlobed or 2-lobed, margins serrate to doubly serrate, apex acute to attenuate, abaxial surfaces unarmed or with prickles, strongly white-tomentose, eglandular or glandular. Inflorescences terminal and axillary, (1--)3--7(--20)-flowered, racemiform. Pedicels unarmed or prickles sparse, hooked, glabrous or sparsely pubescent, stipitate-glandular or eglandular. Flowers bisexual; petals white to greenish white, spatulate to obovate, 5--10 mm; filaments filiform or slightly dilated basally; ovaries pubescent. Fruits usually red to whitish, rarely amber, globose to conic, 0.5--2 cm; drupelets 10--60, coherent, separating from torus.</description>
+  <number_of_infrataxa>Subspecies 2 (2 in the flora):</number_of_infrataxa>
+  <global_distribution>North America</global_distribution>
+  <global_distribution>Mexico</global_distribution>
+  <global_distribution>Eurasia</global_distribution>
+  <global_distribution>Africa.</global_distribution>
+  <discussion>Rubus idaeus is the source of most of the cultivated red and amber raspberries. Plants were used by the Cherokee, Cree, and others as a parturient; an infusion of dried leaves in water was used to prepare the uterus for childbirth and help women recover after childbirth (D. E. Moerman 1998; D. Hoffman 2003).</discussion>
+  <key>
+    <key_statement>
+      <statement_id>1.</statement_id>
+      <statement>Stems eglandular, bristles absent</statement>
+      <determination>13a. Rubus idaeus subsp. idaeus</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>1.</statement_id>
+      <statement>Stems stipitate-glandular, bristles present</statement>
+      <determination>13b. Rubus idaeus subsp. strigosus</determination>
+    </key_statement>
+  </key>
+</treatment>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>arundelanus</species_name>
+    <species_authority>blanch.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species arundelanus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(for arundel, york co., me.)</other_name>
+  <number>106</number>
+  <description>Dense domes up to 1 m. and more high; primocanes with scattered subulate hard prickles; primocane-leaves 5-foliolate, thickish, with often plicate margins, light green, sparingly pilose to glabrous above, tomentose or velvety beneath; leaflets ovate, long-acuminate, slightly more than half as broad as long, sharply double-serrate, rounded at base; median leaflets on petiolules 2-15 mm. long; petiolule of terminal leaflet2-3.5 cm. long; petiole and petiolules villous; corymb leafy-bracted, with 4-10 or more flowers, with almost prickleless villous pedicels; calyx pilose; petals broadly oval, 1.5 cm. long, half as broad; fruit about 1 cm. in diameter. (Incl. R. Janssonii and R. prosper Bailey)</description>
+  <habitat_elevation_distribution_or_ecology>Dry clearings, thickets and borders of woods, Knox Co., Me., to e. N.Y., s. to Mass., s. R.I. and s. Ct. Fl. June, early July; fr. Aug., early Sept. Passing northw. into</habitat_elevation_distribution_or_ecology>
+</treatment>
+

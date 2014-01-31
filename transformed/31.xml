@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>23.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>parviflorus</species_name>
+    <species_authority>Nuttall</species_authority>
+    <place_of_publication>
+      <publication_title>Gen. N. Amer. Pl.</publication_title>
+      <place_in_publication>1: 308. 1818</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species parviflorus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Thimbleberry</other_info>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>parviflorus</species_name>
+    <variety_name>grandiflorus</variety_name>
+    <variety_authority>Farwell</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>parviflorus</species_name>
+    <subspecies_name>velutinus</subspecies_name>
+    <subspecies_authority>(W. H. Brewer) Roy L. Taylor &amp; MacBryde</subspecies_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>parviflorus</species_name>
+    <variety_name>velutinus</variety_name>
+    <variety_authority>(W. H. Brewer) Greene</variety_authority>
+  </TaxonIdentification>
+  <description>Shrubs, 5--20(--30) dm, unarmed. Stems &lt;biennial&gt;, erect, sparsely hairy, glabrescent, moderately stipitate-glandular, &lt;glands yellowish to reddish&gt;, not pruinose. Leaves deciduous, simple; stipules lanceolate to ovate, 5--15 mm; blade orbiculate to reniform, 5--20 x 5--25 cm, base cordate, palmately, shallowly to moderately deeply, (3--)5(--7)-lobed, margins coarsely, irregularly serrate to doubly serrate, apex shortly acuminate to obtuse, abaxial surfaces glabrate to densely hairy, sparsely to moderately stipitate-glandular, &lt;glands yellowish to reddish&gt;. Inflorescences terminal and axillary, (1--)3--7(--15), cymiform to thyrsiform. Pedicels sparsely to moderately hairy, moderately to densely stipitate-glandular, &lt;glands yellowish to reddish&gt;. Flowers bisexual; petals white, broadly obovate, (10--)14--22(--28) mm; filaments filiform; ovaries distally densely hairy, &lt;styles glabrous&gt;. Fruits red, hemispheric, 1--1.8 cm; drupelets 50--60, coherent, separating from torus. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering May--Aug.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+  </phenology_info>
+  <habitat>moist areas</habitat>
+  <habitat>open woods</habitat>
+  <habitat>thickets</habitat>
+  <habitat>clearings</habitat>
+  <habitat>stream banks</habitat>
+  <habitat>canyons</habitat>
+  <habitat>grassy meadows</habitat>
+  <habitat>rocky cliffs</habitat>
+  <habitat>sand dunes</habitat>
+  <habitat>upper beaches</habitat>
+  <habitat>dry sandy areas</habitat>
+  <habitat>roadsides</habitat>
+  <elevation>0--3000 m;</elevation>
+  <ca_distribution>Alta.</ca_distribution>
+  <ca_distribution>B.C.</ca_distribution>
+  <ca_distribution>Ont.</ca_distribution>
+  <us_distribution>Alaska</us_distribution>
+  <us_distribution>Ariz.</us_distribution>
+  <us_distribution>Calif.</us_distribution>
+  <us_distribution>Colo.</us_distribution>
+  <us_distribution>Idaho</us_distribution>
+  <us_distribution>Ill.</us_distribution>
+  <us_distribution>Iowa</us_distribution>
+  <us_distribution>Mich.</us_distribution>
+  <us_distribution>Minn.</us_distribution>
+  <us_distribution>Mont.</us_distribution>
+  <us_distribution>Nev.</us_distribution>
+  <us_distribution>N.Mex.</us_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <us_distribution>S.Dak.</us_distribution>
+  <us_distribution>Utah</us_distribution>
+  <us_distribution>Wash.</us_distribution>
+  <us_distribution>Wis.</us_distribution>
+  <us_distribution>Wyo.</us_distribution>
+  <global_distribution>Mexico (Chihuahua).</global_distribution>
+  <discussion>Rubus parviflorus is distinguished from other flowering raspberries by its erect, unarmed stems, simple leaves, large flowers, white petals, glabrous, clavate styles, and yellowish to reddish stipitate glands covering most plant parts. A hybrid with R. odoratus (R. x\fraseri Rehder) is thought to occur in areas of overlap in northern Michigan (E. G. Voss 1985). Varieties and forms have been described based on indument and glandularity of stems, leaves, petioles, pedicels, and sepals (for example, M. L. Fernald 1950). Different variants often occur mixed in the same population and generally do not correspond to definite geographic regions (N. C. Fassett 1941). Plants from coastal California (considered as var. velutinus) tend to have densely hairy leaf abaxial surfaces; this variation may be environmentally induced; other Rubus species show the same pattern (for example, R. spectabilis var. franciscanus) in that area. Wild thimbleberries are collected in Keeweenaw Peninsula, Michigan, and are used in beverages and especially for jam.</discussion>
+  <discussion>Rubus parviflorus is typically associated with western North America but was originally described from plants at its eastern range limit in northern Michigan. The Great Lakes populations are disjunct from western mountain populations by around 600 miles.</discussion>
+</treatment>
+

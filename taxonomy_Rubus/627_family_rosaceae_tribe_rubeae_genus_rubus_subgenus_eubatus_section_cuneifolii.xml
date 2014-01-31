@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <section_name>cuneifolii</section_name>
+    <section_authority>bailey</section_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section cuneifolii;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(see p. 823)sand-b</other_name>
+  <description>Leaflets subtruncate or abruptly short-tipped, coriaceous, obovate, white-pan-nose beneath.................................. 145. R. cuneifolius.</description>
+  <description>Leaflets acute or acuminate, membranaceous to barely subcoriaceous, obovate, elliptic, oblong or ovate, gray-tomentose beneath.</description>
+  <description>Leaflets of primocanes chiefly 3; terminal leaflet broadly rounded at base, mostly five-eighths to practically as broad as long, coarsely dentate....... 146. R. Longii.</description>
+  <description>Leaflets of primocane chiefly 5; terminal leaflet cuneate or subcuneate at base, rarely more than half as broad as long, sharply serrate........................................ 147. R.  sejunctus.</description>
+</treatment>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>hispidoides</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section setosi;species hispidoides;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(resembling r. hispidus)</other_name>
+  <number>137</number>
+  <description>Ascending to reclining, 0.6-l.8 m. high; primocane with remote firm acicular prickles up to 4 mm, long; primocane-leaves dull, soft-pubescent beneath; terminal leaflet elliptic-ovate to -obovate, abruptly acuminate, doubly serrate-dentate; floricane-leaves with remotely acicular petioles, the broadly elliptic leaflets only subacute or obtuse; racemes and corymbs with setose axis and ascending pedicels up to 6 cm. long; calyx-lobes with blades 4-6 mm. long; petals 9-15 mm. long, 3-8 mm. broad; fruit 1-1.3 cm. in diameter.</description>
+  <discussion>Originally described from, etiolated woodland specimens, the species at borders of bogs becomes stout, up to 1.8 m. high, with numerous and intricate racemiform corymbs borne the full length (up to 4 dm.) of the vigorous fertile shoots, the pedicels elongating to 6 cm.</discussion>
+  <habitat_elevation_distribution_or_ecology>Swampy thickets and woods or borders of bogs, e. Mass. Fl. late June, July; fr. mid-Aug., Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

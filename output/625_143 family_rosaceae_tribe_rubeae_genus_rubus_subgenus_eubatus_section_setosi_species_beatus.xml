@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>beatus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section setosi;species beatus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>143</number>
+  <description type="morphology">Canes much as in no. 123, densely covered with close-packed sharp acicular prickles, bristles and stipitate glands, many hundreds or some thousands per dm., 0.4-1 m. high; leaves soft-pubescent to touch beneath; terminal primocane-leaflet cordate-ovate, narrowly acuminate, sharply serrate, the petioles densely setose and glandular; flowering branchlet and its petioles, pedicels and calyces similarly setose and glandular; raceme elongate, leafy-bracted to above middle, the lower pedicels up to 8 cm. long and often forking.</description>
+</treatment>
+

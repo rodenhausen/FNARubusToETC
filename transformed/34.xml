@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>26.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>pedatus</species_name>
+    <species_authority>Smith</species_authority>
+    <place_of_publication>
+      <publication_title>Pl. Icon. Ined.</publication_title>
+      <place_in_publication>3: plate 63. 1791</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species pedatus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Strawberryleaf raspberry</other_info>
+  <description>Herbs, to 1 dm, unarmed. Stems creeping, &lt;flowering branches erect&gt;, sparsely hairy, eglandular or sparsely stipitate-glandular, not pruinose. Leaves deciduous, pedately compound; stipules broadly ovate to suborbiculate, 2--3 mm; leaflets 5, rarely 3, &lt;lateral leaflets deeply lobed, sinuses nearly to leaflet base&gt;, terminal obovate to obovate-rhombic, (1--)1.5--2.5(--3.4) x (0.8--)1.2--2(--2.5) cm, base cuneate, margins coarsely singly or doubly serrate, apex rounded to obtuse, abaxial surfaces glabrous or sparsely hairy on midvein, eglandular or sparsely stipitate-glandular. Inflorescences 1-flowered. Pedicels sparsely hairy, eglandular or sparsely stipitate-glandular. Flowers bisexual; petals white, oblong to narrowly obovate, 6--10 mm; filaments filiform; ovaries glabrous, &lt;styles glabrous&gt;. Fruits red, 0.6--1 cm; drupelets 3--6, weakly coherent, separating from torus. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering Jun--Aug.</text>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+  </phenology_info>
+  <habitat>coniferous woods</habitat>
+  <habitat>forest edges</habitat>
+  <habitat>glades</habitat>
+  <habitat>meadows</habitat>
+  <habitat>bogs</habitat>
+  <habitat>stream banks</habitat>
+  <habitat>streambeds</habitat>
+  <habitat>roadsides</habitat>
+  <elevation>20--2300 m;</elevation>
+  <ca_distribution>Alta.</ca_distribution>
+  <ca_distribution>B.C.</ca_distribution>
+  <ca_distribution>Yukon</ca_distribution>
+  <us_distribution>Alaska</us_distribution>
+  <us_distribution>Idaho</us_distribution>
+  <us_distribution>Mont.</us_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <us_distribution>Wash.</us_distribution>
+  <global_distribution>ne Asia.</global_distribution>
+  <discussion>Rubus pedatus is recognized by its creeping, unarmed stems, pedately 3--5-foliate leaves, relatively small flowers, white petals, and glabrous ovaries.</discussion>
+</treatment>
+

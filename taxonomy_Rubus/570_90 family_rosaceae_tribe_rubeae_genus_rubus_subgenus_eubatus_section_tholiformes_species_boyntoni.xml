@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>boyntoni</species_name>
+    <species_authority>ashe</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species boyntoni;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(named in 1903 for its discoverer, frank ellis boynton)</other_name>
+  <number>90</number>
+  <description>Similar to no. 77, more arching, with some ascending and other trailing and rooting branches; primocanes sparsely glandular, remotely prickly; leaves velvety-pubescent beneath; primocane-leaves 5-foliolate, the terminal broadly cordate-ovate finely double-serrate acuminate leaflet about 1 dm. long and on a petiolule 3.5-4 cm. long; inflorescence racemose or subcorymbose, leafy-bracted at base, with copiously glandular and often prickly ascending pedicels 2-5 cm. long; calyx glandular-hispid, its lobes reflexed in fruit; petals very large; fruit elongate.</description>
+  <habitat_elevation_distribution_or_ecology>Uplands of w. Va. and N.C. Fl. May; Fr. late June-Aug.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

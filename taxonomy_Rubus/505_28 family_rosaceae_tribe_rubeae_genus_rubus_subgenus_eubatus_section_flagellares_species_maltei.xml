@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>maltei</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species maltei;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(for malte oscar malte, 1880-1934, swedish-canadian botanist)</other_name>
+  <number>28</number>
+  <description>Differing from our other dewberries in its very narrow and jagged or lacerate-toothed caudate-tipped leaflets; canes slender, with few setae; leaves tomentulose beneath; primocane-leaves 3-or 5-foliolate, the terminal long-stalked leaflet narrowly ovate, the others lance-oblong; floricane-leaflets lance-oblong to narrowly rhombic, the petioles and petiolules spreading-villous; flowers 2-5 on greatly prolonged erect pilose pedicels; fruit 1-1.5 cm. long.</description>
+  <habitat_elevation_distribution_or_ecology>Sw. Que. and s. Ont., s. to s.-centr. N.Y.</habitat_elevation_distribution_or_ecology>
+  <description>29	R. iniens Bailey (starting on a journey; because of rapidly creeping canes). — Strong trailer with canes covered by long acicular prickles 3 mm. long, these intermixed with abundant short prickles and stipitate glands; leaves glabrous or glabrescent beneath; primocane-leaves 3- or 5-foliolate, with heavily setose and glandular petiole and terminal petiolule; the terminal leaflet obovate, strongly shouldered and abruptly acuminate; lower (or median in 5-foliolate leaves) leaflets distinctly petiolulate; flowering branchlets copiously glandular on axis, petioles and pedicels; terminal leaflet and simple bracts subrhombic-elliptic; flowers 1-4, their erect very glandular pedicels about equaling the subtending bracts; calyx bristly and glandular; fruit elongate, 1.5 cm. long. — Sandy fields, se. Va.</description>
+</treatment>
+

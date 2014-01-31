@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>13a.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>idaeus</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <subspecies_name>idaeus</subspecies_name>
+    <subspecies_authority>* European raspberry</subspecies_authority>
+    <taxon_hierarchy>genus Rubus;species idaeus;subspecies idaeus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>, framboisier d’Europe I</other_info>
+  <description>Stems to 1 cm diam., eglandular; bristles absent; bark usually not peeling with age. Leaves: petiole eglandular; leaflets 3--5(--7), terminal broadly ovate to oblong-ovate, base cordate, unlobed or lobed in larger leaflets, apex acute to acuminate, &lt;laterals acute to attenuate&gt;, abaxial surfaces eglandular. Flowers: sepals eglandular. Fruits: drupelets 20--60, coherent, separating without torus attached. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering May--Jul.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+  </phenology_info>
+  <habitat>fields</habitat>
+  <habitat>roadsides</habitat>
+  <habitat>disturbed areas</habitat>
+  <habitat>dry soils</habitat>
+  <elevation>0--2000 m;</elevation>
+  <introduced>introduced;</introduced>
+  <ca_distribution>N.B.</ca_distribution>
+  <ca_distribution>N.S.</ca_distribution>
+  <ca_distribution>Ont.</ca_distribution>
+  <ca_distribution>P.E.I.</ca_distribution>
+  <ca_distribution>Que.</ca_distribution>
+  <us_distribution>Alaska</us_distribution>
+  <us_distribution>Ark.</us_distribution>
+  <us_distribution>Conn.</us_distribution>
+  <us_distribution>Idaho</us_distribution>
+  <us_distribution>Ill.</us_distribution>
+  <us_distribution>Ind.</us_distribution>
+  <us_distribution>Iowa</us_distribution>
+  <us_distribution>Maine</us_distribution>
+  <us_distribution>Mass.</us_distribution>
+  <us_distribution>Mich.</us_distribution>
+  <us_distribution>Minn.</us_distribution>
+  <us_distribution>Mont.</us_distribution>
+  <us_distribution>N.J.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <us_distribution>N.C.</us_distribution>
+  <us_distribution>N.Dak.</us_distribution>
+  <us_distribution>Ohio</us_distribution>
+  <us_distribution>R.I.</us_distribution>
+  <us_distribution>S.Dak.</us_distribution>
+  <us_distribution>Tenn.</us_distribution>
+  <us_distribution>Utah</us_distribution>
+  <us_distribution>Vt.</us_distribution>
+  <us_distribution>Va.</us_distribution>
+  <us_distribution>Wash.</us_distribution>
+  <us_distribution>Wyo.</us_distribution>
+  <global_distribution>Eurasia</global_distribution>
+  <global_distribution>Africa.</global_distribution>
+  <discussion>In the flora area, subsp. idaeus is chiefly an escape from cultivation. M. L. Fernald (1919b) reported a thornless form (forma inermis Kaufmann) as apparently native to the Magdalen Islands, Quebec, and Minnesota. L. H. Bailey (1941--1945) concluded that typical R. idaeus might be native to the northern regions of North America.</discussion>
+</treatment>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>ravus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section alleghenienses;species ravus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(grayish-yellow or tawny)</other_name>
+  <number>161</number>
+  <description>Suggesting small extremes of no. 154, but with the angular primocane bearing many stipitate glands interspersed among the subulate-acicular divergent prickles; primocane-leaves with strongly stipitate-glandular and prickly petiole and petiolules; the long-acuminate cordate-ovate doubly serrate terminal leaflet grayish with velvety pubescence beneath; cylindric raceme strongly glandular, the lower flowers subtended by 3-foliolate bracts with narrowly obovate blunt leaflets; calyx-lobes lance-attenuate; corolla scarcely 2 cm. broad; petals about 8 mm. long and 4-5 mm. broad.</description>
+  <habitat_elevation_distribution_or_ecology>Dry soil, Knox Co., Me. to se. Vt.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

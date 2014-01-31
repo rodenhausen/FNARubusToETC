@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>porteri</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species porteri;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(for its discoverer, thomas conrad porter, 1822-1901)</other_name>
+  <number>111</number>
+  <description>High-mounding, with many overarching and finally tip-trailing glabrous branches with numerous lance-subulate recurving prickles (60-120 per dm.) 2 mm. long; primocane-leaflets 5, firm, pale green, prominently ribbed, glabrous on both sides, oblong-lanceolate, acuminate, one-third to two fifths as broad as long, the terminal one 8-9 cm. long and about 3 cm. broad, the petiole with many prickles; lower bracteal leaf 3-foliolate; the upper simple and oval, dentate; axis and pedicels of the long raceme bristly with fine divergent prickles 2-3 mm. long; calyx bristly; fruit seedy and insipid, about 1 cm. in diameter.</description>
+  <habitat_elevation_distribution_or_ecology>Thickets and open woods, Pocono Plateau, ne. Pa.</habitat_elevation_distribution_or_ecology>
+  <description> </description>
+  <description />
+</treatment>
+

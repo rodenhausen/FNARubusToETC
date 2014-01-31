@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>paulus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section alleghenienses;species paulus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>159</number>
+  <description type="morphology">Rather slender, 0.6-2 m. high, with scattered straight subulate-acerose prickles and angled canes; primocane-leaves 5-foliolate, the terminal and petiolulate median leaflets ovate, with acute tips up to 1 cm. long and rounded to subcordate bases, finely double-serrate; bracteal leaves and leaflets acute, mostly ovate; short corymbiform raceme well overtopping the larger bracts; the glandular pedicels 1-3 cm. long; calyx-lobes lanceolate; flowers about 2 cm. broad. (Incl. R. licitus Bailey, state with pubescent primocane-petiole)</description>
+</treatment>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>clarus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species clarus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>35</number>
+  <description type="morphology">Very long-running, with canes 4-6 mm. thick, with scattered slender prickles 3-5 mm. long; leaves soft-tomentulose beneath; primocane-leaves 3-5-foliolate, pilose but glabrate above, densely velvety beneath, the -petiole sparsely glandular to glandless; leaflets tapering to long acuminate tip, the terminal leaflet ovate; flowering branchlets villous and sparsely glandular; flowers 1-6 on nearly erect villous and stipitate-glandular pedicels up to 6 cm. long, the upper pedicels well overtopping the subtending brads; fruit of richest quality, 1.5-2 cm. in diameter.</description>
+</treatment>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>longii</species_name>
+    <species_authority>fern,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section cuneifolii;species longii;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(for one of its discoverers, bayard long, 1885-)</other_name>
+  <number>146</number>
+  <description>Mostly taller or more arching to diffuse than no. 146; primocanes often brandling, up to 1.8 m. long, occasionally tip-rooting; longer prickles 6-9 mm. long; primocane-leaves mostly 3-foliolate, copiously strigose-pilose above when young, loosely cinereous-tomentulose beneath; the leaflets elliptic, ovate or elliptic-obovate, acuminate, membranaceous, scarcely furrowed above, coarsely dentate, the divergent broad teeth with a triangular callous tip; terminal leaflet 3-5-8.5 cm. long, 2.5-5.5 cm. broad; upper bracts of inflorescence often simple, broad, dentate, 1.5-7 cm. long; fruit rich and juicy. (Incl. R. pascuus and R. acer Bailey; R. uliginosus Fern.)</description>
+  <habitat_elevation_distribution_or_ecology>Dry to wet argillaceous, siliceous or peaty soil, se. Va. to L.I. Fl. May, early June; fr. late June, July.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>occidentalis</species_name>
+    <species_authority>l.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus idaeobatus;section idaeanthi;species occidentalis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(western; i.e., of the western hemisphere), black raspberry, thimbleberry, framboise noire (que.)</other_name>
+  <number>10</number>
+  <description>Heavily glaucous; canes and their branches long-arching, rooting at tips, armed like the pedicels with hooked prickles, not bristly, arising from crowns; leaves of primocanes ternate, or quinate and digitate, strongly whitened beneath, coarsely double-serrate, the lateral somewhat stalked; calyx pannose-tomentose, scarcely if ever bristly, its lobes much exceeding the small petals; fruit purple-black, or yellowish or amber in forma pallidus (Bailey) Robins, (pale), compact, hemispherical, the drupelets separated by bands of white tomentum.</description>
+  <habitat_elevation_distribution_or_ecology>Rich thickets, ravines and borders of woods, Que. to Minn., s. beyond our limits, with close allies extending into the Tropics. Fl. late April-July; fr. June-Aug.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

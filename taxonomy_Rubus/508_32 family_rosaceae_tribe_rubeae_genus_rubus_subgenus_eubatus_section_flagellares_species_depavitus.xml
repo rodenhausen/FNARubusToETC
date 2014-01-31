@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>depavitus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species depavitus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(trampled down)</other_name>
+  <number>32</number>
+  <description>Coarser than no. 31, habitally resembling nos. 16 and 36; canes 5-6 mm. thick, glabrous, with remote hard prickles about 4 mm. long; leaves glabrescent beneath,; primocane-leaves 3-foliolate, the petiole glandless, the leaflets gradually tapering to acuminate tips, terminal leaflet elliptic-ovate; flowering branchlet glabrous; floricane-leaves with mostly elliptic leaflets; nearly erect pedicels glandular, mostly shorter than subtending bracts; calyx often glandular; petals 1.2-1.5 cm. long, about 8 mm. broad.</description>
+  <discussion>Very close to no. 33.</discussion>
+  <habitat_elevation_distribution_or_ecology>Borders of dry woods, N.J. to ne. Md.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

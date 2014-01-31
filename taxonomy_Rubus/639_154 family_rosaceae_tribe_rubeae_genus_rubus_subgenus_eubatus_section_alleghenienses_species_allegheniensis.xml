@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>allegheniensis</species_name>
+    <species_authority>porter</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section alleghenienses;species allegheniensis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(of the allegbenies), sow-teat b</other_name>
+  <number>154</number>
+  <description>Erect or high arching, mostly 1-3 m. high, armed with scattered broad-based lanceolate to lance-subulate prickles or prickles wanting, the young primocanes often ridged or angled and finely pubescent, the expanding tip often glandular; primocane-leaves mostly 5-foliolate (sometimes 3- or 7-foliolate), on pubescent and mostly stipitate-glandular unarmed or armed petioles; leaflets soft-pilose or velvety beneath, pilose above when young; terminal leaflet ovate, cordate or broadly rounded at base, doubly serrate, with long attenuate or caudate tip, long-petiolulate; the median paired leaflets petiolulate and mostly narrower; floricanes simply or intricately branching; principal racemes cylindric or subcylindric, mostly 1-3 dm. long and 2.5-10 cm. thick, the rachis and spreading-ascending to divergent pedicels copiously stipitate-glandular and either unarmed or armed; calyx-lobes ovate to ovate-lanceolate, often with elongate tips; petals 1-2 cm. long, 4-12 mm. broad; fruit globose to thimble-shaped, up to 2 cm. long, either dryish or juicy and of rich flavor.</description>
+  <habitat_elevation_distribution_or_ecology>Common and wide-ranging species with several recognizable vars. and forms, of which the following are best marked:</habitat_elevation_distribution_or_ecology>
+  <key>
+    <key_heading>Key 39</key_heading>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Primocane and usually lower internodes of floricane bearing broad-based stout prickles mostly 5-10 mm. long; the canes often angulate, rather coarse, up to 3 m. high2.</statement>
+      <next_statement_id>2</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Bracteal leaves and leaflets elongate and acute3.</statement>
+      <next_statement_id>3</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Well-developed flowering or fruiting racemes mostly 5-10 cm. thick, with the longer pedicels mostly 3-9 cm. long; calyx-lobes (excluding slender tips) 5-8 mm. long (in forma calycosus foliaceous and up to 7 cm. long); petals 1.2-2 cm. long, 5-12 mm. broad4.</statement>
+      <next_statement_id>4</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Rachis of raceme and pedicels unarmed or with few remote fine bristles among the many glands; petioles and petiolules unarmed or remotely armed5.</statement>
+      <next_statement_id>5</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>5</statement_id>
+      <statement>Foliaceous bracts of raceme 1-5, subtending only the lowest flowers.</statement>
+      <next_statement_id>6</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>6</statement_id>
+      <statement>Calyx-lobes not foliaceous, the blades 5-8 mm. long; fruit plump and juicy.</statement>
+      <next_statement_id>7</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>7</statement_id>
+      <statement>Fruit purple-black</statement>
+      <determination>R. allegheniensis(typical).</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>7</statement_id>
+      <statement>Fruit amber-white</statement>
+      <determination>Forma albinus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>6</statement_id>
+      <statement>Calyx-lobes changed to thin leaf-like often toothed structures up to7 cm. long; fruit small and dry. Forma calycosus.</statement>
+      <next_statement_id>5</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>5</statement_id>
+      <statement>Foliaceous bracts of raceme 6-15, subtending and usually over topping most of the single or fascicled pedicels</statement>
+      <determination>Forma suffultus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Rachis of raceme strongly armed with stout prickles; some or most pedicels usually bearing 3-8 hard prickles; petioles and petiolules strongly armed</statement>
+      <determination>Var. neoscoticus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Well-developed flowering or fruiting raceme 2.5-5 cm. thick, with longer pedicels 1-2 cm. long; calyx-lobes (excluding slender tips) 3.5-6 mm. long; petals 1 cm. long and 4-7 mm. broad</statement>
+      <determination>Var. plausus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Bracteal leaves or leaflets round or roundish-elliptic, rounded at summit</statement>
+      <determination>Var. populifolius.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Primocanes and floricanes prickleless or with only rare prickles 1-3 mm. long on exceptional internodes; the canes slender and terete, 2-5 mm. thick and 0.3-1.5 m. high; racemes 3-7 cm. in diameter, mostly without prickles</statement>
+      <determination>Var. Gravesii.</determination>
+    </key_statement>
+  </key>
+  <description>R. allegheniensis (typical). — Canes up to 1 cm. or more thick at base; terminal primocane-leaflet 0.7-2 dm. long, 3.5-11 cm. broad; lower elongate pedicels often forking. (Incl. R, nigrobaccus, auroralis, longissimus, virginianus, separ, uber, marilandicus, Fernaldianus and Rappii Bailey) — Dry clearings and thickets, usually abundant, N.B. and s. Que. to Minn., s. to N.S., N.E., L.I., Md., upland N.C. and Term., and Mo. Fl. May-July; fr. Aug., Sept.</description>
+</treatment>
+

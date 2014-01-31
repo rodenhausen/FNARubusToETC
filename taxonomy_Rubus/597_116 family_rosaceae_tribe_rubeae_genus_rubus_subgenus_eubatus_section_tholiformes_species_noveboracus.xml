@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>noveboracus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species noveboracus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(of new york)</other_name>
+  <number>116</number>
+  <description>Resembling no. 113 but forming dense mounds 1 m. high; primocane-leaves more approximate, very firm, 3-7-foliolate, pubescent on nerves beneath; leaflets finely double-serrate, abruptly slender-tipped; terminal one round-ovate, nearly as broad as long, 7-9 cm. long; inflorescence short and compact, racemose-corymbiform, its foliaceous bracts acute; pedicels finely pilose, with very short bristles, up to 3 cm. long; calyx-lobes reflexed under the large (2 cm. long) fruit.</description>
+  <habitat_elevation_distribution_or_ecology>Dry soil, s.-centr. N.Y.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

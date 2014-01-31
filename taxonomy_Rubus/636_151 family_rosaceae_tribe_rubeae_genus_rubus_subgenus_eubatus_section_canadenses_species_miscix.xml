@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>miscix</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section canadenses;species miscix;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(changeable)</other_name>
+  <number>151</number>
+  <description>Much more prickly than no, 150, the acicular prickles 35-200 per dm. on new primocane; petiole of primocane-leaf very prickly; midrib of terminal leaflet usually armed beneath; raceme usually overtopped by the bracteal leaves; leaflets or simple blades of bracteal leaves entire near base (one-fourth to one-third their length). (R. peculiaris Blanch., not Sampaio)</description>
+  <habitat_elevation_distribution_or_ecology>Se. and centr. to sw. Me.</habitat_elevation_distribution_or_ecology>
+  <description> </description>
+  <description>152.R. Kennedyanus Fern. (for its discoverer, RAE BALDWIN KENNEDY, 1879- ). — Canes 0.3-1.5 dm. high, with scattered straight acicular prickles; plant suggesting nos. 148 and 150 but with few-flowered (2-7) corymbs; petiole of primocane-leaf somewhat armed; the broadly ovate terminal leaflet with rounded to cordate base; corymbs mostly overtopped by the bracteal leaves, the stiff pedicels mostly 0.5-3 cm. long. (Incl. R. acridens, R. quaesitus and R. ulterior Bailey) — Nfld. to Minn.</description>
+</treatment>
+

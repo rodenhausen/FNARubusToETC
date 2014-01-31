@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>latifoliolus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species latifoliolus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(with broad leaflets)</other_name>
+  <number>189</number>
+  <description>Primocanes arching, their drooping and finally tip-trailing branches and branchlets forming mounds about 1 m. high, terete, with subacicular prickles 2-3 mm. long; primocane-leaves with very prickly petioles and petiolules; terminal leaflet broadly cordate-ovate, abruptly acuminate, closely double-serrate, glabrous above, sparsely 'pilose beneath, the ribs prominent beneath; racemiform corymb very leafy-bracted, all the bristly pedicels overtopped by the large bracts; simple upper bracts broadly ovate, lobulate; calyx-lobes tardily reflexed; fruit subglobose, small, seedy.</description>
+  <discussion>Perhaps better placed in Section Tholiformes.</discussion>
+  <habitat_elevation_distribution_or_ecology>Borders of woods, se. Minn.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

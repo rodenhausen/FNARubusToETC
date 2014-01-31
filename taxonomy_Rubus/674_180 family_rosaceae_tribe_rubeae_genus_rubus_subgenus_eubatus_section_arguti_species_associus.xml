@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>associus</species_name>
+    <species_authority>hanes</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species associus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(associating with; other local plants)</other_name>
+  <number>180</number>
+  <description>Differing from no. 179 in its more abundant prickles; terminal primocane-leaflet on shorter petiolule (about 2 cm. long); median leaflets short-petiolulate; raceme 8-10-flowered, the rachis and pedicels prickly, the longer pedicels about 3 cm. long.</description>
+  <habitat_elevation_distribution_or_ecology>Borders of swamps, Kalamazoo Co., Mich.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

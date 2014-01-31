@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>ortivus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section setosi;species ortivus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(eastern)</other_name>
+  <number>132</number>
+  <description>Erector or nearly so, slender, 2-6 dm. high, the canes unarmed below, remotely short-setose above; primocane-leaflets sublustrous and deep green above, grayish-tomentulose beneath, lanceolate, with subcaudate tip 1-1.5 cm. long; bracteal leaves crowded, nearly equaling or overtopping the corymbiform raceme, the leaflets or narrow simple bracts acuminate; pedicels stipitate-glandular; oblong calyx-lobes 5-6 mm. long, abruptly caudate-tipped; petals 5-8 mm. broad.</description>
+  <habitat_elevation_distribution_or_ecology>Dry open soil and dryish meadows, w. N.S. and se. Me. Fl. July; fr. Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>curtipes</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species curtipes;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(short-stalked; from the pedicels)</other_name>
+  <number>52</number>
+  <description>Very similar to no. 51; axis of flowering shoot and short pedicels (1-2 cm. long) prickleless or with only 1 or 2 setae and usually glandless (or “sometimes ... one or two indifferent glands ... A well-marked species”).</description>
+  <discussion>Perhaps eventually to be merged with no. 51.</discussion>
+  <habitat_elevation_distribution_or_ecology>Open habitats, e. Mass.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

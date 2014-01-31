@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>21.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>occidentalis</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <place_of_publication>
+      <publication_title>Sp. Pl.</publication_title>
+      <place_in_publication>1: 493. 1753</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species occidentalis;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Black raspberry , framboisier noir EF</other_info>
+  <description>Shrubs, 5--25 dm, armed. Stems &lt;biennial&gt;, erect, &lt;primocanes and floricanes later over-arching&gt;, glabrous or sparsely puberulent, eglandular, strongly pruinose; prickles sometimes sparse, erect or hooked, narrow to stout, 4--8 mm, narrow- to broad-based. Leaves deciduous, ternate or palmately compound; stipules filiform, 5--10 mm; &lt;petiole usually armed with prickles; petiolules of terminal leaflet also sometimes armed; lateral leaflets sessile or subsessile&gt;; leaflets 3(--5), terminal ovate to lanceolate, 5--14 x 3--11 cm, base rounded to cordate, unlobed or laterals sometimes lobed, margins finely to doubly serrate, apex acute, abaxial surfaces sometimes with hooked prickles on midveins, densely white-canescent to tomentose, eglandular. Inflorescences (2--)3--7(--20)-flowered, cymiform or umbelliform. Pedicels: prickles erect, hooked, puberulent to pubescent, eglandular. Flowers bisexual; petals &lt;initially erect, later ascending&gt;, white, narrowly obovate to elliptic, 5--10 mm, &lt;apex sometimes emarginate&gt;; filaments laminar; ovaries tomentose. Fruits usually dark purplish to black, rarely amber, &lt;pruinose, aromatic&gt;, depressed-globose, 1--1.5 cm; drupelets 20--50, coherent, separating from torus. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering late Apr--Jul.</text>
+    <phenology>apr</phenology>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+  </phenology_info>
+  <habitat>woodlands</habitat>
+  <habitat>fields</habitat>
+  <habitat>prairies</habitat>
+  <habitat>meadows</habitat>
+  <habitat>savannas</habitat>
+  <habitat>in disturbed areas</habitat>
+  <habitat>dry to moist soils</habitat>
+  <elevation>0--1000 m;</elevation>
+  <ca_distribution>N.B.</ca_distribution>
+  <ca_distribution>Ont.</ca_distribution>
+  <ca_distribution>Que.</ca_distribution>
+  <us_distribution>Ala.</us_distribution>
+  <us_distribution>Ark.</us_distribution>
+  <us_distribution>Colo.</us_distribution>
+  <us_distribution>Conn.</us_distribution>
+  <us_distribution>Del.</us_distribution>
+  <us_distribution>D.C.</us_distribution>
+  <us_distribution>Ga.</us_distribution>
+  <us_distribution>Ill.</us_distribution>
+  <us_distribution>Ind.</us_distribution>
+  <us_distribution>Iowa</us_distribution>
+  <us_distribution>Kans.</us_distribution>
+  <us_distribution>Ky.</us_distribution>
+  <us_distribution>Maine</us_distribution>
+  <us_distribution>Md.</us_distribution>
+  <us_distribution>Mass.</us_distribution>
+  <us_distribution>Mich.</us_distribution>
+  <us_distribution>Minn.</us_distribution>
+  <us_distribution>Miss.</us_distribution>
+  <us_distribution>Mo.</us_distribution>
+  <us_distribution>Nebr.</us_distribution>
+  <us_distribution>N.H.</us_distribution>
+  <us_distribution>N.J.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <us_distribution>N.C.</us_distribution>
+  <us_distribution>N.Dak.</us_distribution>
+  <us_distribution>Ohio</us_distribution>
+  <us_distribution>Okla.</us_distribution>
+  <us_distribution>Pa.</us_distribution>
+  <us_distribution>R.I.</us_distribution>
+  <us_distribution>S.C.</us_distribution>
+  <us_distribution>S.Dak.</us_distribution>
+  <us_distribution>Tenn.</us_distribution>
+  <us_distribution>Vt.</us_distribution>
+  <us_distribution>Va.</us_distribution>
+  <us_distribution>W.Va.</us_distribution>
+  <us_distribution>Wis.</us_distribution>
+  <discussion>Rubus occidentalis is the source of most of the black raspberries in cultivation. See 13b. R. idaeus subsp. strigosus for discussion of application of the name R. neglectus. Also, see 17. R. leucodermis for a discussion of its taxonomic closeness. The morphologically similar species R. eriocarpus Liebmann is known from southern Mexico and Central America, and R. pringlei Rydberg is known from Mexico and Guatemala.</discussion>
+</treatment>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>setospinosus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species setospinosus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>119</number>
+  <description type="morphology">Stout, doming to 1 m. high; primocanes up to 1 cm. in diameter with 300-600 mixed bristles and slender prickles per dm.; leaves glabrous above, pilose on nerves beneath; 5-foliolate primocane-leaves on very prickly petioles and with strongly setose petiolules; terminal leaflet round-ovate, abruptly acuminate, four-fifths as broad (about 1 cm.) as long; small leafy corymb with slender smooth pedicels overtopped by the 3-foliolate bracts with narrowly lanceolate to oblong acuminate leaflets.</description>
+</treatment>
+

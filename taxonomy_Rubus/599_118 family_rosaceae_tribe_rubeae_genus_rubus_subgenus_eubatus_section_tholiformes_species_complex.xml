@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>complex</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species complex;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(closely connected with)</other_name>
+  <number>118</number>
+  <description>Habit of the several preceding species; prickles of canes merely subulate, 2-4 mm. long, divergent, 40-75 per dm.; primocane-leaves 3- or5-foliolate, finely pubescent on nerves above and beneath; leaflets broadly ovate to oblong-ovate, gradually tapering to tip, coarsely serrate-dentate, about half as broad as long (4-6 cm.); flowering shoots spreading-pubescent, ending in a leafy-bracted raceme; bracts mostly simple, ovate, acute ,longer than the pubescent pedicels; petals 1 cm. long, 5 mm. broad; fruit globose, up to 1 cm. in diameter.</description>
+  <habitat_elevation_distribution_or_ecology>Sandy open places, Mich.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>condensiflorus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species condensiflorus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(closely flowered)</other_name>
+  <number>181</number>
+  <description>Erect or arching, up to 2 m. high, the furrowed canes with scattered subulate prickles 3-4 mm. long; primocane-leaves glabrous or glabrescent above, soft-pubescent beneath, 5-foliolate; terminal leaflet more or less dentate-lobulate, cordate-ovate, the other leaflets narrow and tapering to base; lateral racemes single, rather short, the simple lower pedicels overtopped by the foliaceous bracts; flower 2-3 cm. broad; calyx-lobes soon reflexed.</description>
+  <habitat_elevation_distribution_or_ecology>Shale-region of Ky.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

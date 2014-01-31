@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:50</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>frondosus</species_name>
+    <species_authority>bigel.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species frondosus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>190</number>
+  <description type="morphology">Tall (up to 2.5 m.), the arching canes with branches and branchlets often reaching the ground, soon terete, with straight subulate prickles; primocane-leaves with slightly prickly to smooth petioles and petiolules; terminal leaflet broadly ovate, 0.9-1.5 dm. long, subcordate, abruptly acuminate, sparsely pilose or glabrate above, velvety beneath; short and compact corymbs leafy-bracted to or above the middle, the brads overtopping the flowers, the larger simple coarsely toothed bracts or their terminal leaflets mostly 4-7 cm. long; flowers 3-10 on unarmed densely pubescent short pedicels; corollas 2.5-3.5 cm. broad; calyx-lobes soon reflexed; fruit subglobose, 1-1.5 cm. thick. (Inch R. heterogeneus Bailey, an unusual form)</description>
+</treatment>
+

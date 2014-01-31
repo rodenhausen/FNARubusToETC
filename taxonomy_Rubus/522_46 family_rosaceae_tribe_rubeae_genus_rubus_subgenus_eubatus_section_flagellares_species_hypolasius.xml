@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>hypolasius</species_name>
+    <species_authority>fern,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species hypolasius;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(hairy beneath)</other_name>
+  <number>46</number>
+  <description>Superficially suggesting no. 16 but leaves downy beneath and shorter pedicels spreading ascending; canes stout, intricately branched, the main axis up to 5 or 6 mm. thick, strongly armed with horizontally divergent subulate hard prickles up to 6 mm,, long; primocane-leaflets 3 or 5, scabridulous with sparse hairs above, velvety beneath; the terminal leaflet of the main axis ovate to ovate-elliptic, abruptly acuminate, 4.5-7.5 cm. long and 2.5-5 cm. broad, sharply double-serrate; floricane-leaves subcoriaceous, blue-green; corymb with several flowers on mostly arching glandless villous pedicels up to 2 or 3 cm. long, these rarely overtopping the brads.</description>
+  <habitat_elevation_distribution_or_ecology>Wet pinelands and peaty swales, se. Va. to Cape May, N.J. Fr. June.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

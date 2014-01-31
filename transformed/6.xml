@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>2c.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>arcticus</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <subspecies_name>stellatus</subspecies_name>
+    <subspecies_authority>(Smith) B. Boivin</subspecies_authority>
+    <place_of_publication>
+      <publication_title>Bull. Soc. Bot. France</publication_title>
+      <place_in_publication>102: 235. 1955</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species arcticus;subspecies stellatus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <TaxonIdentification Status="BASIONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>stellatus</species_name>
+    <species_authority>Smith</species_authority>
+    <place_of_publication>
+      <publication_title>Pl. Icon. Ined.</publication_title>
+      <place_in_publication>3: plate 64. 1791</place_in_publication>
+    </place_of_publication>
+  </TaxonIdentification>
+  <description>Plants to 1.6 dm. Stems often with soft, spreading hairs. Leaves simple, usually 3-lobed, rarely unlobed; petiole hairy; blade +/- rotund, 2--4.5 cm (usually broader than long), base cordate to subcordate, margins doubly serrate, lobe apices usually obtuse. Inflorescences: flowers solitary. Pedicels sparsely short-stipitate-glandular, sometimes eglandular. Flowers: sepals caudate, hairy, sparsely to moderately stipitate-glandular; petals pink to magenta, oblanceolate to obovate, 10--22 mm, apex emarginate. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering Jun--Aug.</text>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+  </phenology_info>
+  <habitat>alpine stream banks and meadows</habitat>
+  <habitat>lake shores</habitat>
+  <elevation>0--1500 m;</elevation>
+  <ca_distribution>B.C.</ca_distribution>
+  <ca_distribution>N.W.T.</ca_distribution>
+  <ca_distribution>Yukon</ca_distribution>
+  <us_distribution>Alaska</us_distribution>
+  <global_distribution>e Asia (Russian Far East).</global_distribution>
+</treatment>
+

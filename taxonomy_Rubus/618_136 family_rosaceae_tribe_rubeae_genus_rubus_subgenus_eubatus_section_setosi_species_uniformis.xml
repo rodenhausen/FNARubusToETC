@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>uniformis</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section setosi;species uniformis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(uniform; a remarkable character, in rubus)</other_name>
+  <number>136</number>
+  <description>In the copious(100-300 per dm.) reflexed hard subulate-unguiculate prickles suggesting no. 133, but the leaflets soft-pubescent beneath; primocane-leaves with entire stipules 2-3 cm. long; leaflets plicate, ovate or ovate-elliptic, caudate-acuminate; corymb compact, leafy-braded at base, the short divergent pedicels pubescent but unarmed.</description>
+  <habitat_elevation_distribution_or_ecology>W. Wisc.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

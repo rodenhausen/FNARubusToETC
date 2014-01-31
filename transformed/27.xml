@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>19.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>nivalis</species_name>
+    <species_authority>Douglas ex Hooker</species_authority>
+    <place_of_publication>
+      <publication_title>Fl. Bor.-Amer.</publication_title>
+      <place_in_publication>1: 181. 1832</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species nivalis;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Snow raspberry E</other_info>
+  <description>Shrubs, 0.5--1.5 dm, armed. Stems &lt;perennial&gt;, creeping, sparsely hairy, glabrescent, eglandular, not pruinose; prickles sparse, strongly retrorse, stout, to 1 mm, broad-based. Leaves evergreen, simple or ternate; stipules &lt;adnate to petioles&gt;, broadly elliptic to ovate, (6--)8--10 mm; blade ovate to cordate, (2.5--)3--5(--8) cm, lobe or leaflet base cordate, shallowly 3-lobed, margins coarsely, singly or doubly dentate, apex acute to obtuse, abaxial surfaces with prickles along midveins, glabrous or sparsely hairy, eglandular, &lt;both surfaces lustrous fresh&gt;. Inflorescences 1--2-flowered. Pedicels: prickles scattered, retrorse, moderately to densely hairy, eglandular. Flowers bisexual; petals magenta to pink, elliptic to oblanceolate or spatulate, (5--)8--10 mm; filaments filiform; ovaries moderately hairy, &lt;styles glabrous&gt;. Fruits red, hemispheric, 0.4--1 cm; drupelets 3--10, not coherent, separating from torus. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering Jun--Sep.</text>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+    <phenology>sep</phenology>
+  </phenology_info>
+  <habitat>moist, semi-shaded forests</habitat>
+  <habitat>glades</habitat>
+  <habitat>moist soils</habitat>
+  <habitat>logged areas</habitat>
+  <elevation>0--1700 m;</elevation>
+  <ca_distribution>B.C.</ca_distribution>
+  <us_distribution>Calif.</us_distribution>
+  <us_distribution>Idaho</us_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <us_distribution>Wash.</us_distribution>
+  <discussion>Rubus nivalis is recognized by its creeping, prickly stems, simple to ternate, evergreen leaves, broadly elliptic to ovate stipules, two leaflets, relatively small flowers, and magenta to pink petals. Its closest relative is likely the Mexican R. pumilus Focke. Asian species previously classified in subg. Chamaebatus (Focke) Focke are hexaploid (M. M. Thompson 1997) and not phylogenetically close; R. nivalis appears to be sister to all blackberries of subg. Rubus (L. A. Alice and C. S. Campbell 1999; Alice et al. 2008).</discussion>
+  <discussion>The fruits of Rubus nivalis are eaten fresh, stewed, and canned by the Hoh and Quileute Indians (A. B. Reagan 1936).</discussion>
+  <discussion>The only known specimen of Rubus nivalis from California was collected in 1961 from Del Norte County at 1250 m near the Oregon border.</discussion>
+</treatment>
+

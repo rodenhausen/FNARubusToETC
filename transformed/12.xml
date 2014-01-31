@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>8.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>cuneifolius</species_name>
+    <species_authority>Pursh</species_authority>
+    <place_of_publication>
+      <publication_title>Fl. Amer. Sept.</publication_title>
+      <place_in_publication>1: 347. 1813</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species cuneifolius;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Sand blackberry E</other_info>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>audax</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>chapmanii</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>cuneifolius</species_name>
+    <variety_name>angustior</variety_name>
+    <variety_authority>L. H. Bailey</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>cuneifolius</species_name>
+    <variety_name>austrifer</variety_name>
+    <variety_authority>L. H. Bailey</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>cuneifolius</species_name>
+    <variety_name>spiniceps</variety_name>
+    <variety_authority>L. H. Bailey</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>cuneifolius</species_name>
+    <variety_name>subellipticus</variety_name>
+    <variety_authority>Fernald</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>georgiensis</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>probabilis</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>probativus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>randolphiorum</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>sejunctus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <description>Shrubs, 5--10(--30) dm, armed. Stems &lt;biennial&gt;, erect, rarely arching, sparsely to densely hairy (especially young), eglandular, not pruinose; &lt;bark not papery, peeling&gt;; prickles usually dense, hooked to retrorse, usually stout, 3--6 mm, broad-based. Leaves deciduous to semievergreen, usually ternate, sometimes palmately compound; stipules filiform or linear to lanceolate, 3--15 mm; leaflets 3--5, terminal cuneate to obovate, 2--6 x 3--4 cm, base cuneate, unlobed, margins serrate, rarely doubly serrate, apex broadly rounded to subtruncate, often cuspidate, abaxial surfaces often with prickles on midveins, densely gray- to white-hairy, sparsely to densely sessile-glandular. Inflorescences terminal &lt;on short shoots, sometimes appearing axillary&gt;, (1--)3--5(--12)-flowered, cymiform. Pedicels unarmed or prickles sparse to moderate, hooked to retrorse, moderately to densely hairy, eglandular or sparsely to moderately sessile-glandular. Flowers bisexual; petals white, elliptic to obovate, 5--15 mm; filaments filiform; ovaries glabrous or glabrate. Fruits black, globose to cylindric, 0.6--2 cm; drupelets 15--50, strongly coherent, separating with torus attached. 2n = 21, 28.</description>
+  <phenology_info>
+    <text>Flowering May--Jul.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+  </phenology_info>
+  <habitat>dry to damp open areas</habitat>
+  <habitat>in sandy or rocky soils</habitat>
+  <elevation>0--300 m;</elevation>
+  <us_distribution>Ala.</us_distribution>
+  <us_distribution>Conn.</us_distribution>
+  <us_distribution>Del.</us_distribution>
+  <us_distribution>D.C.</us_distribution>
+  <us_distribution>Fla.</us_distribution>
+  <us_distribution>Ga.</us_distribution>
+  <us_distribution>La.</us_distribution>
+  <us_distribution>Md.</us_distribution>
+  <us_distribution>Mass.</us_distribution>
+  <us_distribution>Miss.</us_distribution>
+  <us_distribution>N.H.</us_distribution>
+  <us_distribution>N.J.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <us_distribution>N.C.</us_distribution>
+  <us_distribution>Pa.</us_distribution>
+  <us_distribution>S.C.</us_distribution>
+  <us_distribution>Tenn.</us_distribution>
+  <us_distribution>Va.</us_distribution>
+  <discussion>Rubus cuneifolius is characteristic of the Coastal Plain and Piedmont. The species is distinguished from most other blackberries in the flora area by its usually strongly erect and shrub-forming habit and abaxial leaflet surfaces often with dense white to gray indument; it may be confused with R. pascuus. Rubus cuneifolius has white petals and cuneate to obovate leaflets with usually revolute margins, the proximal third entire; R. pascuus has pale pink to white petals and ovate to broadly elliptic leaflets with the margins flat and entire only at base.</discussion>
+  <discussion>Rubus longii Fernald may represent hybridization between R. cuneifolius and another, yet-undetermined, blackberry (perhaps R. pascuus). Hybrids of R. cuneifolius and R. hispidus can be found around abandoned commercial cranberry bogs in New Jersey (G. Moore, pers. obs.{{JZ: but he is one of the co-authors}}{{CH: remove?}}). Rubus cuneifolius is introduced in South Africa and is officially recognized there as a noxious weed (L. Henderson 1995; T. Olkers and M. P. Hill 1999; H. Klein 2002). Preliminary examination of plants identified as R. cuneifolius from South Africa has shown that the plants are not R. cuneifolius but may be hybrids involving blackberries.</discussion>
+  <discussion>The following nothospecies names are based on putative hybrids involving Rubus cuneifolius and: R. pensilvanicus (R. x\acer L. H. Bailey, R. x\acer L. H. Bailey var. subacer, R. x\argutinus L. H. Bailey, R. x\floridensis L. H. Bailey); R. trivialis (R. x\inferior L. H. Bailey).</discussion>
+</treatment>
+

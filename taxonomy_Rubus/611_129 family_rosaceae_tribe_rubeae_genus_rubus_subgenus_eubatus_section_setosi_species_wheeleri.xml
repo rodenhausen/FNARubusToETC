@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>wheeleri</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section setosi;species wheeleri;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(in honor of charles fay wheeler, 1842-1910)</other_name>
+  <number>129</number>
+  <description>With canes remotely armed as in no. 127; corymb as heavily spiculose as in no. 123; primocane-leaves sublustrous above; the terminal leaflet rounded-obovate, abruptly short-tipped, three-fourths to four-fifths as broad as long; corymb as broad as long, the lower foliaceous bracts narrowly oblong and entire to lance-acuminate and lacerate; petals 7 or 8 mm. broad.</description>
+  <habitat_elevation_distribution_or_ecology>Swamps and damp thickets, s. Mich.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

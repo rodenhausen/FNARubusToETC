@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>temerarius</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species temerarius;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(ill-advised; because originally misidentified)</other_name>
+  <number>26</number>
+  <description>Similar to no. 25 but pedicels essentially glabrous; leaflets coarsely dentate, merely acute; primocane-leaflets broadly ovate, the terminal leaflet broadly subtruncate or subcordate at base, the petiole with numerous acicular prickles; axis of flowering branchlet pilose; leaflets mostly elliptic; erect glabrous but bristly pedicels about 5 cm. long.</description>
+  <habitat_elevation_distribution_or_ecology>Upland of w. Va.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

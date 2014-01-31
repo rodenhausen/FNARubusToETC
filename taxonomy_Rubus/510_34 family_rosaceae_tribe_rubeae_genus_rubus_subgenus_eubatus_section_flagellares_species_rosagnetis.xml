@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>rosagnetis</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species rosagnetis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(named in 1943 for its discoverer, sister rose agnes greenwell)</other_name>
+  <number>34</number>
+  <description>Canes 3-4 mm. thick, copiously armed with broad-based and hooked prickles; leaves soft-pilose beneath; primocane-leaves 3-foliolate, with strongly armed glandless or glandular petioles; leaflets sharply double-serrate, the terminal one ovate and tapering to long acumination; flowering axis and pedicels copiously glandular; the strongly ascending pedicels mostly overtopping their subtending bracts; petals 1.5-2 cm. long, 1 cm. broad. (Incl. R. Deamii Bailey which seems to differ chiefly in glandless petioles of primocane-leaves; R. Gordonii Bailey)</description>
+  <habitat_elevation_distribution_or_ecology>Dry fields, rocky slopes and thickets, O. and Ind., s. to Tenn.</habitat_elevation_distribution_or_ecology>
+  <description> </description>
+</treatment>
+

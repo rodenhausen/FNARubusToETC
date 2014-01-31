@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>recurvans</species_name>
+    <species_authority>blanch.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species recurvans;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(recurving)</other_name>
+  <number>201</number>
+  <description>Arching, with the tips of canes and branches strongly recurving and nearly touching the ground or tip-trailing or sometimes tip-rooting, very intricately branched; canes becoming terete, with scattered slender straight hard prickles; primocane-leaves mostly 5-foliolate, thin, soft-pubescent beneath; the leaflets jagged- or lacerate- serrate, acuminate, from lanceolate to ovate; terminal leaflet narrowly to broadly ovate, with rounded to cordate base, up to 12 cm. long; inflorescences very variable; the more prevalent and typical ones conspicuously leafy-bracted and often covered or exceeded by the narrow jagged-toothed bracteal leaves; pedicels filiform, elongate; corolla 1.5-3 cm. broad; fruit subglobose to ellipsoid, mostly 1-1.5 cm. long. (Incl. R. Rossbergianus Blanchard, R. Wiegandii Bailey and R. heterophyllus sensu Am. auth., not Willd.)</description>
+  <habitat_elevation_distribution_or_ecology>Dry to moist thickets, clearings or borders of woods, se. Que. to Minn., s. to N.S., N.E., Va., Ill. and Mo. Fl. May, June; fr. July-Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

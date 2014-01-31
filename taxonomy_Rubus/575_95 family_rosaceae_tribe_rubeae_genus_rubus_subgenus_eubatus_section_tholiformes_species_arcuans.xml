@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>arcuans</species_name>
+    <species_authority>fern. &amp; st.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species arcuans;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>john (arching)</other_name>
+  <number>95</number>
+  <description>Strongly suggesting no. 91, doming, arching or sprawling; primocanes with numerous hard broad-based hooked prickles 3-4.5 mm. long, mixed with relatively few or no bristles and glands; primocane-foliage coriaceous, dark green, lustrous, 3- or 5-foliolate; the obovate to suborbicular leaflets abruptly tipped, coarsely toothed; terminal leaflet 3-8 cm. long, 2.5-5.5 cm. broad, the midrib beneath armed with hooked prickles, the prickly petiolule 0.5-2 cm. long; raceme interrupted, simple or paniculate, 0.6-3.2 dm. long; the axis and pedicels densely pilose, usually much armed, sometimes glandular; pedicels 1.5-4 cm. long; calyx prickly or unarmed, its lobes ascending in fruit; petals spatulate, 7-11 mm. long, 4-8 mm, broad; fruit globose, small. (Incl. R. provincialis, vigoratus, Bicknellii and mananensis Bailey)</description>
+  <habitat_elevation_distribution_or_ecology>Sandy soil, P.E.I, and N.S. sw. near coast to se. Mass. Fl. July, early Aug.; fr. late Aug., Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

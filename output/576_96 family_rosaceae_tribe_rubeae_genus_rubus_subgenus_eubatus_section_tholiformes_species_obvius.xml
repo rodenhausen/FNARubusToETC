@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>obvius</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species obvius;</taxon_hierarchy>
+  </taxon_identification>
+  <number>96</number>
+  <description type="morphology">Primocanes up to 1 m. high, doming, with recurving and prostrate-tipped branches; canes rather slender, 1.5-3.3 mm. thick, with scattered acicular prickles3-4 mm. long; primocane-leaves mostly 5-foliolate, on long remotely acicular petioles; leaflets narrowly ovate-lanceolate, about thrice as long as broad, long-acuminate, the terminal one rounded to base and on a petiolule 5 mm. long; flowering shoots finely pubescent, 1-3-flowered; simple or trifoliolate bracts acuminate and exceeding the flowers; calyx-lobes long-pointed; petals oblong-spatulate, 1.6 cm. long, 7-8.5 mm. broad.</description>
+</treatment>
+

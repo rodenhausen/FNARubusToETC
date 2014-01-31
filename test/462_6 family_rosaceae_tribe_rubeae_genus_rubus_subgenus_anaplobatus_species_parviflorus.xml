@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>parviflorus</species_name>
+    <species_authority>nutt.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus anaplobatus;species parviflorus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(small-flowered; a misnomer), thimbleberry</other_name>
+  <number>6</number>
+  <description>Similar to no. 5, more or less glandular, but stems scarcely bristly; lobes of leaves ovate, coarsely toothed; peduncles 1-15-flowered; calyx-lobes canescent-pilose or villous, rarely with short pale glands; petals white; fruit juicy and of rich flavor, (Rubacer Rydb.)</description>
+  <discussion>Polymorphic species, highly variable in degree of pubescence and glandularity.</discussion>
+  <habitat_elevation_distribution_or_ecology>Thickets and borders of woods, Bruce Pen., Ont., to Minn.; Black Hills, S.D.; Alta. and s. Alaska, s. to mts. of Mex., Ariz. and Calif. Fl. June, July; fr. Aug., Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

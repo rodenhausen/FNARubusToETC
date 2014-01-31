@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>plexus</species_name>
+    <species_authority>fern.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species plexus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>17</number>
+  <description type="morphology">Intricately branching and forking, prostrate; primocanes at first erect and strongly angled, soon becoming prostrate and subterete; these and floricanes bearing straight horizontally divergent broad-based subulate hard prickles 4-6 mm. long; terminal glabrate leaflets or simple bracts narrowly ovate and gradually tapering to acuminate tips; corymbs 3-5-flowered, the minutely pilose sparsely prickly erect pedicels 3-4 cm. long at anthesis; fresh petals roseate, 1.3 cm. long, 9 mm. wide.</description>
+</treatment>
+

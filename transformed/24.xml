@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>17a.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>leucodermis</species_name>
+    <species_authority>Douglas ex Torrey &amp; A. Gray</species_authority>
+    <variety_name>leucodermis</variety_name>
+    <variety_authority>* Whitebark raspberry</variety_authority>
+    <taxon_hierarchy>genus Rubus;species leucodermis;variety leucodermis;</taxon_hierarchy>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>bernardinus</species_name>
+    <species_authority>( Greene) Fedde</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>leucodermis</species_name>
+    <subspecies_name>bernardinus</subspecies_name>
+    <subspecies_authority>(Greene) Thorne</subspecies_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>leucodermis</species_name>
+    <variety_name>bernardinus</variety_name>
+    <variety_authority>(Greene) Jepson</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>leucodermis</species_name>
+    <variety_name>trinitatis</variety_name>
+    <variety_authority>A. Berger</variety_authority>
+  </TaxonIdentification>
+  <description>Shrubs, 10--30 dm, moderately to densely armed. Leaves abaxially white-tomentose. Inflorescences (2--)3--10(--12)-flowered. Flowers: petals oblong to oblanceolate, 3--6(--8) mm. Fruits: drupelets (20--)30--60, pubescent. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering Apr--Aug.</text>
+    <phenology>apr</phenology>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+  </phenology_info>
+  <habitat>moist to dry, open, often rocky areas</habitat>
+  <habitat>shaded roadsides</habitat>
+  <habitat>sheltered openings</habitat>
+  <habitat>thickets</habitat>
+  <habitat>open forests</habitat>
+  <elevation>0--2700 m;</elevation>
+  <ca_distribution>B.C.</ca_distribution>
+  <us_distribution>Alaska</us_distribution>
+  <us_distribution>Ariz.</us_distribution>
+  <us_distribution>Calif.</us_distribution>
+  <us_distribution>Idaho</us_distribution>
+  <us_distribution>Mont.</us_distribution>
+  <us_distribution>Nev.</us_distribution>
+  <us_distribution>N.Mex.</us_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <us_distribution>Utah</us_distribution>
+  <us_distribution>Wash</us_distribution>
+  <global_distribution>Mexico (Chihuahua).</global_distribution>
+</treatment>
+

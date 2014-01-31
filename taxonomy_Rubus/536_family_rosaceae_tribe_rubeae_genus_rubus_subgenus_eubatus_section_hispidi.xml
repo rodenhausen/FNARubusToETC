@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <section_name>hispidi</section_name>
+    <section_authority>rydb.</section_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section hispidi;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(see p. 823)</other_name>
+  <key>
+    <key_heading>Key 35</key_heading>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Leaves of primocane coriaceous and lustrous (when fresh), dark green or purple-or bronze-tinged, evergreen, or nearly so (at least strongly marcescent).</statement>
+      <next_statement_id>14</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>14</statement_id>
+      <statement>Primocanes soon closely prostrate, 1-5 mm. in diameter, covered by few (or no) to very numerous slender bristles and glands; primocane-leaflets 3 (rarely 5), not prickly beneath; terminal leaflet obovate to rhombic-ovate, blunt-toothed; axis of inflorescence without long bristles; wide-ranging continental species</statement>
+      <determination>60. R. hispidus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>14</statement_id>
+      <statement>Primocanes arching, soon depressed and vigorously forking, stout, covered with very many hard subulate prickles 3-4.5 mm. long, as well as some glands and bristles; primocane-leaflets with hooked prickles on midrib beneath, 3 or 5; terminal leaflet obovate, elliptic or ovate, sharper-toothed; axis of inflorescence and pedicels prickly; northeastern coastwise species</statement>
+      <determination>95. R. arcuans.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Leaves of primocanes membranaceous to subcoriaceous, opaque or nearly so, dark to pale green, sharply toothed or dentate2.</statement>
+      <next_statement_id>2</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Leaflets of upper floricane-leaves broadly rounded or obtuse at apex3.</statement>
+      <next_statement_id>3</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Primocane-leaflets blunt or merely abruptly short-pointed4.</statement>
+      <next_statement_id>4</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Inflorescence a corymb or irregular cyme borne well above the leaves of the flowering shoots; leaflets sharp-serrate5.</statement>
+      <next_statement_id>5</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>5</statement_id>
+      <statement>Pedicels glandless.</statement>
+      <next_statement_id>15</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>15</statement_id>
+      <statement>Primocane-leaflets mostly 5; southeastern.</statement>
+      <next_statement_id>16</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>16</statement_id>
+      <statement>Leaves submembranaceous, glabrous or promptly glabrate on both surfaces; primocanes with some stipitate glands among the longer bristles and prickles</statement>
+      <determination>61. R. vigil.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>16</statement_id>
+      <statement>Leaves subcoriaceous, permanently pilose on both surfaces; primocanes glandless</statement>
+      <determination>62. R.  ambigens.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>15</statement_id>
+      <statement>Primocane-leaflets mostly 3; canes and pedicels glandless; mid-western</statement>
+      <determination>63. R. kalamazoensis.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>5</statement_id>
+      <statement>Pedicels copiously glandular; primocane-leaflets 3 or 5; northern</statement>
+      <determination>64. R. Rowleei.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Inflorescence a leafy-bracted interrupted raceme, its strongly glandular and bristly pedicels overtopped by the 3-foliolate and simple bracteal leaves; leaflets dentate; “West Virginian</statement>
+      <determination>65. R.  vagulus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Primocane-leaflets tapering to acute or acuminate tip.</statement>
+      <next_statement_id>16</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>16</statement_id>
+      <statement>Primocane-leaves 3-foliolate, pubescent beneath, merely acute, 2-3.5 cm. long, broadly ovate; most pedicels subtended by attenuate bracts barely 1 mm. broad; West Virginian</statement>
+      <determination>66. R.  vegrandis.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>16</statement_id>
+      <statement>Primo cane-leaves 3-or 5-foliolate; leaflets glabrous, long-acuminate, mostly 5.5-8 cm. long, ovate-lanceolate or narrowly obovate; most pedicels subtended by elliptic or oblong bracts 2-5 mm. broad; species of Vt</statement>
+      <determination>67. R. cubitans.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Leaflets of upper floricane-leaves gradually tapering to acute or acutish tips6.</statement>
+      <next_statement_id>6</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>6</statement_id>
+      <statement>Primocane-leaflets abruptly short-tipped7.</statement>
+      <next_statement_id>7</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>7</statement_id>
+      <statement>Terminal leaflet of 3-foliolate bracteal leaves about half as broad as long.</statement>
+      <next_statement_id>17</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>17</statement_id>
+      <statement>Leaves glabrous beneath except along nerves, subcoriaceous; northeastern</statement>
+      <determination>68. R. trifrons.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>17</statement_id>
+      <statement>Leaves pubescent beneath, membranaceous; mid-western.</statement>
+      <next_statement_id>18</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>18</statement_id>
+      <statement>Primocane-leaflets gradually rounded or tapering at base, sharply double-serrate; canes and petioles essentially glandless</statement>
+      <determination>69. R. plus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>18</statement_id>
+      <statement>Primocane-leaflets cordate or subcordate, blunt-serrate; canes and petioles copiously stipitate-glandular</statement>
+      <determination>70. R. distinctus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>7</statement_id>
+      <statement>Terminal leaflet of 3-foliolate bracteal leaves nearly as broad as long, firm.</statement>
+      <next_statement_id>19</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>19</statement_id>
+      <statement>Canes glandless; primocane-leaflets 5 (or 3); plant of n. Wisc</statement>
+      <determination>71. R. Fassettii.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>19</statement_id>
+      <statement>Canes copiously stipitate-glandular; primocane leaflets 3; plant of montane W. Va</statement>
+      <determination>72. R. Huttonii.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>6</statement_id>
+      <statement>Primocane-leaflets gradually tapering to acute or acuminate tips8.</statement>
+      <next_statement_id>8</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>8</statement_id>
+      <statement>Leaves glabrous or merely pilose on nerves beneath9.</statement>
+      <next_statement_id>9</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>9</statement_id>
+      <statement>Leaflets jagged or lacerate-toothed, with many sinuses 3-5 mm. deep; ribs deeply impressed above; calyx glandular; local in se. Vt</statement>
+      <determination>73. R. Blanchardianus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>9</statement_id>
+      <statement>Leaflets regularly serrate, double-serrate or serrate-dentate, the sinuses mostly 1-3 mm. deep10.</statement>
+      <next_statement_id>10</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>10</statement_id>
+      <statement>Canes remotely prickly or bristly, the surface of the cane clearly evident between the bristles; petioles smooth to sparsely prickly11.</statement>
+      <next_statement_id>11</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>11</statement_id>
+      <statement>Terminal primocane-leaflet merely acute, not long-acuminate; leaflets usually only 3; plant of n. Mich</statement>
+      <determination>74. R. compos.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>11</statement_id>
+      <statement>Terminal primocane-leaflet acuminate or caudate-tipped.</statement>
+      <next_statement_id>20</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>20</statement_id>
+      <statement>Primocane glandless or only exceptionally gland-bearing, from, nearly prickleless to prickly, the coarsest prickles merely subulate-setiform</statement>
+      <determination>75. R. tardatus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>20</statement_id>
+      <statement>Primocane copiously glandular.</statement>
+      <next_statement_id>21</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>21</statement_id>
+      <statement>Canes (especially primocanes) merely bristly and glandular, 2.5-3.5 mm. in diameter; leaves pale green, thin, dull, with deeply impressed ribs</statement>
+      <determination>76. R. jacens.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>21</statement_id>
+      <statement>Canes with many broadish-based hard subulate-conic prickles, stout, 3-7 mm. thick; leaves dark green, glossy, the ribs not impressed</statement>
+      <determination>77. R. biformispinus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>10</statement_id>
+      <statement>Canes very densely hirsute or bristly, the surface obscured; petioles of primo cane-leaves densely clothed12.</statement>
+      <next_statement_id>12</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>12</statement_id>
+      <statement>Primocane-leaves 5 (sometimes 3)-foliolate; pedicels copiously setiferous; northeastern.</statement>
+      <next_statement_id>22</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>22</statement_id>
+      <statement>Leaflets of both primocane and floricane only one-half to one-third as broad as long, caudate-tipped; inflorescence a slender raceme, its lower foliaceous bracts all simple</statement>
+      <determination>78. R. Parlinii.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>22</statement_id>
+      <statement>Leaflets broader, rarely less than half as broad as long, acute or acuminate, scarcely caudate; inflorescence a simple to much-branched corymb with lower bracts 3-foliolate</statement>
+      <determination>91. R.  adjacens.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>12</statement_id>
+      <statement>Primocane-leaves 3-foliolate; West Virginian.</statement>
+      <next_statement_id>23</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>23</statement_id>
+      <statement>Canes slender, about 2 mm. thick; petioles glandless; axis of inflorescence and pedicels with remote short prickles</statement>
+      <determination>79. R. Davisiorum.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>23</statement_id>
+      <statement>Canes stout, 7-8 mm. thick; petioles glandular; axis of inflorescence and pedicels copiously long-bristly</statement>
+      <determination>80. R.  zaplutus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>8</statement_id>
+      <statement>Leaves soft-pubescent or velvety to touch beneath13.</statement>
+      <next_statement_id>13</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>13</statement_id>
+      <statement>Canes copiously glandular amongst the bristles.</statement>
+      <next_statement_id>24</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>24</statement_id>
+      <statement>Petiolule of terminal primocane-leaflet only 4 or 5 mm. long; rachis of inflorescence and pedicels with long spicules; plant of ne. N. Y</statement>
+      <determination>81. R. paganus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>24</statement_id>
+      <statement>Petiolule of terminal primocane-leaflet 1.5-3.3 cm. long; rachis of inflorescence minutely stipitate-glandular or short-setulose.</statement>
+      <next_statement_id>25</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>25</statement_id>
+      <statement>Terminal primocane-leaflet on a petiolule 2-3.3 cm. long, the median petiolules (of 5-foliolate leaves) 0.6-2 cm. long; longer leaflets of flowering shoots 5-7 cm. long; plant of se. Mass</statement>
+      <determination>85. R. laevior.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>25</statement_id>
+      <statement>Terminal primocane-leaflet on a petiolule 1.5-2 cm. long, the median petiolule (of 5-foliolate leaves) 6-8 mm. long; longer leaflets of flowering shoots 3-4 cm. long; plant of centr, N. Y. 82. R. furtivus.</statement>
+      <next_statement_id>13</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>13</statement_id>
+      <statement>Canes glandless; petiolule of terminal primocane-leaflet 1 cm. long; pedicels minutely glandular; plant of interior N. B</statement>
+      <determination>83. R. emeritus.</determination>
+    </key_statement>
+  </key>
+</treatment>
+

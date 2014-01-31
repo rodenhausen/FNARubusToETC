@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>biformispinus</species_name>
+    <species_authority>blanch,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section hispidi;species biformispinus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(with two forms of prickles)</other_name>
+  <number>77</number>
+  <description>Coarse trailer; primocanes up to 3 m. long, 3-7 mm. thick, nearly terete, with 40-150 stout subulate-conic prickles per dm. mixed with more slender prickles and glandless and glandular fine bristles and hairs; primocane-leaves dark green, subcoriaceous, glabrous or with veins beneath sparsely pilose, 5-foliolate, the petioles glandular and prickly; primocane-leaflets ovate to oblong-obovate, taper-pointed, closely sharp-serrate; the terminal one 7-11 cm. long, on a petiolule 1.5-3 cm. long; leaflets of floricanes much smaller and narrower, merely acute to bluntish; inflorescence racemose or racemose-corymbiform, with axes 4-15 cm. long, leafy-bracted only at base; pedicels loosely ascending or spreading, pilose and often glandular-hispid, 0.5-4 cm. long, mostly subtended by oblong or lance-elliptic bracts; calyx sparsely pubescent or glabrescent on back, glandless or sparingly glandular; petals 4-6 mm. broad. (Incl. R. particeps Bailey)</description>
+  <habitat_elevation_distribution_or_ecology>Rocky or sandy clearings, pastures or borders of woods, Que. to N.Y., s. to N.S., s. N.E. and ne. Pa. Fl. June, July; fr. July-Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

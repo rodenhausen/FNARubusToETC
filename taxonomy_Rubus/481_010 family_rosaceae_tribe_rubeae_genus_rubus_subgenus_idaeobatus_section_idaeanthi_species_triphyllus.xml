@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>triphyllus</species_name>
+    <species_authority>thunb.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus idaeobatus;section idaeanthi;species triphyllus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(three-leaved),</other_name>
+  <number>010</number>
+  <description>with procumbent canes pilose when young, pinnate ternate leaves, long-stalked rhombic-rotund terminal leaflet and purple incumbent petals,</description>
+  <habitat_elevation_distribution_or_ecology>has appeared in vacant lots in Boston, Mass. (Adv. from Japan)</habitat_elevation_distribution_or_ecology>
+</treatment>
+

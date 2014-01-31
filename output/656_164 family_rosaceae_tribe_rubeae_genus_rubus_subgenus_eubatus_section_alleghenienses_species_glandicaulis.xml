@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>glandicaulis</species_name>
+    <species_authority>blanch,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section alleghenienses;species glandicaulis;</taxon_hierarchy>
+  </taxon_identification>
+  <number>164</number>
+  <description type="morphology">High arching (or through weight of snow low-arching to depressed), up to 2 m. high; primocanes coarse, angled, with acicular or slenderly subulate prickles mixed with stipitate glands; primocane-leaves with glabrous to sparsely pilose and glandular petioles and petiolules; leaflets acuminate, thinly pilose beneath, glabrous or glabrescent above, the principal veins beneath appressed-pilose or glabrescent, the terminal leaflet ovate or oval and cordate or broadly rounded at base; inflorescences racemose-corymbose, the lower pedicels often becoming forked elongate branches, the bracteal leaves or leaflets acute or acuminate; rachis and pedicels unarmed or with few setae; calyx-lobes lanceolate, often prolonged; petals oblanceolate to oblong-obovate, 0.8-1.5 cm. long, 5-8 mm. broad; fruit subglobose to subcylindric, 0.8-1.5 cm. long, of good quality. (Incl. R. frondisentis sensu Brain. &amp; Peitersen, not Blanch.; R. montpelierensis Blanch.; R. acadiensis Bailey)</description>
+</treatment>
+

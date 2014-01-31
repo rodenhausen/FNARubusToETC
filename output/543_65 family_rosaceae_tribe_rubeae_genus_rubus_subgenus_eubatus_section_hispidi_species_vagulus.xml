@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>vagulus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section hispidi;species vagulus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>65</number>
+  <description type="morphology">Differing from nos. 61 and 62 in more abundant glands on the primocane and the flowering shoots; primocane-leaflets 3, glabrous; the terminal leaflet broadly elliptic-obovate, with short bluntish tip, coarsely dentate; 3-foliolate floricane-leaves with subacute elliptic leaflets, the upper bracteal leaves simple and equaling the very bristly and glandular suberect pedicels of the almost virgate leafy raceme; fruit very small.</description>
+</treatment>
+

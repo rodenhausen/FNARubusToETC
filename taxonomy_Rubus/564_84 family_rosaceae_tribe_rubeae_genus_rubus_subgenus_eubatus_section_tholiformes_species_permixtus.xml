@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>permixtus</species_name>
+    <species_authority>blanch.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species permixtus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(confused)</other_name>
+  <number>84</number>
+  <description>Arching, up to 7 dm. high, the canes then recurving and tip-rooting or trailing; primocanes densely covered with soft purple plush-like hairs, mixed with stipitate glands and relatively few slender prickles (1000-5000 hairs, bristles and prickles per dm. on young growth); primocane-leaflets pale and soft-pubescent (almost velvety) beneath, rhombic-ovate to obovate, abruptly short-pointed; the terminal leaflet 2.5-6.5 cm. long, two-thirds to nine-tenths as broad, on heavily glandular petiolules only 0.7-2 cm. long; floricanes more depressed; their leaflets narrowly ovate to obovate, sharply double-serrate, 1.5-5.5 cm. long; inflorescence racemose, the rachis heavily glandular; bracts mostly elliptic to lanceolate or ovate, often lobed or cleft; pedicels spreading-ascending, mostly 0.5-2.5 cm. long, villous-tomentose, more or less setose and glandular; calyx villous and glandular; petals oblong-spatulate, 7-10 mm, long, about 4 mm. broad; fruit about 1 cm. in diameter.</description>
+  <habitat_elevation_distribution_or_ecology>Thickets and openings, sw. Me. to centr. N.Y. Fl. June, early July; fr. Aug., Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>adenocaulis</species_name>
+    <species_authority>fern,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species adenocaulis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(glandular-stemmed)</other_name>
+  <number>88</number>
+  <description>Arching and forming intricate domes, with the canes and their recurving branches reaching the ground, then trailing and tip-rooting, up to 2 m. long; primocanes 5-8 mm, in diameter, very densely glandular, with crowded or fascicled stipitate glands and fewer straight broad-based slender prickles; primocane-foliage firm, softpilose beneath, on glandular and prickly petioles 4-12 cm. long; leaflets oval or ovate to oval-obovate, acuminate; the terminal one subcordate, 5-9 cm. long, 3.5-8.5 cm. broad, on glandular and prickly petiolule 2-4 cm. long; leaflets of floricane-foliage narrowly oval, acuminate; elongate raceme with rachis, pedicels and calyces densely villous-tomentose, the rachis strongly armed; upper bracts entire or subentire; pedicels subascending, 1-2(-3) cm. long; calyx-lobes 4-6 mm. long; petals elliptic-obovate, 1-1.4 cm. long, 5-10 mm. broad; fruit globose-ovoid, 1.5-2 cm. long.</description>
+  <habitat_elevation_distribution_or_ecology>Rocky or peaty openings and borders of spruce-woods, sw. N.S. Fl. July; fr. Aug., Sept.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

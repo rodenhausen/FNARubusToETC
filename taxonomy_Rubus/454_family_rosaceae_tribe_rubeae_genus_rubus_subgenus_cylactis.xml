@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <subgenus_name>cylactis</subgenus_name>
+    <subgenus_authority>(raf.) focke dwarf raspberry.</subgenus_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus cylactis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>plumboy</other_name>
+  <key>
+    <key_heading>Key 28</key_heading>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Central leaflet broadly ovate or ovate-rhombic, tapering about equally to acute apex and base, mostly becoming 2.5-10 cm. long; flowers 1-7; vegetative branches sometimes prolonged to flagelliform rooting tips and forming filiform subligneous old stems.</statement>
+      <next_statement_id>2</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Leaves membranaceous, opaque; calyx-lobes 3-7 (rarely -10) mm. long; petals white or pale pink, 6-10 mm. long, 1.5-3 mm. broad; vegetative shoots usually much prolonged into flagelliform tips</statement>
+      <determination>2. R. pubescens.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Leaves subcoriaceous, sublustrous above; calyx-lobes 7-12 mm. long; petals roseate, 1-1.7 cm. long, 3-7 mm. broad; vegetative shoots short, rarely prolonged</statement>
+      <determination>3. R.  arctious.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Central leaflet cuneate-obovate, broadly rounded at summit, subcoriaceous, lustrous, the mature ones 1-3.5 cm. long; flowers solitary, as in no. 3 or larger; vegetative shoots very short</statement>
+      <determination>4. R. acaulis.</determination>
+    </key_statement>
+  </key>
+  <description />
+</treatment>
+

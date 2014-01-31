@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>cathartium</species_name>
+    <species_authority>fern,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species cathartium;</taxon_hierarchy>
+  </taxon_identification>
+  <number>102</number>
+  <description type="morphology">Differing from no. 101 in its longer and more flexible primocanes with obliquely deltoid-subulate recurved or unguiculate hard prickles 3-6 mm. broad at base; primocane-leaves mostly 5-foliolate, the leaflets slenderly sharp-serrate, the terminal leaflet rounded at base, the petiolule 1.5-3 cm. long; floricanes subsimple and more rigid; petiole of floricane-leaves, pedicels (2-4 cm. long) and calyces glandular.</description>
+</treatment>
+

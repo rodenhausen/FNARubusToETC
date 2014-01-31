@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>michiganensis</species_name>
+    <species_authority>(card) bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species michiganensis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(of michigan)</other_name>
+  <number>50</number>
+  <description>Canes with very few setiform prickles(0-20 per dm.); leaflets soft-pilose beneath, jagged- or incised-serrate with lance-attenuate teeth often 4-8 mm. long and narrow acute sinuses, the tips attenuate-acuminate; flowering shoot villous; corymb leafy, the simple oval upper bracts exceeding the arched-ascending villous and often setulose rather long (2-4.5 cm.) pedicels; globular fruit up to 1.5 cm. in diameter, of good quality.</description>
+  <habitat_elevation_distribution_or_ecology>Sands and other light soils, s. Mich., n. Ind. and s. Wisc.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

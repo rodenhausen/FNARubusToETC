@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>17b.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>leucodermis</species_name>
+    <species_authority>Douglas ex Torrey &amp; A. Gray</species_authority>
+    <variety_name>nigerrimus</variety_name>
+    <variety_authority>(Greene) H. St. John</variety_authority>
+    <place_of_publication>
+      <publication_title>Fl. S.E. Washington,</publication_title>
+      <place_in_publication>213. 1937</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species leucodermis;variety nigerrimus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Dark or northwest raspberry CE</other_info>
+  <TaxonIdentification Status="BASIONYM">
+    <genus_name>Melanobatus</genus_name>
+    <species_name>nigerrimus</species_name>
+    <species_authority>Greene</species_authority>
+    <place_of_publication>
+      <publication_title>Leafl. Bot. Observ. Crit.</publication_title>
+      <place_in_publication>1: 244. 1906,</place_in_publication>
+      <other_info>based on Rubus hesperius Piper, Erythea 5: 103. 1897, not Rogers 1896</other_info>
+    </place_of_publication>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>nigerrimus</species_name>
+    <species_authority>(Greene) Rydberg</species_authority>
+  </TaxonIdentification>
+  <description>Shrubs, 10--20 dm, densely armed. Leaves abaxially glabrous, rarely sparsely hairy. Inflorescences 1--5-flowered. Flowers: petals oblong, 4--7 mm. Fruits: drupelets 20--40, glabrous, rarely puberulent.</description>
+  <phenology_info>
+    <text>Flowering Apr--Aug.</text>
+    <phenology>apr</phenology>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+  </phenology_info>
+  <habitat>moist to dry shrubby thickets and open forests in canyons</habitat>
+  <conservation>of conservation concern;</conservation>
+  <elevation>200--700 m;</elevation>
+  <us_distribution>Wash.</us_distribution>
+  <discussion>Variety nigerrimus can be distinguished from the typical variety by its essentially glabrous foliage. This variety is endemic to southeastern Washington near the Snake River in Garfield and Whitman counties. M. E. Peck (1941) reported it (as R. hesperius) from Oregon; no collections from there have been seen as part of this review. The taxonomic status of this variant remains questionable as characters such as pubescence are not discrete and may reflect the effect of environment.</discussion>
+</treatment>
+

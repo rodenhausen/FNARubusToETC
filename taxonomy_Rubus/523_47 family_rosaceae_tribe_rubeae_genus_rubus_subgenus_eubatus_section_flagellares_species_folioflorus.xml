@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>folioflorus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species folioflorus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(with leaves and flowers)</other_name>
+  <number>47</number>
+  <description>Strongly suggesting no. 44 but with primocane-leaflets more gradually attenuate to the acumination, their margins less lobulate and teeth more numerous; terminal leaflet deeply cordate, round-ovate, lateral leaflets as broad as long; bracteal leaves greatly overtopping the short (up to 2 cm. long) pedicels.</description>
+  <habitat_elevation_distribution_or_ecology>Dry sand or gravel, se. Minn.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

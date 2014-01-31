@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>dissensus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section setosi;species dissensus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>133</number>
+  <description type="morphology">Erect or arching, the hard canes with stiff subulate prickles up to 6 mm. long; petioles of primocane-leaves very prickly; leaves dull green, glabrous above, soft-pubescent beneath; the terminal leaflet elliptic-ovate, short-acuminate; axis and suberect pedicels of corymb strongly armed with setae 2-3 mm. long, the lower pedicels up to 6 cm. or more long; lower bracteal leaves dilated, trifoliolate or simple; calyx-lobes 3-5 mm. long; petals 7-9 mm. long, 2-4 mm. broad.</description>
+</treatment>
+

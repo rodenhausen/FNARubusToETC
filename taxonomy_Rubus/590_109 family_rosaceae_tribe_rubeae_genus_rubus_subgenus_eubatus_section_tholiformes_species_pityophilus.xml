@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>pityophilus</species_name>
+    <species_authority>s. j.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species pityophilus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>smith (lover of pines)</other_name>
+  <number>109</number>
+  <description>Arched-ascending to 5 dm. or more high; primocanes stout, the stronger parts up to 1 cm. thick, with scattered straightish lance-subulate prickles; primocane-leaflets 5; the ovate, subcordate and acuminate terminal one three-fifths to two-thirds as broad as long (5-7 cm. wide); leaflets and simple bracts of flowering shoot sharply serrate, acuminate; inflorescence racemose-corymbose, the lower flowers greatly exceeded by the bracts; longer pedicels 2-2.5 cm. long; calyx-lobes soon reflexed; petals obovate, about 1.5 cm. long and 1 cm. broad.</description>
+  <habitat_elevation_distribution_or_ecology>In pine-woods, s.-centr. N.Y.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

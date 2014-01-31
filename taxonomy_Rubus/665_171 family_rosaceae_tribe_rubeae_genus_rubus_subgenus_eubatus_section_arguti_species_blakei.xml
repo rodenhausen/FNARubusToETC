@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>blakei</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species blakei;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(for its discoverer, sidney fay blake, 1892-)</other_name>
+  <number>171</number>
+  <description>Similar to no. 170 but the narrow gradually acuminate primocane-leaflets only thinly pilose to glabrescent beneath; the corymbiform-racemose inflorescence with ascending pedicels; fruit subglobose to short-cylindric sour and insipid.</description>
+  <habitat_elevation_distribution_or_ecology>Dry or moist thickets, meadows and roadsides, Ga. to Ark., n. to Mass., Ill. and Mo. Fr. July, Aug.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

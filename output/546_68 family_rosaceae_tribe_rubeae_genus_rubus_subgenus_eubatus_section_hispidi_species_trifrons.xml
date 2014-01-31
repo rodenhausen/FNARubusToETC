@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>trifrons</species_name>
+    <species_authority>blanch,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section hispidi;species trifrons;</taxon_hierarchy>
+  </taxon_identification>
+  <number>68</number>
+  <description type="morphology">Resembling no. 60 but with thinner and more acute leaflets and sharp serration; primocane trailing or low-arching in maturity, relatively stout, with 100-500 recurving setae or subulate prickles per dm.; primocane-leaflets subcoriaceous, dark green, opaque, with 3 or 5 broadly ovate to obovate sharp-tipped glabrous leaflets one-half to four-fifths as broad as long, their veins not prominent, petioles strongly bristly, terminal leaflet 3-8 cm. long; floricane-leaflets smaller, mostly acute, sharply toothed; inflorescence much as in no. 60, pedicels and calyx sparsely if at all glandular-hispid; calyx-lobes 3.5-5 mm. long; petals 5-9 mm. long, 2.5-4 mm. broad; fruit of poor quality. (Incl. R. alter Bailey and R. harmonicus Bailey)</description>
+</treatment>
+

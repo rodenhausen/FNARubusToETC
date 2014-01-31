@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>longii</species_name>
+    <species_authority>fern,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section cuneifolii;species longii;</taxon_hierarchy>
+  </taxon_identification>
+  <number>146</number>
+  <description type="morphology">Mostly taller or more arching to diffuse than no. 146; primocanes often brandling, up to 1.8 m. long, occasionally tip-rooting; longer prickles 6-9 mm. long; primocane-leaves mostly 3-foliolate, copiously strigose-pilose above when young, loosely cinereous-tomentulose beneath; the leaflets elliptic, ovate or elliptic-obovate, acuminate, membranaceous, scarcely furrowed above, coarsely dentate, the divergent broad teeth with a triangular callous tip; terminal leaflet 3-5-8.5 cm. long, 2.5-5.5 cm. broad; upper bracts of inflorescence often simple, broad, dentate, 1.5-7 cm. long; fruit rich and juicy. (Incl. R. pascuus and R. acer Bailey; R. uliginosus Fern.)</description>
+</treatment>
+

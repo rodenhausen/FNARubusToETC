@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>29.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>pubescens</species_name>
+    <species_authority>Rafinesque</species_authority>
+    <place_of_publication>
+      <publication_title>Med. Repos., hexade</publication_title>
+      <place_in_publication>3, 2: 333. 1811</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species pubescens;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Dwarf red blackberry or raspberry or red raspberry , ronce pubescente EF</other_info>
+  <TaxonIdentification Status="BASIONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>saxatilis</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <variety_name>canadensis</variety_name>
+    <variety_authority>Michaux</variety_authority>
+    <place_of_publication>
+      <publication_title>Fl. Bor.-Amer.</publication_title>
+      <place_in_publication>1: 298. l803</place_in_publication>
+    </place_of_publication>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>pubescens</species_name>
+    <variety_name>pilosifolius</variety_name>
+    <variety_authority>A. F. Hill</variety_authority>
+  </TaxonIdentification>
+  <description>Herbs, 0.1--0.4 dm, unarmed. Stems creeping, &lt;flowering branches erect&gt;, glabrous or sparsely to moderately hairy, eglandular, not pruinose. Leaves deciduous, usually ternate, sometimes pedately 5-foliate; stipules lance-ovate to oblanceolate, (5--)8--12(--20) mm; leaflets 3(--5), &lt;petiolule of terminal leaflet 2--7 mm&gt;, terminal rhombic to obovate, (2--)4--8(--10) x 2--4(--6) cm, base cuneate, unlobed or 2-lobed, margins deeply serrate to doubly serrate, apex acute or acuminate, abaxial surfaces glabrous or sparsely hairy, eglandular. Inflorescences 1--3-flowered, sometimes umbelliform. Pedicels moderately to densely long-hairy, eglandular to densely stipitate-glandular. Flowers bisexual; petals white to pink, oblanceolate to obovate, (4--)6--8(--10) mm; filaments laminar; ovaries glabrous, &lt;styles glabrous&gt;. Fruits red, globose to conical, 0.5--1.4 cm diam., drupelets (5--)10--25, loosely coherent, falling separately or as a unit with torus attached. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering May--Jul.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+  </phenology_info>
+  <habitat>swamps</habitat>
+  <habitat>bogs</habitat>
+  <habitat>fens</habitat>
+  <habitat>stream banks</habitat>
+  <habitat>moist woods</habitat>
+  <habitat>bluffs</habitat>
+  <habitat>gravel sites</habitat>
+  <habitat>sandy soils</habitat>
+  <elevation>0--2200 m;</elevation>
+  <global_distribution>St. Pierre and Miquelon</global_distribution>
+  <ca_distribution>Alta.</ca_distribution>
+  <ca_distribution>B.C.</ca_distribution>
+  <ca_distribution>Man.</ca_distribution>
+  <ca_distribution>N.B.</ca_distribution>
+  <ca_distribution>Nfld. and Labr.</ca_distribution>
+  <ca_distribution>N.W.T.</ca_distribution>
+  <ca_distribution>N.S.</ca_distribution>
+  <ca_distribution>Ont.</ca_distribution>
+  <ca_distribution>P.E.I.</ca_distribution>
+  <ca_distribution>Que.</ca_distribution>
+  <ca_distribution>Sask.</ca_distribution>
+  <ca_distribution>Yukon</ca_distribution>
+  <us_distribution>Alaska</us_distribution>
+  <us_distribution>Colo.</us_distribution>
+  <us_distribution>Conn.</us_distribution>
+  <us_distribution>Idaho</us_distribution>
+  <us_distribution>Ill.</us_distribution>
+  <us_distribution>Ind.</us_distribution>
+  <us_distribution>Iowa</us_distribution>
+  <us_distribution>Maine</us_distribution>
+  <us_distribution>Mass.</us_distribution>
+  <us_distribution>Mich.</us_distribution>
+  <us_distribution>Minn.</us_distribution>
+  <us_distribution>Mont.</us_distribution>
+  <us_distribution>Nebr.</us_distribution>
+  <us_distribution>N.H.</us_distribution>
+  <us_distribution>N.J.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <us_distribution>N.Dak.</us_distribution>
+  <us_distribution>Ohio</us_distribution>
+  <us_distribution>Pa.</us_distribution>
+  <us_distribution>R.I.</us_distribution>
+  <us_distribution>S.Dak.</us_distribution>
+  <us_distribution>Vt.</us_distribution>
+  <us_distribution>Wash.</us_distribution>
+  <us_distribution>W.Va.</us_distribution>
+  <us_distribution>Wis.</us_distribution>
+  <us_distribution>Wyo.</us_distribution>
+  <discussion>Rubus pubescens is recognized by its creeping, unarmed stems, oblanceolate to lance-ovate stipules, relatively small flowers, and white to pink petals. It hybridizes with R. arcticus subsp. acaulis in areas of sympatry, and the hybrids are referable to R. x\paracaulis L. H. Bailey. The hybrids are similar to R. arcticus subsp. acaulis in having more obovate, rounded leaflets, and larger, pink to magenta petals; they are larger, creeping, and have hairy and stipitate-glandular pedicels and sepals like R. pubescens.</discussion>
+</treatment>
+

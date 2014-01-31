@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>tardatus</species_name>
+    <species_authority>blanch,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section hispidi;species tardatus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>75</number>
+  <description type="morphology">Low-arching and trailing, forming extensive implicated carpets; primocanes 2-6 mm. thick, from nearly prickleless to prickly with 1 or 2-180 acicular prickles (1-4 mm. long) per dm., mostly glandless; primocane-leaves mostly 5-foliolate, deep green, submembranaceous, glabrous, with smooth to sparsely prickly petioles, acuminate to caudate-tipped, elliptic-oblong to rhombic-obovate, double-serrate; the terminal one 4-11 cm. long, its petiolule 0.5-2.5 cm. long; floricane-leaves relatively large; corymb simple to very compound, the lower glandular pedicels 1.5-5 cm. long; calyx glandular; petals relatively large, 10-12 mm. long, 3-6 mm. broad. (Incl. R. rixosus Bailey, the plants with caudate-tipped primocane-leaflets; and R. Weatherbyi Bailey, the almost prickleless plants).</description>
+</treatment>
+

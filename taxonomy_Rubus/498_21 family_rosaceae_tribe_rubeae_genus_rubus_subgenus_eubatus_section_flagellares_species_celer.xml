@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>celer</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species celer;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(swift; from its rapid growth)</other_name>
+  <number>21</number>
+  <description>Trailer, differing from nos. 19 and 20in its more slender (3-4 mm. thick) greenish canes with few short subulate prickles; leaves coriaceous, gray-green, blunt-dentate; those of flowering branchlets narrowly obovate, bluntish, the terminal one or the simple bract only 2-4. cm. long; corymbs (1-)2-6-flowered, the longer erect spreading-villous nearly prickleless pedicels 2.5-4 cm. long; petals about 1 cm. long, 5 or 6 mm. wide.</description>
+  <discussion>Perhaps better placed in the prevailingly 1-flowered series under 2nd "b".</discussion>
+  <habitat_elevation_distribution_or_ecology>Dry open soil, Md., D.C. and Va. Fl. late April, early May; fr. late May, June.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>ambigens</species_name>
+    <species_authority>fern,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section hispidi;species ambigens;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(doubtful)</other_name>
+  <number>62</number>
+  <description>Resembling no. 61; expanding foliage white-pilose beneath; primocanes glandless; their subcoriaceous and fulvous leaves 5-foliolate, pilose on both surfaces, the larger leaflets 6-7.5 cm. long.</description>
+  <habitat_elevation_distribution_or_ecology>Wet peaty savannas, pinelands and clearings, se. Va. Fl. late May, early June.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

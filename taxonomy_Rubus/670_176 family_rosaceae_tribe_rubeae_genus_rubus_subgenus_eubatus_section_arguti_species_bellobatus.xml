@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>bellobatus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section arguti;species bellobatus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(beautiful bramble), kittatinny blackberry</other_name>
+  <number>176</number>
+  <description>Differing from no. 175 in its lesser stature (up to 2 m. or more) and more slender canes; branches of canes long-arching nearly to ground; racemes with many foliaceous bracts; calyx-lobes promptly and strongly reflexed; fruit ellipsoid, distinctly longer than thick, 2-3 cm. long.</description>
+  <habitat_elevation_distribution_or_ecology>Thickets and borders of woods, sw. Que. to Mich., s. to Vt., N.Y. and nw. N.J.; cult. and locally spread elsewhere.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

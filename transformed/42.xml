@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>34.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>trivialis</species_name>
+    <species_authority>Michaux</species_authority>
+    <place_of_publication>
+      <publication_title>Fl. Bor.-Amer.</publication_title>
+      <place_in_publication>1: 296. 1803</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species trivialis;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Southern dewberry</other_info>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>agilis</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>continentalis</species_name>
+    <species_authority>(Focke) L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>duplaris</species_name>
+    <species_authority>Shinners</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>ictus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>lucidus</species_name>
+    <species_authority>Rydberg</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>macvaughii</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>mirus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>nessianus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>riograndis</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>rubrisetus</species_name>
+    <species_authority>Rydberg</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>sons</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>tallahasseanus</species_name>
+    <species_authority>L. H. Bailey</species_authority>
+  </TaxonIdentification>
+  <description>Shrubs, &lt;sometimes climbing higher through shrubs&gt;, 0.5--3(--7) dm, moderately to densely armed. Stems &lt;biennial&gt;, initially low-arching, then falling and creeping (or climbing through other vegetation), glabrous or moderately hairy, sparsely to densely short- to long-stipitate-glandular, not pruinose; prickles moderate to dense, recurved, sometimes distally slender, 1--4 mm, broad-based; &lt;bristles absent or sparse to dense, erect to retrorse, red to purple, rarely green, slender, weak, gland-tipped&gt;. Leaves persistent or semipersistent, ternate to palmately compound, &lt;lustrous&gt;; stipules filiform, linear, or lanceolate, 2--12(--15) mm; leaflets 3--5, terminal narrowly elliptic or ovate to obovate, 2--8.5 x 0.7--4.5 cm, base rounded to cuneate, unlobed, margins moderately to coarsely serrate to doubly serrate, apex acute to acuminate, abaxial surfaces with hooked prickles on midvein, glabrous or sparsely to moderately hairy, eglandular or sparsely short-stipitate-glandular along central vein. Inflorescences terminal &lt;on short shoots, usually appearing axillary&gt;, 1(--3)-flowered. Pedicels: prickles and, often, bristles moderate to dense, recurved, moderately to densely hairy, sparsely to moderately sessile- to short-stipitate-glandular. Flowers bisexual; petals white to pink, elliptic to obovate, 10--16(--25) mm; filaments filiform; ovaries glabrous. Fruits black, globose to ovoid, 1--1.5(--2) cm; drupelets 10--50, strongly coherent, separating with torus attached. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering Jan--Jun.</text>
+    <phenology>jan</phenology>
+    <phenology>feb</phenology>
+    <phenology>mar</phenology>
+    <phenology>apr</phenology>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+  </phenology_info>
+  <habitat>open woodlands</habitat>
+  <habitat>savannas</habitat>
+  <habitat>prairies</habitat>
+  <habitat>meadows</habitat>
+  <habitat>sand dunes</habitat>
+  <habitat>disturbed areas</habitat>
+  <habitat>dry to seasonally wet soils</habitat>
+  <elevation>0--200 m;</elevation>
+  <us_distribution>Ala.</us_distribution>
+  <us_distribution>Ark.</us_distribution>
+  <us_distribution>Fla.</us_distribution>
+  <us_distribution>Ga.</us_distribution>
+  <us_distribution>Ill.</us_distribution>
+  <us_distribution>Kans.</us_distribution>
+  <us_distribution>Ky.</us_distribution>
+  <us_distribution>La.</us_distribution>
+  <us_distribution>Miss.</us_distribution>
+  <us_distribution>Mo.</us_distribution>
+  <us_distribution>N.C.</us_distribution>
+  <us_distribution>Okla.</us_distribution>
+  <us_distribution>S.C.</us_distribution>
+  <us_distribution>Tenn.</us_distribution>
+  <us_distribution>Tex.</us_distribution>
+  <us_distribution>Va.</us_distribution>
+  <global_distribution>Mexico (Coahuila).</global_distribution>
+  <global_distribution>Mexico (Nuevo León).</global_distribution>
+  <global_distribution>Mexico (Tamaulipas).</global_distribution>
+  <discussion>Rubus trivialis is distinguished from other species of Rubus by its frequently glandular-bristly and generally creeping stems, abundant recurved prickles, and typically persistent or semipersistent, lustrous primocane leaves with relatively narrow leaflets. Although emerging primocanes typically reach to 30 cm above the ground, vigorous plants can have new primocanes standing erect to 70 cm that later fall to the ground or onto adjacent vegetation as they continue to enlarge. L. H. Bailey (1941--1945) believed that there was no clear separation between members of sect. Persistentes Fernald (referred to by Bailey as sect. Verotriviales [illegitimate sectional name for R. trivialis and associated species]) and sect. Procumbentes (Rydberg) L. H. Bailey [by Bailey as sect. Flagellares (L. H. Bailey) L. H. Bailey; including R. flagellaris and related species]. All characteristics that he recognized for distinguishing sect. Persistentes from sect. Procumbentes are often present in the latter, with the exception of hispid-setose stems, and glabrous plants of R. trivialis are difficult to distinguish from some plants of R. flagellaris; to include the latter species within the former would be reasonable.</discussion>
+  <discussion>Rubus x\inferior L. H. Bailey is a putative hybrid of R. trivialis and R. cuneifolius.</discussion>
+</treatment>
+

@@ -80,7 +80,7 @@
 	<xs:complexType name="processor">
 		<xs:sequence>
 			<xs:element name="date" type="xs:string" />
-			<xs:choice minOccurs="1">
+			<xs:choice minOccurs="1" maxOccurs="2">
 				<xs:element type="software" name="software" minOccurs="0" />
 				<xs:element name="operator" type="xs:string" minOccurs="0" />
 			</xs:choice>
@@ -167,6 +167,10 @@
 			<xs:element name="variety_name" type="xs:string"
 				minOccurs="0" />
 			<xs:element name="variety_authority" type="xs:string"
+				minOccurs="0" />
+			<xs:element name="forma_name" type="xs:string"
+				minOccurs="0" />
+			<xs:element name="forma_authority" type="xs:string"
 				minOccurs="0" />
 			<xs:element name="unranked_epithet_name" type="xs:string"
 				minOccurs="0" />

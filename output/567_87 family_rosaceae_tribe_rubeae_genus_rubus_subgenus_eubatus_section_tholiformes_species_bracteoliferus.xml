@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>bracteoliferus</species_name>
+    <species_authority>fern.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species bracteoliferus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>87</number>
+  <description type="morphology">Coarse, strongly arching or doming and tip-rooting; primocanes 6-10 mm. in diameter, with many hundreds of strong conic-subulate prickles, bristles and stalked glands per dm.; leaves velvety beneath, the 5 ovate double-serrate leaflets long-acuminate; terminal leaflet 1-1.2 dm. long, 7-8 cm. broad, cordate, on glandular and prickly petiolule 3.5-4.3 cm. long; floricane-foliage large, the ovate leaflets long-acuminate; raceme lax, the rachis 4-11 cm. long and only sparsely pilose but glandular and prickly; lower bracts resembling leaflets of foliage-leaves, upper bracts abruptly reduced; pedicels arcuate-ascending, 2 4 cm. long, glandular, the lower bearing 3-6 imbricated bracteoles; calyx short-pilose to glabrescent, its glandular-hispid lobes 7-10 mm. long; fruit subglobose, 1.5 cm. in diameter.</description>
+</treatment>
+

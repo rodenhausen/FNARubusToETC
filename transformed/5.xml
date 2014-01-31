@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>2b.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>arcticus</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <subspecies_name>acaulis</subspecies_name>
+    <subspecies_authority>(Michaux) Focke</subspecies_authority>
+    <place_of_publication>
+      <publication_title>Biblioth. Bot.</publication_title>
+      <place_in_publication>17(Heft 72): 24. 1910</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species arcticus;subspecies acaulis;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Dwarf raspberry , ronce acaule E</other_info>
+  <TaxonIdentification Status="BASIONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>acaulis</species_name>
+    <species_authority>Michaux</species_authority>
+    <place_of_publication>
+      <publication_title>Fl. Bor.-Amer.</publication_title>
+      <place_in_publication>1: 298. 1803</place_in_publication>
+    </place_of_publication>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>arcticus</species_name>
+    <variety_name>acaulis</variety_name>
+    <variety_authority>(Michaux) B. Boivin</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>arcticus</species_name>
+    <variety_name>grandiflorus</variety_name>
+    <variety_authority>Ledebour</variety_authority>
+  </TaxonIdentification>
+  <description>Plants 0.5--2 dm. Stems glabrous or hairy. Leaves usually ternate; petiole glabrous or hairy; central leaflets ovate to obovate, to 6 cm (lateral leaflets shorter), base cuneate, margins dentate to serrate (often doubly), apex usually rounded. Inflorescences: flowers solitary. Pedicels stipitate-glandular. Flowers: sepals caudate, glabrous or hairy, eglandular or glandular; petals pink to rose, oblanceolate to obovate, 15--25 mm, apex slightly to strongly emarginate. 2n = 14, 21.</description>
+  <phenology_info>
+    <text>Flowering May--Aug.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+  </phenology_info>
+  <habitat>muskegs</habitat>
+  <habitat>boggy woods</habitat>
+  <habitat>fens</habitat>
+  <habitat>bogs</habitat>
+  <habitat>swamps</habitat>
+  <habitat>thickets</habitat>
+  <habitat>moist tundra</habitat>
+  <elevation>0--3000 m;</elevation>
+  <global_distribution>St. Pierre and Miquelon</global_distribution>
+  <ca_distribution>Alta.</ca_distribution>
+  <ca_distribution>B.C.</ca_distribution>
+  <ca_distribution>Man.</ca_distribution>
+  <ca_distribution>Nfld. and Labr.</ca_distribution>
+  <ca_distribution>N.W.T.</ca_distribution>
+  <ca_distribution>Nunavut</ca_distribution>
+  <ca_distribution>Ont.</ca_distribution>
+  <ca_distribution>Que.</ca_distribution>
+  <ca_distribution>Sask.</ca_distribution>
+  <ca_distribution>Yukon</ca_distribution>
+  <us_distribution>Alaska</us_distribution>
+  <us_distribution>Colo.</us_distribution>
+  <us_distribution>Maine</us_distribution>
+  <us_distribution>Mich.</us_distribution>
+  <us_distribution>Minn.</us_distribution>
+  <us_distribution>Mont.</us_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <us_distribution>Wash.</us_distribution>
+  <us_distribution>Wyo.</us_distribution>
+  <discussion>Subspecies acaulis hybridizes with Rubus pubescens (R. x\paracaulis L. H. Bailey) in areas of sympatry.</discussion>
+</treatment>
+

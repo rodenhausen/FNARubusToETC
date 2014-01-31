@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>missouricus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species missouricus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(of missouri)</other_name>
+  <number>108</number>
+  <description>Doming to 1 m. high, in dense clumps; primocanes about 5 mm. thick, with scattered subulate barely curved prickles 4 or 5 mm. long; primocane-leaflets 5, narrowly elliptic-ovate, acuminate, serrate-dentate, the terminal one about half as broad as long; lower leaves of fertile shoots with obovate bluntish leaflets; bracteal leaf 3-foliolate, with narrowly oval acute leaflets; cyme as broad as long, loosely forking, with reduced bracts; petioles of floricane and pedicels (1-2.5 cm. long) mostly unarmed; calyx-lobes 7 mm. long, essentially glandless, ascending in fruit; petals 9 or 10 mm. long, 3-4 mm. broad; fruit nearly equaled by calyx.</description>
+  <habitat_elevation_distribution_or_ecology>Open habitats, w. Mo.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

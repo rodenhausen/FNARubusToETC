@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <section_name>alleghenienses</section_name>
+    <section_authority>bailey</section_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section alleghenienses;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(see p. 824)</other_name>
+  <key>
+    <key_heading>Key 38</key_heading>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Axis of primocane (except sometimes at expanding tip) without or essentially without stipitate glands on the internodes or among the prickles2.</statement>
+      <next_statement_id>2</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Primary inflorescences (not always those of lower shoots) cylindric and elongate racemes two to four times as long as thick (mostly 1-3 dm. long and 2.5-10 cm. thick)3.</statement>
+      <next_statement_id>3</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Primocanes with broad-based prickles mostly 3-10 mm, long (prickles wanting in one var. of no. 154); leaflets regularly and rather finely double-serrate; the terminal primocane-leaflet broadly to narrowly ovate, with cordate or broadly rounded base; calyx-lobes ovate or ovate-lanceolate.</statement>
+      <next_statement_id>10</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>10</statement_id>
+      <statement>Prickles of lower half of primocane distant (or wanting), not crowded, 2-4. mm. broad at base, narrowed to lance-subulate straight summits</statement>
+      <determination>154. R. allegheniensis.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>10</statement_id>
+      <statement>Prickles of lower half of primocane crowded, confluent or clustered, the larger ones 5-9 mm. broad at base and subdeltoid</statement>
+      <determination>155. R. pugnax.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Primocanes with slender acicular prickles 100-200 per dm.; primocane-leaflets coarsely and subsimply incised, lanceolate or lance-ovate and subcuneate or only slightly rounded at base; calyx-lobes lance-attenuate</statement>
+      <determination>156. R. flavinanus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Primary inflorescences racemose-subcorymbose, broadest or with flowers crowded at summit, mostly one-half as broad to essentially as broad as long4.</statement>
+      <next_statement_id>4</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Terminal primocane-leaflet narrowly oblong-or ovate-lanceolate, merely rounded to base, less than half as broad as long; expanded flower about 2 cm. or less across; fruit 8 or 9 mm. thick</statement>
+      <determination>157. R.  saltuensis.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Terminal primocane-leaflet broadly ovate, broadly rounded or cordate at base, three-fifths to four-fifths as broad as long; flower 2-4 cm. broad; fruit 1.5-2 cm. long5.</statement>
+      <next_statement_id>5</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>5</statement_id>
+      <statement>Leaflets of primocane with long-attenuate to caudate tips, the tip of the terminal leaflet 1.5-2.5 cm. long; flowers 3-4 cm, broad; wide-ranging</statement>
+      <determination>158. R. alumnus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>5</statement_id>
+      <statement>Leaflets of primocane merely acute or abruptly short-tipped, the narrow tip of the terminal leaflet only 4-10 mm. long.</statement>
+      <next_statement_id>11</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>11</statement_id>
+      <statement>Blades and leaflets of bracteal leaves acute; flowers standing well above the foliaceous bracts; primocane-leaflets 5; median primocane-leaflets half to three-fifths as broad as long, definitely petiolulate ; flowers about 2 cm. broad; plant of s. N.E</statement>
+      <determination>159. R. paulus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>11</statement_id>
+      <statement>Blades and leaflets of bracteal leaves obtuse, equaling or overtopping the upper flowers; primocane-leaflets 3, the broad paired ones sub-sessile; flowers 2-3 cm. broad; mid western</statement>
+      <determination>160. R.  attractus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Axis of primocane bearing several to very many long stipitate glands among the prickles6.</statement>
+      <next_statement_id>6</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>6</statement_id>
+      <statement>Inflorescence regularly flowering above the basal bracteal loaves7.</statement>
+      <next_statement_id>7</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>7</statement_id>
+      <statement>Inflorescence a regular elongate cylindric raceme, usually without basal forking8.</statement>
+      <next_statement_id>8</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>8</statement_id>
+      <statement>Prickles of primocane firm and strong, not mixed with glandless bristles; canes angled or corrugated.</statement>
+      <next_statement_id>12</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>12</statement_id>
+      <statement>Prickles subulate-acicular; terminal primocane-leaflet cordate; upper bracteal leaves with obtuse leaflets</statement>
+      <determination>161. R ravus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>12</statement_id>
+      <statement>Prickles with broad deltoid bases; terminal primocane-leaflet merely rounded at base; upper bracteal leaves sharply acute.162</statement>
+      <determination>R. nuperus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>8</statement_id>
+      <statement>Prickles acicular and bristleform, densely intermixed; leaflets of bracts acuminate; canes terete</statement>
+      <determination>163. R. reravus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>7</statement_id>
+      <statement>Inflorescence corymbiform, broadest toward summit, often forking below9.</statement>
+      <next_statement_id>9</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>9</statement_id>
+      <statement>Inflorescence essentially unarmed, at most with a rare weak and short spicule or two.</statement>
+      <next_statement_id>13</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>13</statement_id>
+      <statement>Leaflets sparsely pilose beneath, their principal veins (beneath) merely pilose to glabrescent, their petioles glabrous or only sparsely pilose and gland-bearing; leaflets of both primocane and floricane acuminate; wide-ranging northeastw</statement>
+      <determination>164. R. glandicaulis.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>13</statement_id>
+      <statement>Leaflets densely velutinous beneath, their principal veins and petioles densely spreading-villous and glandular; floricane-leaflets obtuse or bluntish; local in se. Vt</statement>
+      <determination>165.R. frondisentis,</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>9</statement_id>
+      <statement>Inflorescence armed with several to many hooked or straight prickles or elongate setae; leaflets acuminate.</statement>
+      <next_statement_id>14</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>14</statement_id>
+      <statement>Primocanes bearing acicular to slenderly subulate scattered prickles; petioles glabrous to but slightly pubescent, without or with few glands; leaflets sparingly pilose and with appressed-pilose to glabrous veins beneath; wide-ranging northeastw</statement>
+      <determination>164. R. glandicaulis.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>14</statement_id>
+      <statement>Primocane with crowded deltoid-subulate prickles 2-4 mm. broad at base; petioles heavily armed and copiously stipitate-glandular; leaflets densely velvety and with spreading-villous and coarsely prickly glandular midrib beneath; local in ne. N.H</statement>
+      <determination>166. R.  sceleratus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>6</statement_id>
+      <statement>Inflorescence of few axillary flowers much exceeded by foliaceous bracts and terminating in a tuft of simple leaves</statement>
+      <determination>167. R. inclinis.</determination>
+    </key_statement>
+  </key>
+</treatment>
+

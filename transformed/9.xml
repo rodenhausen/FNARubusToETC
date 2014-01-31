@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>5.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>caesius</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <place_of_publication>
+      <publication_title>Sp. Pl.</publication_title>
+      <place_in_publication>1: 493. 1753</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species caesius;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* European dewberry I</other_info>
+  <description>Shrubs, 0.5--3[--10] dm, armed. Stems &lt;biennial&gt;, creeping or arching then creeping, glabrous or hairy, eglandular or sparsely sessile- to short-stipitate-glandular, strongly pruinose; prickles sparse to dense, erect to retrorse, slender, 1--3 mm, narrow- or broad-based. Leaves deciduous, ternate; stipules linear-lanceolate to ovate, 5--15 mm; terminal leaflets ovate, 4--14 x 3--10 cm, base rounded to shallowly cordate, unlobed or shallowly lobed, margins coarsely serrate to doubly serrate, apex acute to acuminate, abaxial surfaces with prickles on midveins or unarmed, sparsely to moderately hairy, eglandular or sparsely short-stipitate-glandular along larger veins. Inflorescences terminal &lt;on short shoot, usually appearing axillary&gt;, 1--6-flowered, solitary flowers, cymiform, or racemiform. Pedicels unarmed or prickles sparse to dense, erect to retrorse, densely hairy, sparsely to densely sessile- to short- or long-stipitate-glandular. Flowers bisexual; petals white, obovate to elliptic or suborbiculate, 7--13 mm; filaments filiform; ovaries glabrous. Fruits appearing bluish, black beneath bloom, &lt;pruinose&gt;, globose, 0.5--1.5 cm; drupelets 1--5(--20), weakly coherent, separating with torus attached. 2n = 28.</description>
+  <phenology_info>
+    <text>Flowering May--Oct.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+    <phenology>aug</phenology>
+    <phenology>sep</phenology>
+    <phenology>oct</phenology>
+  </phenology_info>
+  <habitat>open woodlands</habitat>
+  <habitat>meadows</habitat>
+  <habitat>roadsides</habitat>
+  <habitat>disturbed areas</habitat>
+  <elevation>0--400 m;</elevation>
+  <introduced>introduced;</introduced>
+  <ca_distribution>Ont.</ca_distribution>
+  <us_distribution>Iowa</us_distribution>
+  <us_distribution>Ky.</us_distribution>
+  <us_distribution>Mich.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <us_distribution>Ohio</us_distribution>
+  <us_distribution>Pa.</us_distribution>
+  <global_distribution>Europe</global_distribution>
+  <global_distribution>w</global_distribution>
+  <global_distribution>c Asia (to w China)</global_distribution>
+  <global_distribution>introduced also in South America (Argentina).</global_distribution>
+  <discussion>Within the flora area, Rubus caesius usually produces fruit with few, relatively large drupelets; in Eurasia, fruit with more drupelets are typical, and weakly pruinose fruit have been observed.</discussion>
+  <discussion>Rubus caesius is vegetatively similar to R. flagellaris and is introduced into parts of the geographic range of the latter; see M. P. Widrlechner (1998) for a comparison of these two species. Rubus caesius shows striking vegetative similarity to pruinose, trifoliate-leaved plants of R. ursinus, with which it may have a close relationship (L. Alice, unpubl.). In the absence of flowers or fruit, these two species could be mistaken for one another. Rubus caesius generally has broader middle primocane leaflets than R. ursinus, but that is not a consistent difference. Rubus caesius may have been introduced into the geographic range of R. ursinus; most herbarium specimens surveyed have been inadequate to make a proper determination. On specimen labels, herbarium collectors should describe at least the color of the fruit. In the last decade, R. caesius apparently has become much more aggressive around Ithaca, New York, despite occurring there since the early twentieth century (F. Robert Wesley, pers. comm.).</discussion>
+</treatment>
+

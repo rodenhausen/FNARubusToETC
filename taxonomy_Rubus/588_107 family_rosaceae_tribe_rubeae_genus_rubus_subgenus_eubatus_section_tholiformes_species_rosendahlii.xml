@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>rosendahlii</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species rosendahlii;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(for its discoverer, carl otto rosendahl, 1875-)</other_name>
+  <number>107</number>
+  <description>Doming, up to 5 dm. high, slender; primocanes 3-4 mm. thick, with very remote slenderly deltoid-subulate prickles about 2 mm. long; primocane-leaves 3-foliolate, the broad leaflets abruptly short-acuminate, glabrous or slightly pubescent beneath; terminal leaflet broadly oval, usually more than half as wide as long, finely double-serrate; floricane-leaflets small, those of 3-foliolate bracts obovate, the simple upper bracts ovate and acute; racemose corymb with smooth axis and naked pedicels; calyx-lobes 5 mm. long, smoothish, soon reflexed; petals narrowly oblong, 8-9mm. long; fruit subglobose, 8 mm. in diameter.</description>
+  <habitat_elevation_distribution_or_ecology>Sandy soil, se. Minn. Fl. June; fr. July.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

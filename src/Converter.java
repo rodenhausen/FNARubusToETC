@@ -18,7 +18,7 @@ public class Converter {
 	 * @throws IOException 
 	 */
 	public static void main(String[] args) throws JDOMException, IOException {
-		File input = new File("transformed");
+		File input = new File("taxonomy_Rubus");
 		for(File file : input.listFiles()) {
 			FileConverter fileConverter = new FileConverter();
 			fileConverter.convert(file, new File("output" + File.separator + file.getName()));

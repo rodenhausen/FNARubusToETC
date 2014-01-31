@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>injunctus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species injunctus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(not united, because it "strongly suggests" another species "but distinguishes itself by" stated characters)</other_name>
+  <number>27</number>
+  <description>Slender trailer, the canes 2.5-4 mm. thick, with straightish retrorse slender prickles about 3.5 mm. long; primocane-leaves 5-foliolate, soft-pilose beneath; the leaflets caudate-acuminate, finely double-serrate, the terminal long-petiolulate leaflet elliptic-oval; terminal acute floricane-leaflet narrowly rhombic-obovate; corymbs 2-5-flowered, the pilose or villous erect pedicels mostly much longer than their subtending bracts; petals oblanceolate, distant, 5 or 6 mm. broad.</description>
+  <habitat_elevation_distribution_or_ecology>Rocky slopes, n. W.Va.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

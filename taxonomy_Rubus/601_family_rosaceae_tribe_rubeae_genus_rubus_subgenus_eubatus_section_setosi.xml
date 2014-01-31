@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <section_name>setosi</section_name>
+    <section_authority>bailey</section_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section setosi;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(see p. 823)</other_name>
+  <key>
+    <key_heading>Key 37</key_heading>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Lower surfaces of leaflets glabrous (except for pilosity on veins)2</statement>
+      <next_statement_id>2</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Primocanes bearing hundreds or thousands of spreading to reflexed essentially uniform soft bristles per dm., these not stiff and resistant to the touch3.</statement>
+      <next_statement_id>3</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Leaflets of floricane-leaves acute or subacute, not broadly rounded at summit.</statement>
+      <next_statement_id>15</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>15</statement_id>
+      <statement>Terminal primocane-and floricane-leaflets one-third to three-fifths as broad as long</statement>
+      <determination>120. R. setosus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>15</statement_id>
+      <statement>Terminal primocane-and floricane-leaflets three-fourths as broad as long</statement>
+      <determination>121. B. Lawrencei.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Leaflets of floricane-leaves broadly rounded at summit</statement>
+      <determination>122. R. rotundior.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Primocanes bearing some hard and piercing slenderly subulate prickles, either by themselves or mixed with glands and fine bristles4.</statement>
+      <next_statement_id>4</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Axis of primocane with more or less crowded prickles and bristles (and often glands), 200-1000 or more per dm. ; these or their scars mostly evident on floricanes5.</statement>
+      <next_statement_id>5</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>5</statement_id>
+      <statement>Pedicels and axis of inflorescence copiously long-setose with firm gland-less prickles and few or no intermixed glands; wide-ranging northeastward</statement>
+      <determination>123. R. Groutianus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>5</statement_id>
+      <statement>Pedicels and axis of inflorescence copiously glandular; West Virginian6</statement>
+      <next_statement_id>6</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>6</statement_id>
+      <statement>Inflorescence strongly corymbiform; pedicels armed with long flexuous gland-tipped hairs</statement>
+      <determination>124. R. discretus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>6</statement_id>
+      <statement>Inflorescence a simple raceme; pedicels heavily glandular but scarcely bristly.</statement>
+      <next_statement_id>16</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>16</statement_id>
+      <statement>Primocane-leaflets lance-attenuate, less than half as broad as long; pedicels mostly subtended by leafy bracts</statement>
+      <determination>125. R. angustifoliatus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>16</statement_id>
+      <statement>Primocane-leaflets ovate to elliptic-obovate, more than half as broad as long, abruptly tipped; pedicels mostly subtended by stipule-like bracts</statement>
+      <determination>126. R. nocivus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Axis of primocane with fewer (3-150 per dm.) scattered or remote uniform prickles, these (except in no. 128) not mixed with shorter bristles and stipitate glands7.</statement>
+      <next_statement_id>7</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>7</statement_id>
+      <statement>Terminal primocane-leaflet ovate, ovate-lanceolate or ovate-oblong, two-fifths to three-fifths as broad as long, tapering to acuminate tip; inflorescence racemose to corymbiform.</statement>
+      <next_statement_id>17</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>17</statement_id>
+      <statement>Axis of primocane, petioles and axis of inflorescence glandless or essentially so; pedicels glandless or only sparsely glandular; wide-ranging northward</statement>
+      <determination>127. R. vermontanus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>17</statement_id>
+      <statement>Axis of primocane, petioles, petiolules, axis of inflorescence and pedicels copiously glandular; northwestern 128</statement>
+      <determination>R. regionalis.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>7</statement_id>
+      <statement>Terminal primocane-leaflet broadly obovate, abruptly short-tipped, three-fourths to four-fifths as broad as long; inflorescence broadly corymbose.</statement>
+      <next_statement_id>18</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>18</statement_id>
+      <statement>Axis of inflorescence and pedicels long-setose; lower bracteal leaves simple, narrowly oblong to lanceolate and jagged-toothed; mid-western</statement>
+      <determination>129. R. Wheeleri.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>18</statement_id>
+      <statement>Axis of inflorescence and pedicels mostly unarmed; lower bracts broadly ovate, regularly serrate; northeastern</statement>
+      <determination>130. R. univocus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Lower surfaces of leaflets soft-pilose to subvelutinous to touch; prickles or bristles of primocanes scattered, 25-200 per dm. (1000 or more and closely crowded only in no. 132 with stipitate glands intermixed)8</statement>
+      <next_statement_id>8</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>8</statement_id>
+      <statement>Primocanes and main axes of flowering branchlets glandless or essentially so (except in no. 138)9.</statement>
+      <next_statement_id>9</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>9</statement_id>
+      <statement>Principal leaflets of primocane tapering to acute to long-acuminate tips; leaflets of upper leaves of flowering shoots or lower bracteal leaves mostly acute10.</statement>
+      <next_statement_id>10</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>10</statement_id>
+      <statement>Prickles of primocane acicular to slenderly subulate, mostly 3-5 mm. long and less than 1.5 mm. broad at base11.</statement>
+      <next_statement_id>11</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>11</statement_id>
+      <statement>Pedicels glandless or essentially so12.</statement>
+      <next_statement_id>12</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>12</statement_id>
+      <statement>Inflorescence definitely overtopping the basal foliaceous bracts or the uppermost leaves13.</statement>
+      <next_statement_id>13</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>13</statement_id>
+      <statement>Axis of inflorescence prickleless; pedicels prickleless or merely with fine setae mostly less than 1 mm. long.</statement>
+      <next_statement_id>19</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>19</statement_id>
+      <statement>Leaflets of primocane with broad-based acumination 5-12  long; leaflets of bracteal leaves merely acute or acutish; inflorescence strongly overtopping the bracteal leaves; petals 3-5 mm. broad; plant of s. N.E., s. N.Y. and e. Pa. 131. R. semisetosus.</statement>
+      <next_statement_id>19</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>19</statement_id>
+      <statement>Leaflets of primocane narrow-based, subcaudate tip 1-1.5 cm. long; leaflets of bracteal leaves long-acuminate; inflorescence but slightly overtopping bracteal leaves; petals 5-8 mm. broad; plant of N.S. and se. Me</statement>
+      <determination>132. R.  ortivus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>13</statement_id>
+      <statement>Axis of inflorescence and pedicels prickly with stiff bristles 2-3 mm. long; mid western.</statement>
+      <next_statement_id>20</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>20</statement_id>
+      <statement>Inflorescence leafy-bracted at base; pedicels strongly ascending, the lower ones 4-6 or more cm. long</statement>
+      <determination>133. R. dissensus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>20</statement_id>
+      <statement>Inflorescence without leafy bracts; pedicels divergent, up to 2 cm. long</statement>
+      <determination>134. R. Schneideri.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>12</statement_id>
+      <statement>Inflorescence nearly or quite equaled or overtopped by the leafy bracts or upper leaves14.</statement>
+      <next_statement_id>14</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>14</statement_id>
+      <statement>Axis of inflorescence prickleless or with rare and tiny setae; pedicels 1-2 cm. long; principal leaves of flowering shoot with sharply acute leaflets.</statement>
+      <next_statement_id>21</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>21</statement_id>
+      <statement>Prickles of primocane very remote, 25-40 per dm., acicular.</statement>
+      <next_statement_id>25</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>25</statement_id>
+      <statement>Inflorescence with several leafy bracts, largely overtopped by them; plant of N.S. and e. Me</statement>
+      <determination>132. R. ortivus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>25</statement_id>
+      <statement>Inflorescence without leafy bracts rising beyond petiole of the upper leaf; Midwestern</statement>
+      <determination>135. R. mediocris.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>21</statement_id>
+      <statement>Prickles of primocane 100-300 per dm., unguiculate; inflorescence leafy-bracted; western</statement>
+      <determination>136. R. uniformis.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>14</statement_id>
+      <statement>Axis of inflorescence or pedicels more or less prickly with setae up to 2 or 3 mm. long (or prickleless); inflorescence leafy-bracted at base; pedicels 1.5-6 cm. long; principal leaves of flowering shoot with blunt or merely subacute leaflets; eastern</statement>
+      <determination>137. R. hispidoides.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>11</statement_id>
+      <statement>Pedicels copiously stipitate-glandular.</statement>
+      <next_statement_id>22</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>22</statement_id>
+      <statement>Prickles of primocane weak and bristleform; axis of inflorescence and petioles of bracteal leaves stipitate-glandular; plant of n. New England</statement>
+      <determination>138. R. perinvisus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>22</statement_id>
+      <statement>Prickles of primocane hard, subulate-unguiculate; axis of inflorescence and petioles of bracteal leaves glandless; plant of se. Pennsylvania</statement>
+      <determination>139. R. Benneri.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>10</statement_id>
+      <statement>Prickles of primocane hard and subulate, many of them 6-9 mm. long and with bases 2-3 mm. broad; inflorescence prickless or only sparsely setose; plant of s. New England</statement>
+      <determination>140. R. ascendens.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>9</statement_id>
+      <statement>Principal leaflets of primocanes barely subacute or abruptly short-tipped; leaflets of flowering shoots blunt or merely acutish.</statement>
+      <next_statement_id>23</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>23</statement_id>
+      <statement>Axis of inflorescence and long (up to 3 cm.) pedicels prickleless; eastern. 141. R. Clausenii.</statement>
+      <next_statement_id>23</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>23</statement_id>
+      <statement>Axis of inflorescence and short (up to 1.5 cm.) pedicels prickly; mid-western 142</statement>
+      <determination>R. jejunus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>8</statement_id>
+      <statement>Primocanes and main axes of flowering branches stipitate-glandular.</statement>
+      <next_statement_id>24</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>24</statement_id>
+      <statement>Canes densely covered with thousands of closely crowded slender bristles and glands per dm.; inflorescence with several foliaceous bracts, the leaflets or simple blades half as broad as long; plant of centr. New York</statement>
+      <determination>143. R. beatus.</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>24</statement_id>
+      <statement>Canes with 100-200 firm subulate subremote prickles per dm.; inflorescence with leafy bract only at base, its leaflets a third to two-fifths as broad as long; West Virginian</statement>
+      <determination>144. R. racemiger.</determination>
+    </key_statement>
+  </key>
+</treatment>
+

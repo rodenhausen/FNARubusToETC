@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>nuperus</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section alleghenienses;species nuperus;</taxon_hierarchy>
+  </taxon_identification>
+  <number>162</number>
+  <description type="morphology">Resembling strong and tall much-branched states of no. 154, up to 3 m. high and diffusely branched and tangled; the primocane with numerous stipitate glands and remote deltoid-subulate hard prickles; petiole and petiolules of primocane-leaves stipitate-glandular, the terminal ovate acuminate leaflet rounded at base; bracts of cylindric raceme with acuminate leaflets; calyx-lobes lance-attenuate; petals 1-1.2 cm, long.</description>
+</treatment>
+

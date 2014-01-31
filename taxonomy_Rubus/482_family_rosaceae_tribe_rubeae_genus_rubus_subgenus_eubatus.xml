@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <subgenus_name>eubatus</subgenus_name>
+    <subgenus_authority>focke *</subgenus_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(see p. 819)blackberries, murier (que.)</other_name>
+  <key>
+    <key_heading>Key 32</key_heading>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Inflorescence a terminal panicle, its branches and pedicels strongly armed with stout and firm flat prickles; plants coarse, trailing, reclining, arching or climbing, the crowns often perennial; the strongly branching canes with flattened prickles.</statement>
+      <next_statement_id>9</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>9</statement_id>
+      <statement>Leaves white-felted beneath; leaflets not deeply dissected; calyx-lobes unarmed, without long appendages; petals uncleft</statement>
+      <determination>Section 3. DISCOLORES (see p. 824).</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>9</statement_id>
+      <statement>Leaves greenish or but slightly grayish beneath; leaflets cleft into lacerate segments; calyx-lobes prickly, with prolonged appendages; petals 3-lobed. Section 4. SYLVATICI (seep. 824).</statement>
+      <next_statement_id>1</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Inflorescence of 1 — many flowers, if several-flowered corymbose, cymose or racemose, if slightly paniculate without strong prickles on the pedicels; crowns and canes biennial; prickles terete2.</statement>
+      <next_statement_id>2</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Floricanes and mature primocanes habitually trailing, creeping, low-arching or forming domes (care is necessary to exclude normally ascending species with floricanes depressed through weight of snow); tips of primocanes or their branches prolonging along surface of ground, commonly tip-rooting; flowers in corymbs or short racemes or solitary3.</statement>
+      <next_statement_id>3</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Floricanes and mature primocanes trailing or very low-arching and trailing, the flowering shoots erect or suberect from the prostrate floricane, the branching thus appearing unilateral4.</statement>
+      <next_statement_id>4</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Primocanes and usually floricanes with strong mostly scattered prickles5</statement>
+      <next_statement_id>5</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>5</statement_id>
+      <statement>Leaves somewhat evergreen, persistent over winter, coriaceous, glabrous; leaflets lanceolate to oblong, those of primocanes only 1-3 cm. broad; primocanes slender, terete, bearing glandular bristles among the hard curved prickles; pedicels glabrous except for the glandular bristles; plants of S. Coastal Plain.  Section 5. VEROTRIVIALES (see p. 824).</statement>
+      <next_statement_id>5</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>5</statement_id>
+      <statement>Leaves deciduous (evergreen in some members of Section Hispidi with broad leaflets and pilose pedicels), glabrous or pubescent beneath; leaflets of primocanes ovate, elliptic, rhombic or obovate, mostly broader; primocanes angled or corrugated or, if terete, not glandular; pedicels mostly pubescent.</statement>
+      <next_statement_id>10</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>10</statement_id>
+      <statement>Canes with whitish bloom, terete, with prickles not restricted to the angles; fruit with a bloom Section 6</statement>
+      <determination>TRIVIALES (see p. 825).</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>10</statement_id>
+      <statement>Canes becoming ligneous, without bloom, the stronger ones angled, with prickles mostly along the angles; longer pedicels (0.5-)3-12 cm. long; calyx-lobes (excluding terminal slender beak-like tip sometimes present) 4-12 mm. long; petals 1-2.5 cm. long, 3-18 mm. broad, usually one-half to three-fourths as broad as long; flowers mostly from mid-April to early July; fruit without bloom, juicy and mostly of rich flavor, early-ripening (mostly mid-May to Aug.), 1-2 cm. in diameter</statement>
+      <determination>Section 7. FLAGELLARES (see p. 825).</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Primocanes and closely trailing floricanes hispid or bristly, often over the surfaces, without any or many strong prickles; longest pedicels 0.5-rarely 4 cm. long; calyx-lobes 2.5-6 mm. long; petals 5-12 mm. long, 2-6 mm. broad, mostly much less than half as wide as long; flowers mostly from late May to early Sept.; fruit late-ripening (mostly from mid-Aug. to Oct.), 6-15 mm. in diameter, mostly sour or inferior.8. HISPIDI (see p. 834).</statement>
+      <next_statement_id>3</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Primocanes and usually the floricanes doming or high-arching 0.5-2 m. or more above surface of ground, the tips of branches of the former soon reaching the ground and then trailing and often tip-rooting; flowers mostly from April — Aug.; longer pedicels 0.5-8 cm. long; calyx-lobes 3-12 mm. long; petals 5-15 mm. long, 2-10 mm. broad; fruit inferior to rich and juicy, promptly ripening (ripe from June to early Sept.), 0.6-2 cm. in diameter</statement>
+      <determination>Section 9. THOLIFORMES (see p. 838).</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Floricanes and primocanes erect to arched-ascending or becoming depressed over winter, not usually tip-rooting nor with trailing tips; inflorescences racemiform or corymbiform6.</statement>
+      <next_statement_id>6</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>6</statement_id>
+      <statement>Canes and other parts bearing bristles or slender prickles and usually no broad-based claw-like prickles, the canes 0.2-1.5 m. high (rarely taller); leaflets mostly plicate, not very flat; inflorescences corymbiform to short-racemiform; calyx-lobes with blades 3-7.5 mm. long; petals 0.7-1.5 cm. long, 2-8 mm. broad; relatively low soft-stemmed or barely ligneous shrubs with inferior subglobose fruit 0.7-1.5 cm. in diameter; mostly northward; flowers mid-June-mid-Aug.; fruit late July-Sept</statement>
+      <determination>Section 10. SETOSI   (see p. 846).</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>6</statement_id>
+      <statement>Canes not bristly, either bearing broad-based and often hooked prickles or prickleless; the floricanes subligneous and dark-barked, of medium height to tall; inflorescences racemose or corymbiform; fruit usually of good to superior quality7.</statement>
+      <next_statement_id>7</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>7</statement_id>
+      <statement>Primocanes closely canescent-pilose, relatively low, stiff and rigidly prickly; leaflets white-or gray-tomentulose beneath, firm to sub-coriaceous, those of primocanes mostly only 3-10 cm. long and obtuse to short (not long) -acuminate; flowers 1-few in leafy-bracted cymes, in latest spring and early summer; fruit from June-Sept.; section of southern range</statement>
+      <determination>Section 11. CUNEIFOLII   (see p. 851).</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>7</statement_id>
+      <statement>Primocanes not closely canescent-pilose, of low or medium to tall stature and diverse habit; leaflets green to grayish naceous, the terminal ones of primocanes mostly longer and often acuminate; flowers in racemes or corymbs, mostly earlier than in Section 118.</statement>
+      <next_statement_id>8</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>8</statement_id>
+      <statement>Canes glabrous or essentially so, without or with some straight prickles; leaves glabrous above, green and glabrous or but slightly pubescent beneath (not velvety to touch); rachis of inflorescence and pedicels smooth or nearly so, without glands; flowers in June and July; fruit ripe in Aug. and early Sept.; northern and montane</statement>
+      <determination>Section 12. CANADENSES (see p. 852).</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>8</statement_id>
+      <statement>Canes more or less pubescent when young, or glabrous, mostly with strong and hooked or broad-based prickles; leaves pubescent on one or both surfaces; rachis and pedicels mostly pubescent or glandular; wide-ranging sections.</statement>
+      <next_statement_id>11</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>11</statement_id>
+      <statement>Inflorescence and young parts conspicuously stipitate-glandular; primary inflorescence a definite elongate raceme or a corymbiform (or sometimes subpaniculate) raceme; flowers May-July; fruit Aug., Sept</statement>
+      <determination>Section 13. ALLEGHENIENSES (see p. 853).</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>11</statement_id>
+      <statement>Inflorescence and young growth glandless (rarely with few inconspicuous glands); inflorescences short-racemose or Corymbiform; flowers late April-mid-July; fruit June-Sept. (-Oct.)</statement>
+      <determination>Section 14.ARGUTI (see p. 856).</determination>
+    </key_statement>
+  </key>
+</treatment>
+

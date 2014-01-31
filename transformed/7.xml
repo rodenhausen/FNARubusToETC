@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>3.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>bartonianus</species_name>
+    <species_authority>M. Peck</species_authority>
+    <place_of_publication>
+      <publication_title>Rhodora</publication_title>
+      <place_in_publication>36: 267. 1934</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species bartonianus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Barton’s raspberry CE</other_info>
+  <description>Shrubs, 8--25 dm, unarmed. Stems erect, sparsely short-hairy, glabrescent, eglandular, not pruinose. Leaves deciduous, simple; stipules lanceolate, 4--6 mm; blade cordate to broadly ovate, (2--)2.5--4(--5) x (2.5--)3.5--4.5(--5.5) cm, base deeply cordate, 3--5-lobed, lobe apices acute to obtuse, margins coarsely doubly dentate, abaxial surfaces glabrous or sparsely hairy, eglandular or sparsely stipitate-glandular. Inflorescences 1-flowered. Pedicels moderately hairy, eglandular or sparsely stipitate-glandular. Flowers bisexual; petals white, obovate, (15--)20--25 mm; filaments filiform; ovaries glabrous, &lt;styles villous&gt;. Fruits deep red, hemispheric, to 1 cm; drupelets 10--30, coherent, separating from torus.</description>
+  <phenology_info>
+    <text>Flowering Mar--May.</text>
+    <phenology>mar</phenology>
+    <phenology>apr</phenology>
+    <phenology>may</phenology>
+  </phenology_info>
+  <habitat>dry, rocky slopes</habitat>
+  <conservation>of conservation concern;</conservation>
+  <elevation>300--400 m;</elevation>
+  <us_distribution>Idaho</us_distribution>
+  <us_distribution>Oreg.</us_distribution>
+  <discussion>Rubus bartonianus is distinguished from the other flowering raspberries within its geographic range by its erect, unarmed stems, relatively small, simple leaves with acute to obtuse lobes, deeply cordate bases, sparsely hairy or glabrous abaxial surfaces, relatively large flowers with white petals, and densely long-hairy, clavate styles. The leaves superficially resemble those of Acer glabrum or some species of Ribes.</discussion>
+  <discussion>Rubus bartonianus is most similar to R. neomexicanus but especially R. deliciosus. The species is known only from the Snake River Canyon of Idaho and Oregon.</discussion>
+</treatment>
+

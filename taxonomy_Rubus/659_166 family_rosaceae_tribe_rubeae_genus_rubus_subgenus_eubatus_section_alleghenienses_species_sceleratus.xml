@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>sceleratus</species_name>
+    <species_authority>brainerd</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section alleghenienses;species sceleratus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(vicious or accursed)</other_name>
+  <number>166</number>
+  <description>Strong, high-arching, freely forking, making intricately entangled domes 1.8-3 m. high; primocanes closely armed with broad-based deltoid-subulate fulvous prickles (2-4 mm. broad at base) intermixed with more slenderly subulate prickles and stipitate glands; primocane-leaves with similarly armed petioles and petiolules; the ovate acuminate coarsely double-toothed leaflets glabrous above, fulvous-tomentose beneath; the midrib beneath spreading-villous, coarsely prickly and glandular; inflorescence a very leafy corymbiform raceme or open panicle, with mostly forking ascending branches, the axis and branches or pedicels armed with firm setae; calyx-lobes ovate-lanceolate; fruit subglobose about 8 mm. in diameter.</description>
+  <habitat_elevation_distribution_or_ecology>Clearings, terraces of Androscoggin R., ne. N.H.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

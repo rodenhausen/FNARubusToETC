@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>flavinanus</species_name>
+    <species_authority>blanch,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section alleghenienses;species flavinanus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(yellowish and small)</other_name>
+  <number>156</number>
+  <description>Slender primocanes 4-9 dm. high, yellowish, glabrous, their median and upper internodes bearing 100-200 acicular often hooked prickles per dm.; primocane-leaves yellow-green, 5-foliolate, glabrous above, pale and velvety beneath; petiole, petiolules and midribs beneath strongly armed; leaflets lanceolate to lance-ovate, coarsely and subsimply incised-serrate, subcuneate toward base; terminal leaflet 7-10 cm. long, 3-4.5 cm, broad, long-acuminate; racemes cylindric, often branching near base, the densely villous rachis and pedicels copiously stipitate-glandular, the longer simple pedicels 2-3 cm. long; calyx-lobes narrowly lanceolate and prolonged; peta ls about 1.2 cm. long, 4-6 mm, broad; fruit small and inferior.</description>
+  <habitat_elevation_distribution_or_ecology>Dry upland (at about 550 m.), Windham Co., Vt. Fl. June; fr. Aug.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

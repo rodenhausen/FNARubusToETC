@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>imperiorum</species_name>
+    <species_authority>fern,</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species imperiorum;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(of the dominions)</other_name>
+  <number>54</number>
+  <description>In habit, stout canes, prickles and pubescence like no. 52; broad primocane-leaflets coarsely dentate, the dentations 3-5 mm. long and broad, the terminal petiolule 3-3.5 cm. long; floricane-leaflets lobulate-dentate, the low rounded teeth 3-7 mm. long and 4-6 mm. broad, the terminal leaflet and simple bracts broadly rhombic; leafy corymb 2-8-flowered; petals 1.2 cm. long, 8 mm. broad; fruit 1.2 cm. in diameter.</description>
+  <habitat_elevation_distribution_or_ecology>Grassy borders of pine-woods, se. Va. Fl. April, early May; fr. June.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

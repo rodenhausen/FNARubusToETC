@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <genus_authority>l.</genus_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>bramble</other_name>
+  <number>19</number>
+  <description>Calyx 5(3-7)-parted, without bractlets. Petals mostly 5, deciduous. Stamens numerous. Carpels usually many, collected on a spongy or succulent receptacle, becoming small drupelets; styles nearly terminal. — Perennial herbs, or more often somewhat shrubby often prickly plants of N.  Hemisph. and mts. of S. Am., with white (rarely reddish) flowers, and usually edible fruit. (The Roman name, kindred with ruber, red.)</description>
+  <key>
+    <key_heading>Key 27</key_heading>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Unarmed; leaves simple or pedately 3 -or 5-foliolate.</statement>
+      <next_statement_id>2</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Flowering stems herbaceous, 0.1-4 dm. high, very slender, arising from creeping subterranean or superficial prolonged bases; leaves 3-or 5-foliolate or if simple only 1-3 and the solitary flowers dioecious.</statement>
+      <next_statement_id>3</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Leaves suborbicular, simple; flowers solitary, terminal, dioecious; calyx cleft nearly to base into ovate short-tipped lobes; petals white, spreading; mature fruit amber-color, becoming yellowish, when fully ripe dropping quickly from the dry receptacle</statement>
+      <determination>Subgen. I. CHAMAEMORUS (see p. 819).</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>3</statement_id>
+      <statement>Leaves 3-5-foliolate; flowers 1-7, some or all hermaphrodite; calyx cleft partly to base, with linear lobes; petals erect, white to roseate; fruit red, only tardily separating from the spongy receptacle</statement>
+      <determination>Subgen. II. CYLACTIS (see p. 819).</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>2</statement_id>
+      <statement>Shrubby, the leafy stems mostly 1-2 m. high, from close crowns; leaves simple, lobed; calyx-lobes caudate-tipped; petals broad, spreading; fruit depressed, readily falling from the dry receptacle</statement>
+      <determination>Subgen. III. ANAPLOBATUS (see p. 820).</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>1</statement_id>
+      <statement>Armed with prickles or bristles (unarmed in a few species); canes slightly woody, annual, biennial or of few years duration; leaves mostly compound (simple in rare cases); fruit subglobose to elongate.</statement>
+      <next_statement_id>4</next_statement_id>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Leaves of both primocanes (1st year's canes) and fruiting canes (floricanes) pinnate or simple; fruit readily falling intact from the dry receptacle, red or black</statement>
+      <determination>Subgen. IV. IDAEOBATUS (see p. 820).</determination>
+    </key_statement>
+    <key_statement>
+      <statement_id>4</statement_id>
+      <statement>Leaves of primocanes digitately 3-7-foIiolate; flowers in racemes, panicles or corymbs or solitary; petals showy, wide-spreading; fruit tardily separating from the fleshy receptacle (often drying without falling), usually falling intact, black or blackish</statement>
+      <determination>Subgen. V. EUBATUS (see p. 822).</determination>
+    </key_statement>
+  </key>
+</treatment>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>whartoniae</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species whartoniae;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(named in 1943 for its discoverer, mary e. wharton)</other_name>
+  <number>45</number>
+  <description>Habitally similar to no. 44; prickles stouter; primocane-leaflets coarsely dentate, the terminal one with about 25 broad-based low simple or slightly notched teeth; flowers 3-5, much overtopping bracteal leaves; petals 5-7 mm. broad.</description>
+  <habitat_elevation_distribution_or_ecology>Dry shaly soil, e. Ky.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

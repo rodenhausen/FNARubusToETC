@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>
+      <author>Gray</author>
+      <date>1950</date>
+    </source>
+    <processed_by>
+      <processor>
+        <date>2014/01/30 14:07:49</date>
+        <software type="format_conversion" version="f0a80a8516a06e51224d01314403eb26d60f881d">Text2XML</software>
+        <operator>Hong, Cui</operator>
+      </processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>conabilis</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section flagellares;species conabilis;</taxon_hierarchy>
+  </taxon_identification>
+  <number>49</number>
+  <description type="morphology">Strongly woody canes 4-5 mm. thick, freely branching, with 60-100 or more strong straight prickles (up to 8 mm, long) per dm.; petioles very prickly; primocane-leaflets acuminate from above the middle, strongly ribbed, soft-pilose beneath, the terminal one ovate and broadly rounded at base; flowering shoot and arched-ascending to spreading pedicels (up to 2.8 cm. long) very prickly, the upper pedicels much exceeding their bracts; fruit 1-1.5 cm. long.</description>
+</treatment>
+

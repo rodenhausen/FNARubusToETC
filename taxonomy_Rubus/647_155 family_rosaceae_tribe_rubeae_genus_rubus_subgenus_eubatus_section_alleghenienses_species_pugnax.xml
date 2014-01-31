@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>pugnax</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section alleghenienses;species pugnax;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(pugnacious)</other_name>
+  <number>155</number>
+  <description>Differing from coarser states of no. 154 in having the lower half of the glabrous primocanes with crowded or confluent subdeltoid hard prickles, the larger ones 5-9 mm. broad at base; petioles, petiolules and midribs (beneath) of primocane-foliage copiously prickly, the margins of the leaflets with mostly simple teeth; racemes 0.5-1 dm. long.</description>
+  <habitat_elevation_distribution_or_ecology>Upland pastures, Hartford Co., Ct.; reports from e. Mass. to centr.-w. N.Y. need confirmation.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

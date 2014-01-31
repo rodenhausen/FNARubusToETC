@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>vegrandis</species_name>
+    <species_authority>bailey</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section hispidi;species vegrandis;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(not very large)</other_name>
+  <number>66</number>
+  <description>Similar to nos. 61 and 62, but canes with recurving subulate prickles, without bristles; leaves dull green, pubescent beneath; leaflets ovate, acute, sharply serrate, the larger one (at flowering stage) of the 3 primocane-leaflets 3 or 4 cm. long; pedicels sparsely spiculose and glandular; petals about 8 mm. long and 4-5 mm. broad.</description>
+  <habitat_elevation_distribution_or_ecology>Sandy soil, ne. W. Va.</habitat_elevation_distribution_or_ecology>
+</treatment>
+

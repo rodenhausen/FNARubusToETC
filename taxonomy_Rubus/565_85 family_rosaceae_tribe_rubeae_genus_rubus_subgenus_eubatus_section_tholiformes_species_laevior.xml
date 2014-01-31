@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <meta>
+    <source>Gray 1950</source>
+    <processed_by>
+      <processor process_type="format_conversion">Cui, Hong using Text2XML java application init commit r86, validated against beeSchema.xsd revision f0a80a8516a06e51224d01314403eb26d60f881d</processor>
+    </processed_by>
+  </meta>
+  <taxon_identification status="ACCEPTED">
+    <genus_name>rubus</genus_name>
+    <species_name>laevior</species_name>
+    <species_authority>(bailey) fern.</species_authority>
+    <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section tholiformes;species laevior;</taxon_hierarchy>
+  </taxon_identification>
+  <other_name>(smoother)</other_name>
+  <number>85</number>
+  <description>Low-arching or extensively creeping, tip-rooting; primocanes with scattered needle-like prickles, bristles and stipitate glands; primocane-foliage green on both sides; the 5 leaflets oblong to narrowly oval or barely obovate, acuminate, the terminal leaflets 6-9 cm. long and on glandless or very sparsely glandular petiolules 2.3-3.5 cm. long; primocane-foliage submembranaceous, with acuminate leaflets mostly 4-8 cm. long; inflorescence corymbose, corymbose-racemose or loosely cymose, the rachis, pedicels and calyces only minutely pilose to glabrescent; pedicels mostly 1.5-5 cm. long, setose; bladeless bracts linearlanceolate, entire; fruit slightly elongate, inferior.</description>
+  <habitat_elevation_distribution_or_ecology>Borders of dry shady woods, Barnstable Co., Mass. Fr. Aug.</habitat_elevation_distribution_or_ecology>
+  <description> </description>
+</treatment>
+

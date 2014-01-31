@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treatment>
+  <number>22.</number>
+  <TaxonIdentification Status="ACCEPTED">
+    <genus_name>Rubus</genus_name>
+    <species_name>odoratus</species_name>
+    <species_authority>Linnaeus</species_authority>
+    <place_of_publication>
+      <publication_title>Sp. Pl.</publication_title>
+      <place_in_publication>1: 494. 1753</place_in_publication>
+    </place_of_publication>
+    <taxon_hierarchy>genus Rubus;species odoratus;</taxon_hierarchy>
+  </TaxonIdentification>
+  <other_info>* Purple flowering raspberry , ronce odorante EF</other_info>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Rubacer</genus_name>
+    <species_name>odoratum</species_name>
+    <species_authority>(Linnaeus) Rydberg</species_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>Rubus</genus_name>
+    <species_name>odoratus</species_name>
+    <variety_name>albidus</variety_name>
+    <variety_authority>L. H. Bailey</variety_authority>
+  </TaxonIdentification>
+  <TaxonIdentification Status="SYNONYM">
+    <genus_name>R.</genus_name>
+    <species_name>odoratus</species_name>
+    <variety_name>columbianus</variety_name>
+    <variety_authority>Millspaugh</variety_authority>
+  </TaxonIdentification>
+  <description>Shrubs, 10--20 dm, unarmed. Stems erect, sparsely to moderately hairy, moderately to densely stipitate-glandular, &lt;glands dark purple&gt;, not pruinose. Leaves deciduous, simple; stipules lanceolate to ovate, 5--15 mm; blade subrotund to reniform, 9--20(--30) x (10--)15--25(--30) cm, base cordate, palmately, +/- deeply, (3--)5-lobed, margins finely, irregularly serrate to doubly serrate, apex acute to acuminate, abaxial surfaces sparsely to moderately hairy, sparsely to densely stipitate-glandular, &lt;glands dark purple&gt;. Inflorescences terminal and axillary, 4--7(--22)-flowered, cymiform to thyrsiform. Pedicels pubescent, moderately to densely stipitate-glandular, &lt;glands dark purple&gt;. Flowers bisexual; petals usually magenta, rarely white, broadly obovate to suborbiculate, (12--)17--25(--30) mm; filaments filiform; ovaries distally densely hairy, &lt;styles glabrous&gt;. Fruits pale to dark red, hemispheric, 0.7--1.5 cm; drupelets 30--60, coherent, separating from torus. 2n = 14.</description>
+  <phenology_info>
+    <text>Flowering May--Jul.</text>
+    <phenology>may</phenology>
+    <phenology>jun</phenology>
+    <phenology>jul</phenology>
+  </phenology_info>
+  <habitat>moist shady sites in deciduous forests</habitat>
+  <habitat>margins of woods</habitat>
+  <habitat>rocky slopes</habitat>
+  <habitat>wooded talus, stream banks</habitat>
+  <habitat>roadsides</habitat>
+  <elevation>10--1500 m;</elevation>
+  <ca_distribution>N.B.</ca_distribution>
+  <ca_distribution>Ont.</ca_distribution>
+  <ca_distribution>Que.</ca_distribution>
+  <us_distribution>Ala.</us_distribution>
+  <us_distribution>Conn.</us_distribution>
+  <us_distribution>Del.</us_distribution>
+  <us_distribution>D.C.</us_distribution>
+  <us_distribution>Ga.</us_distribution>
+  <us_distribution>Ill.</us_distribution>
+  <us_distribution>Ind.</us_distribution>
+  <us_distribution>Ky.</us_distribution>
+  <us_distribution>Maine</us_distribution>
+  <us_distribution>Md.</us_distribution>
+  <us_distribution>Mass.</us_distribution>
+  <us_distribution>Mich.</us_distribution>
+  <us_distribution>Mo.</us_distribution>
+  <us_distribution>N.H.</us_distribution>
+  <us_distribution>N.J.</us_distribution>
+  <us_distribution>N.Y.</us_distribution>
+  <us_distribution>N.C.</us_distribution>
+  <us_distribution>Ohio</us_distribution>
+  <us_distribution>Pa.</us_distribution>
+  <us_distribution>R.I.</us_distribution>
+  <us_distribution>Tenn.</us_distribution>
+  <us_distribution>Vt.</us_distribution>
+  <us_distribution>Va.</us_distribution>
+  <us_distribution>Wash.</us_distribution>
+  <us_distribution>W.Va.</us_distribution>
+  <us_distribution>Wis.</us_distribution>
+  <global_distribution>introduced in Europe.</global_distribution>
+  <discussion>Rubus odoratus is introduced in Washington state. The species is distinguished from other flowering raspberries by its erect, unarmed stems, simple leaves, large flowers, magenta petals, glabrous, clavate styles, and purple stipitate glands densely covering most plant parts. A hybrid with R. parviflorus (R. x\fraseri Rehder) is thought to occur in areas of overlap in northern Michigan (E. G. Voss 1985).</discussion>
+  <discussion>The Cherokee used leaf infusions for labor pains and the Iroquois used plant infusions for miscarriage (P. Bergner 1997). Rubus odoratus is grown as an ornamental for its relatively large flowers and magenta petals and its edible fruits that are somewhat dry and insipid.</discussion>
+</treatment>
+
