@@ -147,6 +147,11 @@ public class DescriptionNodeCreator {
 		distributionAbreviations.put("Pocono", "Pocono");
 		distributionAbreviations.put("Ct.", "Ct.");
 		distributionAbreviations.put("I.", "Island");
+		distributionAbreviations.put("Local", "Local");
+		distributionAbreviations.put("Local.", "Local.");
+		distributionAbreviations.put("local", "local");
+		distributionAbreviations.put("local.", "local.");
+		distributionAbreviations.put("Meherrin", "Meherrin");
 	}
 	
 	public List<Element> getNodes(List<Element> source) {
