@@ -1,6 +1,11 @@
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
@@ -25,9 +30,9 @@ public class FileConverter {
 	private List<Element> unusedElements = new LinkedList<Element>();
 	
 	public Document convert(File input, File output) throws JDOMException, IOException {
-		//System.out.println(input.getName());
+		System.out.println(input.getName());
 		SAXBuilder builder = new SAXBuilder();
-		Document inputDoc = (Document) builder.build(input);
+		Document inputDoc = (Document) builder.build(new InputStreamReader(new FileInputStream(input), "UTF8"));
 		Element inputRoot = inputDoc.getRootElement();
 		fillUnusedElements(inputRoot);
 		
@@ -46,7 +51,7 @@ public class FileConverter {
 		
 		XMLOutputter xmlOutput = new XMLOutputter();
 		xmlOutput.setFormat(Format.getPrettyFormat());
-		xmlOutput.output(outputDoc, new FileWriter(output));
+		xmlOutput.output(outputDoc, new OutputStreamWriter(new FileOutputStream(output), "UTF8"));
 		return outputDoc;
 	}
 
