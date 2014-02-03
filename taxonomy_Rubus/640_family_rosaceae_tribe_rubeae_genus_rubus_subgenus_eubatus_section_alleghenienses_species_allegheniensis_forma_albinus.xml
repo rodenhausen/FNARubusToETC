@@ -12,7 +12,6 @@
     <taxon_hierarchy>family rosaceae;tribe rubeae;genus rubus;subgenus eubatus;section alleghenienses;species allegheniensis;forma albinus;</taxon_hierarchy>
   </taxon_identification>
   <other_name>(albino),</other_name>
-  <description />
-  <habitat_elevation_distribution_or_ecology>scarce;</habitat_elevation_distribution_or_ecology>
+  <discussion>scarce;</discussion>
 </treatment>
 

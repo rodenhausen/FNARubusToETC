@@ -25,7 +25,7 @@ public class Converter {
 			
 			List<Element> unusedElements = fileConverter.getUnusedElements();
 			
-			System.out.println("unused elements in file " + file.getName());
+			//System.out.println("unused elements in file " + file.getName());
 			for(Element element : unusedElements) {
 				System.out.println(element.getName());
 			}

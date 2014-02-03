@@ -151,6 +151,8 @@ public class DescriptionNodeCreator {
 		distributionAbreviations.put("Local.", "Local.");
 		distributionAbreviations.put("local", "local");
 		distributionAbreviations.put("local.", "local.");
+		distributionAbreviations.put("locally", "locally");
+		distributionAbreviations.put("Locally", "Locally");
 		distributionAbreviations.put("Meherrin", "Meherrin");
 	}
 	

@@ -25,7 +25,7 @@ public class FileConverter {
 	private List<Element> unusedElements = new LinkedList<Element>();
 	
 	public Document convert(File input, File output) throws JDOMException, IOException {
-		System.out.println(input.getName());
+		//System.out.println(input.getName());
 		SAXBuilder builder = new SAXBuilder();
 		Document inputDoc = (Document) builder.build(input);
 		Element inputRoot = inputDoc.getRootElement();
